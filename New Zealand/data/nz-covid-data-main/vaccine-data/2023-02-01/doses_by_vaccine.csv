@@ -1,0 +1,54 @@
+Vaccine,Dose number,Ethnicity,Number of doses administered
+AstraZeneca,1,Maori,366
+AstraZeneca,1,Other,2841
+AstraZeneca,1,Pacific Peoples,112
+AstraZeneca,2,Maori,361
+AstraZeneca,2,Other,3038
+AstraZeneca,2,Pacific Peoples,249
+AstraZeneca,BOOSTER 1,Maori,101
+AstraZeneca,BOOSTER 1,Other,1691
+AstraZeneca,BOOSTER 1,Pacific Peoples,90
+AstraZeneca,BOOSTER 2,Maori,12
+AstraZeneca,BOOSTER 2,Other,160
+AstraZeneca,THIRD_PRIMARY,Other,22
+Novavax,1,Maori,198
+Novavax,1,Other,2183
+Novavax,1,Pacific Peoples,63
+Novavax,2,Maori,173
+Novavax,2,Other,2072
+Novavax,2,Pacific Peoples,49
+Novavax,BOOSTER,Other,6
+Novavax,BOOSTER 1,Maori,71
+Novavax,BOOSTER 1,Other,943
+Novavax,BOOSTER 1,Pacific Peoples,8
+Novavax,BOOSTER 2,Maori,78
+Novavax,BOOSTER 2,Other,1575
+Novavax,BOOSTER 2,Pacific Peoples,20
+Novavax,THIRD_PRIMARY,Other,32
+Paediatric Pfizer,1,Maori,42636
+Paediatric Pfizer,1,Other,202334
+Paediatric Pfizer,1,Pacific Peoples,24857
+Paediatric Pfizer,2,Maori,18790
+Paediatric Pfizer,2,Other,125665
+Paediatric Pfizer,2,Pacific Peoples,11109
+Paediatric Pfizer,BOOSTER 1,Other,20
+Paediatric Pfizer,THIRD_PRIMARY,Maori,9
+Paediatric Pfizer,THIRD_PRIMARY,Other,89
+Pfizer BioNTech COVID-19,1,Maori,526779
+Pfizer BioNTech COVID-19,1,Other,3220449
+Pfizer BioNTech COVID-19,1,Pacific Peoples,277834
+Pfizer BioNTech COVID-19,2,Maori,510176
+Pfizer BioNTech COVID-19,2,Other,3193637
+Pfizer BioNTech COVID-19,2,Pacific Peoples,274031
+Pfizer BioNTech COVID-19,BOOSTER,Maori,39
+Pfizer BioNTech COVID-19,BOOSTER,Other,422
+Pfizer BioNTech COVID-19,BOOSTER,Pacific Peoples,9
+Pfizer BioNTech COVID-19,BOOSTER 1,Maori,255259
+Pfizer BioNTech COVID-19,BOOSTER 1,Other,2340878
+Pfizer BioNTech COVID-19,BOOSTER 1,Pacific Peoples,155225
+Pfizer BioNTech COVID-19,BOOSTER 2,Maori,57869
+Pfizer BioNTech COVID-19,BOOSTER 2,Other,664042
+Pfizer BioNTech COVID-19,BOOSTER 2,Pacific Peoples,27019
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Maori,2418
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Other,27641
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Pacific Peoples,1135

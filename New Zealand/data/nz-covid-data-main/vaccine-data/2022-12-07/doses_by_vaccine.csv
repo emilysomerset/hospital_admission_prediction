@@ -1,0 +1,53 @@
+Vaccine,Dose number,Ethnicity,Number of doses administered
+AstraZeneca,1,Maori,365
+AstraZeneca,1,Other,2841
+AstraZeneca,1,Pacific Peoples,111
+AstraZeneca,2,Maori,359
+AstraZeneca,2,Other,3039
+AstraZeneca,2,Pacific Peoples,248
+AstraZeneca,BOOSTER 1,Maori,100
+AstraZeneca,BOOSTER 1,Other,1692
+AstraZeneca,BOOSTER 1,Pacific Peoples,90
+AstraZeneca,BOOSTER 2,Maori,12
+AstraZeneca,BOOSTER 2,Other,160
+AstraZeneca,THIRD_PRIMARY,Other,22
+Novavax,1,Maori,196
+Novavax,1,Other,2160
+Novavax,1,Pacific Peoples,61
+Novavax,2,Maori,171
+Novavax,2,Other,2041
+Novavax,2,Pacific Peoples,48
+Novavax,BOOSTER 1,Maori,65
+Novavax,BOOSTER 1,Other,852
+Novavax,BOOSTER 1,Pacific Peoples,6
+Novavax,BOOSTER 2,Maori,65
+Novavax,BOOSTER 2,Other,1367
+Novavax,BOOSTER 2,Pacific Peoples,14
+Novavax,THIRD_PRIMARY,Other,32
+Paediatric Pfizer,1,Maori,42504
+Paediatric Pfizer,1,Other,201592
+Paediatric Pfizer,1,Pacific Peoples,24782
+Paediatric Pfizer,2,Maori,18531
+Paediatric Pfizer,2,Other,124269
+Paediatric Pfizer,2,Pacific Peoples,10928
+Paediatric Pfizer,BOOSTER 1,Other,18
+Paediatric Pfizer,THIRD_PRIMARY,Maori,9
+Paediatric Pfizer,THIRD_PRIMARY,Other,84
+Pfizer BioNTech COVID-19,1,Maori,526171
+Pfizer BioNTech COVID-19,1,Other,3220504
+Pfizer BioNTech COVID-19,1,Pacific Peoples,277858
+Pfizer BioNTech COVID-19,2,Maori,509538
+Pfizer BioNTech COVID-19,2,Other,3193688
+Pfizer BioNTech COVID-19,2,Pacific Peoples,274008
+Pfizer BioNTech COVID-19,BOOSTER,Maori,15
+Pfizer BioNTech COVID-19,BOOSTER,Other,224
+Pfizer BioNTech COVID-19,BOOSTER,Pacific Peoples,6
+Pfizer BioNTech COVID-19,BOOSTER 1,Maori,254145
+Pfizer BioNTech COVID-19,BOOSTER 1,Other,2334510
+Pfizer BioNTech COVID-19,BOOSTER 1,Pacific Peoples,154779
+Pfizer BioNTech COVID-19,BOOSTER 2,Maori,52922
+Pfizer BioNTech COVID-19,BOOSTER 2,Other,622513
+Pfizer BioNTech COVID-19,BOOSTER 2,Pacific Peoples,24990
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Maori,2429
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Other,27867
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Pacific Peoples,1151

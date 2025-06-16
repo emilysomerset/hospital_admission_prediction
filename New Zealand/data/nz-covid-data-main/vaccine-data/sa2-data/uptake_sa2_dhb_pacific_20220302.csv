@@ -1,0 +1,2183 @@
+﻿sa2_code,sa2_name,dhb,ethnicity_priority,dose1_cnt,dose2_cnt,pop_cnt,dose1_uptake,dose2_uptake
+100100,North Cape,Northland,Pacific Peoples,20,20,22,909,909
+100200,Rangaunu Harbour,Northland,Pacific Peoples,30,28,33,909,848
+100300,Inlets Far North District,Northland,Pacific Peoples,masked,masked,masked,masked,masked
+100400,Karikari Peninsula,Northland,Pacific Peoples,20,20,24,833,833
+100500,Tangonge,Northland,Pacific Peoples,13,13,16,813,813
+100600,Ahipara,Northland,Pacific Peoples,22,22,25,880,880
+100700,Kaitaia East,Northland,Pacific Peoples,55,54,52,>950,>950
+100800,Kaitaia West,Northland,Pacific Peoples,96,94,104,923,904
+100900,Rangitihi,Northland,Pacific Peoples,13,13,13,>950,>950
+101000,Oruru-Parapara,Northland,Pacific Peoples,13,10,14,929,714
+101100,Taumarumaru,Northland,Pacific Peoples,37,35,37,>950,946
+101200,Herekino-Takahue,Northland,Pacific Peoples,12,11,11,>950,>950
+101300,Peria,Northland,Pacific Peoples,14,13,15,933,867
+101400,Taemaro-Oruaiti,Northland,Pacific Peoples,13,13,15,867,867
+101500,Whakapaku,Northland,Pacific Peoples,masked,masked,8,625,625
+101600,Hokianga North,Northland,Pacific Peoples,9,8,12,750,667
+101700,Kohukohu-Broadwood,Northland,Pacific Peoples,8,8,10,800,800
+101800,Whakarara,Northland,Pacific Peoples,8,8,12,667,667
+101900,Kaeo,Northland,Pacific Peoples,14,13,16,875,813
+102000,Omahuta Forest-Horeke,Northland,Pacific Peoples,9,9,12,750,750
+102100,Hokianga South,Northland,Pacific Peoples,13,13,16,813,813
+102200,Lake Manuwai-Kapiro,Northland,Pacific Peoples,56,54,29,>950,>950
+102300,Ōkaihau,Northland,Pacific Peoples,32,32,35,914,914
+102400,Rangitane-Purerua,Northland,Pacific Peoples,18,17,19,947,895
+102500,Waipapa,Northland,Pacific Peoples,7,7,9,778,778
+102600,Puketotara,Northland,Pacific Peoples,43,43,30,>950,>950
+102700,Waimā Forest,Northland,Pacific Peoples,13,12,17,765,706
+102800,Riverview,Northland,Pacific Peoples,21,21,25,840,840
+102900,Waipoua Forest,Northland,Pacific Peoples,14,14,17,824,824
+103000,Kerikeri Central,Northland,Pacific Peoples,101,101,59,>950,>950
+103100,Kerikeri South,Northland,Pacific Peoples,30,29,35,857,829
+103200,Ōhaeawai-Waimate North,Northland,Pacific Peoples,11,11,12,917,917
+103300,Puketona-Waitangi,Northland,Pacific Peoples,masked,masked,masked,>950,>950
+103400,Ngapuhi,Northland,Pacific Peoples,18,17,20,900,850
+103500,Kaikohe,Northland,Pacific Peoples,90,87,102,882,853
+103600,Pakaraka,Northland,Pacific Peoples,masked,masked,masked,>950,>950
+103700,Haruru,Northland,Pacific Peoples,15,15,17,882,882
+103800,Russell,Northland,Pacific Peoples,masked,masked,8,750,750
+103900,Paihia,Northland,Pacific Peoples,24,22,26,923,846
+104000,Mataraua Forest,Northland,Pacific Peoples,masked,masked,9,667,667
+104100,Matawaia-Taumarere,Northland,Pacific Peoples,14,13,20,700,650
+104200,Russell Peninsula,Northland,Pacific Peoples,masked,masked,masked,>950,>950
+104300,Opua (Far North District),Northland,Pacific Peoples,15,13,16,938,813
+104400,Russell Forest-Rawhiti,Northland,Pacific Peoples,8,7,11,727,636
+104500,Moerewa,Northland,Pacific Peoples,29,29,37,784,784
+104600,Kawakawa,Northland,Pacific Peoples,31,30,32,>950,938
+104700,Maromaku,Northland,Pacific Peoples,masked,masked,9,556,556
+104800,Mangakahia-Hūkerenui,Northland,Pacific Peoples,15,15,19,789,789
+104900,Whangaruru,Northland,Pacific Peoples,29,29,32,906,906
+105100,Matarau,Northland,Pacific Peoples,26,25,26,>950,>950
+105200,Hikurangi,Northland,Pacific Peoples,23,21,23,>950,913
+105300,Kauri,Northland,Pacific Peoples,16,16,17,941,941
+105400,Maungatapere,Northland,Pacific Peoples,18,18,20,900,900
+105500,Kamo West,Northland,Pacific Peoples,26,25,28,929,893
+105600,Matapouri-Tutukaka,Northland,Pacific Peoples,18,18,19,947,947
+105700,Kiripaka,Northland,Pacific Peoples,10,9,13,769,692
+105800,Kamo East,Northland,Pacific Peoples,85,82,99,859,828
+105900,Granfield Reserve,Northland,Pacific Peoples,36,34,39,923,872
+106000,Kamo Central,Northland,Pacific Peoples,34,31,30,>950,>950
+106100,Whau Valley,Northland,Pacific Peoples,38,36,37,>950,>950
+106200,Tikipunga North,Northland,Pacific Peoples,71,68,80,888,850
+106300,Pukenui,Northland,Pacific Peoples,11,11,11,>950,>950
+106400,Otangarei,Northland,Pacific Peoples,42,40,55,764,727
+106500,Tikipunga South,Northland,Pacific Peoples,83,78,83,>950,940
+106600,Kensington (Whangarei District),Northland,Pacific Peoples,63,62,59,>950,>950
+106700,Abbey Caves-Glenbervie,Northland,Pacific Peoples,16,16,16,>950,>950
+106800,Mairtown,Northland,Pacific Peoples,44,44,58,759,759
+106900,Maunu-Horahora,Northland,Pacific Peoples,32,31,40,800,775
+107000,Woodhill-Vinetown,Northland,Pacific Peoples,86,84,89,>950,944
+107100,Whangārei Central,Northland,Pacific Peoples,27,27,26,>950,>950
+107200,Riverside,Northland,Pacific Peoples,41,41,44,932,932
+107300,Raumanga,Northland,Pacific Peoples,87,80,90,>950,889
+107400,Tarewa,Northland,Pacific Peoples,40,38,37,>950,>950
+107500,Morningside (Whangarei District),Northland,Pacific Peoples,47,47,51,922,922
+107600,Ngunguru,Northland,Pacific Peoples,masked,masked,masked,>950,>950
+107700,Otaika-Portland,Northland,Pacific Peoples,12,12,16,750,750
+107800,Oakleigh-Mangapai,Northland,Pacific Peoples,13,13,13,>950,>950
+107900,Port-Limeburners,Northland,Pacific Peoples,masked,masked,masked,masked,masked
+108000,Pataua,Northland,Pacific Peoples,12,12,14,857,857
+108100,Onerahi Park,Northland,Pacific Peoples,31,30,39,795,769
+108200,Sherwood Rise,Northland,Pacific Peoples,46,45,44,>950,>950
+108300,Onerahi,Northland,Pacific Peoples,40,37,49,816,755
+108400,Inlet Whangārei Harbour,Northland,Pacific Peoples,masked,masked,masked,>950,>950
+108500,Parua Bay,Northland,Pacific Peoples,23,22,24,>950,917
+108600,Bream Bay,Northland,Pacific Peoples,23,23,21,>950,>950
+108700,Marsden Bay,Northland,Pacific Peoples,24,24,31,774,774
+108800,Ruakākā,Northland,Pacific Peoples,48,48,52,923,923
+108900,Bream Head,Northland,Pacific Peoples,7,7,9,778,778
+109000,Waipu,Northland,Pacific Peoples,32,32,38,842,842
+109100,Kaipara Coastal,Northland,Pacific Peoples,47,45,50,940,900
+109200,Maungaru,Northland,Pacific Peoples,20,20,21,>950,>950
+109300,Dargaville,Northland,Pacific Peoples,192,185,201,>950,920
+109400,Ruawai-Matakohe,Northland,Pacific Peoples,27,24,29,931,828
+109500,Otamatea (Kaipara District),Northland,Pacific Peoples,14,13,20,700,650
+109600,Maungaturoto,Northland,Pacific Peoples,16,16,17,941,941
+109700,Kaiwaka,Northland,Pacific Peoples,28,28,27,>950,>950
+109800,Mangawhai Rural,Northland,Pacific Peoples,27,27,32,844,844
+109900,Mangawhai Heads,Northland,Pacific Peoples,34,33,35,>950,943
+110100,Mangawhai,Northland,Pacific Peoples,12,12,13,923,923
+110200,Okahukura Peninsula,Waitemata,Pacific Peoples,24,24,27,889,889
+110400,Cape Rodney,Waitemata,Pacific Peoples,43,40,50,860,800
+110500,Wellsford,Waitemata,Pacific Peoples,57,56,64,891,875
+110700,South Head,Waitemata,Pacific Peoples,46,44,50,920,880
+110800,Kaipara Hills,Waitemata,Pacific Peoples,14,14,13,>950,>950
+110900,Dome Valley-Matakana,Waitemata,Pacific Peoples,23,23,23,>950,>950
+111100,Warkworth West,Waitemata,Pacific Peoples,98,97,86,>950,>950
+111200,Puhoi Valley,Waitemata,Pacific Peoples,64,63,59,>950,>950
+111300,Warkworth East,Waitemata,Pacific Peoples,194,189,160,>950,>950
+111400,Sandspit,Waitemata,Pacific Peoples,18,17,15,>950,>950
+111500,Tawharanui Peninsula,Waitemata,Pacific Peoples,73,71,29,>950,>950
+111600,Te Kuru,Waitemata,Pacific Peoples,29,29,28,>950,>950
+111700,Snells Beach,Waitemata,Pacific Peoples,108,106,104,>950,>950
+111800,Barrier Islands,Auckland,Pacific Peoples,masked,masked,9,556,444
+111900,Algies Bay-Scotts Landing,Waitemata,Pacific Peoples,14,14,17,824,824
+112100,Wainui-Waiwera,Waitemata,Pacific Peoples,13,13,16,813,813
+112200,Parakai,Waitemata,Pacific Peoples,27,26,29,931,897
+112300,Helensville Rural,Waitemata,Pacific Peoples,35,33,38,921,868
+112400,Helensville,Waitemata,Pacific Peoples,111,109,103,>950,>950
+112500,Waitoki,Waitemata,Pacific Peoples,13,13,17,765,765
+112600,Waikoukou Valley,Waitemata,Pacific Peoples,19,18,22,864,818
+112700,Orewa North,Waitemata,Pacific Peoples,58,57,63,921,905
+112800,Hatfields Beach,Waitemata,Pacific Peoples,19,19,21,905,905
+112900,Orewa South,Waitemata,Pacific Peoples,58,58,67,866,866
+113000,Orewa Central,Waitemata,Pacific Peoples,58,58,69,841,841
+113100,Millwater North,Waitemata,Pacific Peoples,27,27,33,818,818
+113200,Waipatukahu,Waitemata,Pacific Peoples,17,17,26,654,654
+113300,Millwater South,Waitemata,Pacific Peoples,19,19,23,826,826
+113400,Dairy Flat North,Waitemata,Pacific Peoples,30,30,34,882,882
+113500,Dairy Flat West,Waitemata,Pacific Peoples,16,16,15,>950,>950
+113600,Kingsway,Waitemata,Pacific Peoples,46,46,45,>950,>950
+113700,Riverhead Forest,Waitemata,Pacific Peoples,masked,masked,masked,masked,masked
+113800,Silverdale Central (Auckland),Waitemata,Pacific Peoples,17,17,17,>950,>950
+113900,Red Beach West,Waitemata,Pacific Peoples,24,24,28,857,857
+114000,Red Beach East,Waitemata,Pacific Peoples,60,58,51,>950,>950
+114100,Silverdale South (Auckland),Waitemata,Pacific Peoples,15,14,20,750,700
+114200,Waimauku,Waitemata,Pacific Peoples,26,25,24,>950,>950
+114300,Gulf Islands,Auckland,Pacific Peoples,masked,masked,masked,masked,masked
+114300,Gulf Islands,Auckland,Pacific Peoples,masked,masked,masked,masked,masked
+114300,Gulf Islands,Auckland,Pacific Peoples,masked,masked,masked,masked,masked
+114300,Gulf Islands,Auckland,Pacific Peoples,masked,masked,masked,masked,masked
+114400,Vipond,Waitemata,Pacific Peoples,44,44,41,>950,>950
+114500,Muriwai,Waitemata,Pacific Peoples,9,9,12,750,750
+114600,Stanmore Bay West,Waitemata,Pacific Peoples,35,35,35,>950,>950
+114700,Kumeu Rural West,Waitemata,Pacific Peoples,68,66,68,>950,>950
+114800,Okura Bush,Waitemata,Pacific Peoples,20,19,16,>950,>950
+114900,Whangaparāoa Central,Waitemata,Pacific Peoples,44,44,49,898,898
+115000,Kumeu-Huapai,Waitemata,Pacific Peoples,143,141,146,>950,>950
+115100,Stanmore Bay East,Waitemata,Pacific Peoples,35,34,39,897,872
+115200,Manly West,Waitemata,Pacific Peoples,43,42,45,>950,933
+115300,Muriwai Valley-Bethells Beach,Waitemata,Pacific Peoples,13,12,20,650,600
+115400,Tindalls-Matakatia,Waitemata,Pacific Peoples,22,21,27,815,778
+115500,Coatesville,Waitemata,Pacific Peoples,25,24,31,806,774
+115600,Dairy Flat South,Waitemata,Pacific Peoples,9,9,10,900,900
+115700,Gulf Harbour North,Waitemata,Pacific Peoples,46,45,47,>950,>950
+115800,Manly East,Waitemata,Pacific Peoples,55,55,68,809,809
+115900,Riverhead,Waitemata,Pacific Peoples,65,65,64,>950,>950
+116000,Army Bay,Waitemata,Pacific Peoples,43,43,40,>950,>950
+116100,Kumeu Rural East,Waitemata,Pacific Peoples,88,87,89,>950,>950
+116200,Gulf Harbour South,Waitemata,Pacific Peoples,39,38,42,929,905
+116300,Paremoremo West,Waitemata,Pacific Peoples,15,14,16,938,875
+116400,Taupaki,Waitemata,Pacific Peoples,28,27,32,875,844
+116500,Long Bay,Waitemata,Pacific Peoples,23,23,21,>950,>950
+116600,Paremoremo East,Waitemata,Pacific Peoples,34,34,40,850,850
+116700,Albany Heights,Waitemata,Pacific Peoples,47,47,46,>950,>950
+116800,Awaruku,Waitemata,Pacific Peoples,56,56,53,>950,>950
+116900,Fairview Heights,Waitemata,Pacific Peoples,34,34,29,>950,>950
+117000,Whenuapai,Waitemata,Pacific Peoples,215,209,219,>950,>950
+117100,Waitakere Ranges North,Waitemata,Pacific Peoples,23,23,31,742,742
+117200,Torbay,Waitemata,Pacific Peoples,62,62,58,>950,>950
+117300,Albany Central,Waitemata,Pacific Peoples,28,26,29,>950,897
+117400,Albany West,Waitemata,Pacific Peoples,43,42,39,>950,>950
+117500,Glamorgan,Waitemata,Pacific Peoples,40,39,41,>950,>950
+117600,Oteha East,Waitemata,Pacific Peoples,37,37,49,755,755
+117700,Northcross,Waitemata,Pacific Peoples,27,26,30,900,867
+117800,Oteha West,Waitemata,Pacific Peoples,16,16,22,727,727
+117900,Waiake,Waitemata,Pacific Peoples,50,48,48,>950,>950
+118000,Waitakere,Waitemata,Pacific Peoples,67,67,70,>950,>950
+118100,Albany South,Waitemata,Pacific Peoples,38,38,39,>950,>950
+118200,Browns Bay South West,Waitemata,Pacific Peoples,37,37,37,>950,>950
+118300,Browns Bay Central,Waitemata,Pacific Peoples,22,21,26,846,808
+118400,Schnapper Rock,Waitemata,Pacific Peoples,29,29,31,935,935
+118500,Pinehill,Waitemata,Pacific Peoples,34,34,35,>950,>950
+118600,North Harbour,Waitemata,Pacific Peoples,10,10,9,>950,>950
+118700,Browns Bay South East,Waitemata,Pacific Peoples,30,30,32,938,938
+118800,Westgate Central,Waitemata,Pacific Peoples,masked,masked,masked,750,750
+118900,Greenhithe West,Waitemata,Pacific Peoples,39,39,41,>950,>950
+119000,Rothesay Bay,Waitemata,Pacific Peoples,33,33,25,>950,>950
+119100,Greenhithe East,Waitemata,Pacific Peoples,38,38,41,927,927
+119200,Hobsonville,Waitemata,Pacific Peoples,56,55,61,918,902
+119300,Inlet Waitemata Harbour,Area outside District Health Board,Pacific Peoples,masked,masked,masked,masked,masked
+119400,Greenhithe South,Waitemata,Pacific Peoples,30,30,32,938,938
+119500,Murrays Bay West,Waitemata,Pacific Peoples,17,17,19,895,895
+119600,Westgate South,Waitemata,Pacific Peoples,246,244,268,918,910
+119700,Windsor Park,Waitemata,Pacific Peoples,14,14,15,933,933
+119800,West Harbour West,Waitemata,Pacific Peoples,511,501,539,948,929
+119900,Unsworth Heights West,Waitemata,Pacific Peoples,46,46,44,>950,>950
+120000,Murrays Bay East,Waitemata,Pacific Peoples,22,21,16,>950,>950
+120100,Birdwood West,Waitemata,Pacific Peoples,42,41,48,875,854
+120200,Hobsonville Point,Waitemata,Pacific Peoples,161,159,155,>950,>950
+120300,West Harbour Clearwater Cove,Waitemata,Pacific Peoples,159,155,157,>950,>950
+120400,Unsworth Heights East,Waitemata,Pacific Peoples,109,109,111,>950,>950
+120500,Mairangi Bay North,Waitemata,Pacific Peoples,36,36,40,900,900
+120600,Massey Central,Waitemata,Pacific Peoples,641,623,654,>950,>950
+120700,West Harbour Luckens Point,Waitemata,Pacific Peoples,89,85,90,>950,944
+120800,Mairangi Bay South,Waitemata,Pacific Peoples,26,26,28,929,929
+120900,Massey Royal Road West,Waitemata,Pacific Peoples,438,434,440,>950,>950
+121000,Bayview East,Waitemata,Pacific Peoples,182,179,173,>950,>950
+121100,Swanson Rural,Waitemata,Pacific Peoples,67,65,67,>950,>950
+121200,Sunnynook South,Waitemata,Pacific Peoples,80,80,77,>950,>950
+121300,Sunnynook North,Waitemata,Pacific Peoples,47,45,48,>950,938
+121400,Bayview West,Waitemata,Pacific Peoples,93,93,90,>950,>950
+121500,Totara Vale North,Waitemata,Pacific Peoples,93,92,98,949,939
+121600,Royal Heights North,Waitemata,Pacific Peoples,454,446,502,904,888
+121700,Massey West,Waitemata,Pacific Peoples,195,189,209,933,904
+121800,Beach Haven West,Waitemata,Pacific Peoples,157,155,153,>950,>950
+121900,Totara Vale South,Waitemata,Pacific Peoples,151,150,157,>950,>950
+122000,Swanson,Waitemata,Pacific Peoples,230,224,225,>950,>950
+122100,Bayview South,Waitemata,Pacific Peoples,107,107,121,884,884
+122200,Campbells Bay,Waitemata,Pacific Peoples,8,8,8,>950,>950
+122300,Royal Heights South,Waitemata,Pacific Peoples,598,581,638,937,911
+122400,Beach Haven East,Waitemata,Pacific Peoples,485,474,526,922,901
+122500,Massey East,Waitemata,Pacific Peoples,796,777,840,948,925
+122600,Forrest Hill North,Waitemata,Pacific Peoples,25,25,23,>950,>950
+122700,Glenfield North,Waitemata,Pacific Peoples,134,131,139,>950,942
+122800,Birkdale North,Waitemata,Pacific Peoples,330,324,335,>950,>950
+122900,Massey South,Waitemata,Pacific Peoples,770,754,820,939,920
+123000,Rānui North,Waitemata,Pacific Peoples,925,905,975,949,928
+123100,Glenfield West,Waitemata,Pacific Peoples,106,106,108,>950,>950
+123200,Te Atatū Peninsula North West,Waitemata,Pacific Peoples,252,246,278,906,885
+123300,Glenfield South West,Waitemata,Pacific Peoples,164,160,167,>950,>950
+123400,Forrest Hill West,Waitemata,Pacific Peoples,94,92,99,949,929
+123500,Wairau Valley,Waitemata,Pacific Peoples,14,14,11,>950,>950
+123600,Forrest Hill East,Waitemata,Pacific Peoples,64,64,66,>950,>950
+123700,Castor Bay,Waitemata,Pacific Peoples,35,34,41,854,829
+123800,Rānui Domain,Waitemata,Pacific Peoples,647,632,673,>950,939
+123900,Beach Haven South,Waitemata,Pacific Peoples,78,76,80,>950,950
+124000,Glenfield Central,Waitemata,Pacific Peoples,96,92,93,>950,>950
+124100,Piha,Waitemata,Pacific Peoples,8,7,10,800,700
+124200,Rānui South West,Waitemata,Pacific Peoples,473,455,479,>950,950
+124300,Henderson Larnoch,Waitemata,Pacific Peoples,869,850,912,>950,932
+124400,Birkdale South,Waitemata,Pacific Peoples,276,273,294,939,929
+124500,Te Atatū Peninsula Central,Waitemata,Pacific Peoples,404,390,426,948,915
+124600,Glenfield East,Waitemata,Pacific Peoples,83,83,80,>950,>950
+124700,Henderson Valley,Waitemata,Pacific Peoples,55,54,52,>950,>950
+124800,Te Atatū Peninsula West,Waitemata,Pacific Peoples,412,407,421,>950,>950
+124900,Henderson Lincoln West,Waitemata,Pacific Peoples,542,536,577,939,929
+125000,Rānui South East,Waitemata,Pacific Peoples,428,423,446,>950,948
+125100,Henderson Lincoln East,Waitemata,Pacific Peoples,12,12,13,923,923
+125200,Birkenhead West,Waitemata,Pacific Peoples,87,86,86,>950,>950
+125300,Te Atatū Peninsula East,Waitemata,Pacific Peoples,219,217,236,928,919
+125400,Milford West,Waitemata,Pacific Peoples,32,32,36,889,889
+125500,Westlake,Waitemata,Pacific Peoples,43,43,39,>950,>950
+125600,Hillcrest North (Auckland),Waitemata,Pacific Peoples,70,69,76,921,908
+125700,Henderson Lincoln South,Waitemata,Pacific Peoples,338,330,364,929,907
+125800,Hillcrest West (Auckland),Waitemata,Pacific Peoples,57,57,60,950,950
+125900,Milford Central,Waitemata,Pacific Peoples,15,15,13,>950,>950
+126000,Summerland South,Waitemata,Pacific Peoples,258,255,281,918,907
+126100,Summerland North,Waitemata,Pacific Peoples,179,177,178,>950,>950
+126200,Hillcrest East (Auckland),Waitemata,Pacific Peoples,84,84,83,>950,>950
+126300,Chatswood,Waitemata,Pacific Peoples,56,56,60,933,933
+126400,Te Atatū South-Edmonton,Waitemata,Pacific Peoples,538,525,593,907,885
+126500,Birkenhead North,Waitemata,Pacific Peoples,52,52,62,839,839
+126600,Takapuna West,Waitemata,Pacific Peoples,77,77,78,>950,>950
+126700,Henderson North,Waitemata,Pacific Peoples,554,546,584,949,935
+126800,Takapuna Central,Waitemata,Pacific Peoples,32,32,34,941,941
+126900,Western Heights (Auckland),Waitemata,Pacific Peoples,453,447,462,>950,>950
+127000,Te Atatū South-Central,Waitemata,Pacific Peoples,509,499,542,939,921
+127100,Northcote Central (Auckland),Waitemata,Pacific Peoples,203,201,219,927,918
+127200,Akoranga,Waitemata,Pacific Peoples,97,94,91,>950,>950
+127300,Northcote South (Auckland),Waitemata,Pacific Peoples,65,65,60,>950,>950
+127400,Birkenhead South,Waitemata,Pacific Peoples,31,29,31,>950,935
+127500,Henderson Central,Waitemata,Pacific Peoples,127,124,138,920,899
+127600,Waiatarua,Waitemata,Pacific Peoples,64,64,65,>950,>950
+127700,Te Atatū South-McLeod North,Waitemata,Pacific Peoples,460,454,485,948,936
+127800,Henderson Valley Park,Waitemata,Pacific Peoples,542,534,553,>950,>950
+127900,Henderson North East,Waitemata,Pacific Peoples,346,342,377,918,907
+128000,Waitakere Ranges South,Waitemata,Pacific Peoples,28,27,32,875,844
+128100,Northcote Tuff Crater,Waitemata,Pacific Peoples,58,57,57,>950,>950
+128200,Northcote Point (Auckland),Waitemata,Pacific Peoples,70,70,68,>950,>950
+128300,McLaren Park,Waitemata,Pacific Peoples,982,955,1072,916,891
+128400,Henderson East,Waitemata,Pacific Peoples,446,436,481,927,906
+128500,Te Atatū South-McLeod South,Waitemata,Pacific Peoples,516,509,540,>950,943
+128600,Takapuna South,Waitemata,Pacific Peoples,20,20,20,>950,>950
+128700,Rosebank Peninsula,Auckland,Pacific Peoples,masked,masked,masked,masked,masked
+128800,Hauraki,Waitemata,Pacific Peoples,51,47,47,>950,>950
+128900,Glendene North,Waitemata,Pacific Peoples,912,894,968,942,924
+129000,Sunnyvale West-Parrs Park,Waitemata,Pacific Peoples,608,598,645,943,927
+129100,Sunnyvale East,Waitemata,Pacific Peoples,723,709,769,940,922
+129200,Point Chevalier West,Auckland,Pacific Peoples,177,174,187,947,930
+129300,Belmont (Auckland),Waitemata,Pacific Peoples,66,65,73,904,890
+129400,Bayswater,Waitemata,Pacific Peoples,97,96,106,915,906
+129500,Glendene South,Waitemata,Pacific Peoples,683,670,696,>950,>950
+129600,Glen Eden West,Waitemata,Pacific Peoples,672,655,701,>950,934
+129700,Herne Bay,Auckland,Pacific Peoples,37,37,36,>950,>950
+129800,Westmere North,Auckland,Pacific Peoples,80,79,78,>950,>950
+129900,Point Chevalier East,Auckland,Pacific Peoples,289,285,306,944,931
+130000,Oratia,Waitemata,Pacific Peoples,56,55,57,>950,>950
+130100,Glen Eden Rosier,Waitemata,Pacific Peoples,565,555,579,>950,>950
+130200,Saint Marys Bay,Auckland,Pacific Peoples,44,43,53,830,811
+130300,Westmere South-Western Springs,Auckland,Pacific Peoples,147,146,147,>950,>950
+130400,Ponsonby West,Auckland,Pacific Peoples,142,135,146,>950,925
+130500,Kelston North,Waitemata,Pacific Peoples,739,721,794,931,908
+130600,Avondale Rosebank,Auckland,Pacific Peoples,1102,1072,1171,941,915
+130700,Narrow Neck,Waitemata,Pacific Peoples,54,53,57,947,930
+130800,Glen Eden North,Waitemata,Pacific Peoples,483,479,483,>950,>950
+130900,Glen Eden Woodglen,Waitemata,Pacific Peoples,590,577,622,949,928
+131000,Kelston South,Waitemata,Pacific Peoples,610,600,642,>950,935
+131100,Waterview,Auckland,Pacific Peoples,564,542,576,>950,941
+131200,Ponsonby East,Auckland,Pacific Peoples,178,176,186,>950,946
+131300,Wynyard-Viaduct,Auckland,Pacific Peoples,14,14,18,778,778
+131400,Stanley Point,Waitemata,Pacific Peoples,29,29,29,>950,>950
+131500,Glen Eden Central,Waitemata,Pacific Peoples,297,294,313,949,939
+131600,Grey Lynn North,Auckland,Pacific Peoples,237,233,247,>950,943
+131700,Avondale West (Auckland),Auckland,Pacific Peoples,991,969,1062,933,912
+131800,Freemans Bay,Auckland,Pacific Peoples,154,153,171,901,895
+131900,Mount Albert West,Auckland,Pacific Peoples,221,216,250,884,864
+132000,Avondale North (Auckland),Auckland,Pacific Peoples,551,538,603,914,892
+132100,Grey Lynn West,Auckland,Pacific Peoples,345,341,365,945,934
+132200,Mount Albert North,Auckland,Pacific Peoples,290,289,305,>950,948
+132300,New Lynn North,Waitemata,Pacific Peoples,493,482,510,>950,945
+132400,Victoria Park,Auckland,Pacific Peoples,72,72,73,>950,>950
+132500,Konini,Waitemata,Pacific Peoples,170,169,188,904,899
+132600,New Lynn North West,Waitemata,Pacific Peoples,402,394,415,>950,949
+132700,Hobson Ridge North,Auckland,Pacific Peoples,88,84,90,>950,933
+132800,Grey Lynn Central,Auckland,Pacific Peoples,345,338,357,>950,947
+132900,Fruitvale,Waitemata,Pacific Peoples,306,299,326,939,917
+133000,Devonport,Waitemata,Pacific Peoples,45,45,51,882,882
+133100,Avondale Central (Auckland),Auckland,Pacific Peoples,431,418,433,>950,>950
+133200,Queen Street,Auckland,Pacific Peoples,67,58,66,>950,879
+133300,Quay Street-Customs Street,Auckland,Pacific Peoples,84,83,91,923,912
+133400,Hobson Ridge Central,Auckland,Pacific Peoples,123,118,115,>950,>950
+133500,Grey Lynn East,Auckland,Pacific Peoples,131,126,131,>950,>950
+133600,Morningside (Auckland),Auckland,Pacific Peoples,319,314,337,947,932
+133700,Shortland Street,Auckland,Pacific Peoples,26,26,27,>950,>950
+133800,Hobson Ridge South,Auckland,Pacific Peoples,47,45,50,940,900
+133900,New Lynn Central,Waitemata,Pacific Peoples,47,47,45,>950,>950
+134000,Cheltenham,Waitemata,Pacific Peoples,24,24,20,>950,>950
+134100,Queen Street South West,Auckland,Pacific Peoples,59,57,69,855,826
+134200,Mount Albert Central,Auckland,Pacific Peoples,178,178,190,937,937
+134300,Karangahape,Auckland,Pacific Peoples,98,96,103,>950,932
+134400,Kingsland,Auckland,Pacific Peoples,318,315,336,946,938
+134500,Anzac Avenue,Auckland,Pacific Peoples,72,69,84,857,821
+134600,Waima-Woodlands Park,Waitemata,Pacific Peoples,54,54,54,>950,>950
+134700,Kaurilands,Waitemata,Pacific Peoples,109,108,113,>950,>950
+134800,Auckland-University,Auckland,Pacific Peoples,masked,masked,masked,>950,>950
+134900,New Lynn Seabrook,Waitemata,Pacific Peoples,317,313,350,906,894
+135000,Avondale South (Auckland),Auckland,Pacific Peoples,698,678,731,>950,927
+135100,Symonds Street North West,Auckland,Pacific Peoples,88,87,95,926,916
+135200,Mount Albert South,Auckland,Pacific Peoples,88,87,103,854,845
+135300,Symonds Street West,Auckland,Pacific Peoples,117,113,112,>950,>950
+135400,West Lynn,Waitemata,Pacific Peoples,184,182,201,915,905
+135500,Ōwairaka West,Auckland,Pacific Peoples,291,287,319,912,900
+135600,New Lynn Central South,Waitemata,Pacific Peoples,364,355,372,>950,>950
+135700,The Strand,Auckland,Pacific Peoples,58,56,63,921,889
+135800,St Lukes,Auckland,Pacific Peoples,144,140,162,889,864
+135900,Symonds Street East,Auckland,Pacific Peoples,95,91,105,905,867
+136000,Eden Terrace,Auckland,Pacific Peoples,168,162,168,>950,>950
+136100,Grafton,Auckland,Pacific Peoples,47,47,50,940,940
+136200,Eden Park,Auckland,Pacific Peoples,113,111,118,>950,941
+136300,Sandringham North,Auckland,Pacific Peoples,268,260,286,937,909
+136400,Parnell West,Auckland,Pacific Peoples,90,90,81,>950,>950
+136500,New Lynn South,Waitemata,Pacific Peoples,492,477,507,>950,941
+136600,New Windsor North,Auckland,Pacific Peoples,429,420,455,943,923
+136700,Titirangi South,Waitemata,Pacific Peoples,97,96,95,>950,>950
+136800,Ōwairaka East,Auckland,Pacific Peoples,230,227,249,924,912
+136900,Eden Valley,Auckland,Pacific Peoples,71,70,74,>950,946
+137000,Sandringham Central,Auckland,Pacific Peoples,219,209,237,924,882
+137100,Glenavon,Auckland,Pacific Peoples,663,640,710,934,901
+137200,Blockhouse Bay North,Auckland,Pacific Peoples,400,393,436,917,901
+137300,Green Bay North,Waitemata,Pacific Peoples,144,144,144,>950,>950
+137400,Parnell East,Auckland,Pacific Peoples,66,66,71,930,930
+137500,Laingholm,Waitemata,Pacific Peoples,31,31,33,939,939
+137600,Sandringham West,Auckland,Pacific Peoples,185,181,198,934,914
+137700,Mount Eden North East,Auckland,Pacific Peoples,50,47,57,877,825
+137800,Mount Eden North,Auckland,Pacific Peoples,96,96,111,865,865
+137900,Wesley West,Auckland,Pacific Peoples,992,957,1085,914,882
+138000,Green Bay South,Waitemata,Pacific Peoples,135,135,141,>950,>950
+138100,Balmoral,Auckland,Pacific Peoples,190,186,206,922,903
+138200,Sandringham East,Auckland,Pacific Peoples,289,282,311,929,907
+138300,New Windsor South,Auckland,Pacific Peoples,590,580,642,919,903
+138400,Mount Eden West,Auckland,Pacific Peoples,109,109,113,>950,>950
+138500,Newmarket,Auckland,Pacific Peoples,62,62,60,>950,>950
+138600,Blockhouse Bay North East,Auckland,Pacific Peoples,248,247,255,>950,>950
+138700,Epsom North,Auckland,Pacific Peoples,101,101,108,935,935
+138800,Wesley South,Auckland,Pacific Peoples,10,10,10,>950,>950
+138900,Blockhouse Bay South,Auckland,Pacific Peoples,255,254,280,911,907
+139000,Mount Eden East,Auckland,Pacific Peoples,68,67,71,>950,944
+139100,Wesley East,Auckland,Pacific Peoples,579,569,619,935,919
+139200,Orakei West,Auckland,Pacific Peoples,61,61,58,>950,>950
+139300,Maungawhau,Auckland,Pacific Peoples,93,93,92,>950,>950
+139400,Remuera West,Auckland,Pacific Peoples,56,55,62,903,887
+139500,Blockhouse Bay East,Auckland,Pacific Peoples,143,140,150,>950,933
+139600,Lynfield North,Auckland,Pacific Peoples,177,177,193,917,917
+139700,Mount Roskill North,Auckland,Pacific Peoples,301,290,348,865,833
+139800,Mount Roskill White Swan,Auckland,Pacific Peoples,479,465,529,905,879
+139900,Mount Eden South,Auckland,Pacific Peoples,80,78,84,>950,929
+140000,Remuera Waitaramoa,Auckland,Pacific Peoples,41,39,42,>950,929
+140100,Orakei East,Auckland,Pacific Peoples,104,100,106,>950,943
+140200,Epsom Central-North,Auckland,Pacific Peoples,65,65,64,>950,>950
+140300,Mount St John,Auckland,Pacific Peoples,118,117,135,874,867
+140400,Mount Roskill Central North,Auckland,Pacific Peoples,385,378,429,897,881
+140500,Remuera North,Auckland,Pacific Peoples,42,41,42,>950,>950
+140600,Three Kings West,Auckland,Pacific Peoples,404,397,424,>950,936
+140700,Mount Roskill Central South,Auckland,Pacific Peoples,496,483,530,936,911
+140800,Epsom Central-South,Auckland,Pacific Peoples,96,94,101,>950,931
+140900,Lynfield South,Auckland,Pacific Peoples,262,260,268,>950,>950
+141000,Remuera South,Auckland,Pacific Peoples,106,104,101,>950,>950
+141100,Mission Bay,Auckland,Pacific Peoples,62,62,56,>950,>950
+141200,Three Kings East,Auckland,Pacific Peoples,52,52,64,813,813
+141300,Mount Roskill South,Auckland,Pacific Peoples,182,180,189,>950,>950
+141400,Inlet Manukau Harbour,Area outside District Health Board,Pacific Peoples,masked,masked,masked,masked,masked
+141500,Epsom East,Auckland,Pacific Peoples,94,91,102,922,892
+141600,Remuera Waiata,Auckland,Pacific Peoples,25,23,29,862,793
+141700,Epsom South,Auckland,Pacific Peoples,45,44,52,865,846
+141800,Kohimarama,Auckland,Pacific Peoples,28,28,29,>950,>950
+141900,Meadowbank West,Auckland,Pacific Peoples,109,108,113,>950,>950
+142000,Hillsborough North (Auckland),Auckland,Pacific Peoples,297,288,312,>950,923
+142100,Hillsborough West (Auckland),Auckland,Pacific Peoples,259,257,269,>950,>950
+142200,Greenlane North,Auckland,Pacific Peoples,108,106,108,>950,>950
+142300,Waikowhai North,Auckland,Pacific Peoples,840,826,907,926,911
+142400,Remuera East,Auckland,Pacific Peoples,20,20,19,>950,>950
+142500,Waikowhai South,Auckland,Pacific Peoples,129,127,132,>950,>950
+142600,Royal Oak West (Auckland),Auckland,Pacific Peoples,156,154,175,891,880
+142700,Saint Heliers West,Auckland,Pacific Peoples,40,39,40,>950,>950
+142800,One Tree Hill,Auckland,Pacific Peoples,341,334,359,950,930
+142900,Hillsborough East (Auckland),Auckland,Pacific Peoples,171,167,168,>950,>950
+143000,Saint Heliers North,Auckland,Pacific Peoples,28,27,32,875,844
+143100,Remuera Abbotts Park,Auckland,Pacific Peoples,58,58,69,841,841
+143200,Meadowbank East,Auckland,Pacific Peoples,61,59,63,>950,937
+143300,Ellerslie Central,Auckland,Pacific Peoples,143,141,154,929,916
+143400,Royal Oak East (Auckland),Auckland,Pacific Peoples,196,193,210,933,919
+143500,Saint Heliers South,Auckland,Pacific Peoples,66,65,66,>950,>950
+143600,Hillsborough South (Auckland),Auckland,Pacific Peoples,151,149,161,938,925
+143700,Saint Johns West,Auckland,Pacific Peoples,76,76,74,>950,>950
+143800,Greenlane South,Auckland,Pacific Peoples,273,267,280,>950,>950
+143900,Remuera Waiatarua,Auckland,Pacific Peoples,63,59,58,>950,>950
+144000,Glendowie North,Auckland,Pacific Peoples,40,40,40,>950,>950
+144100,Onehunga West,Auckland,Pacific Peoples,391,382,404,>950,946
+144200,Ellerslie West,Auckland,Pacific Peoples,13,13,13,>950,>950
+144300,Onehunga North,Auckland,Pacific Peoples,458,447,491,933,910
+144400,Ellerslie East,Auckland,Pacific Peoples,130,128,129,>950,>950
+144500,Saint Johns East,Auckland,Pacific Peoples,163,159,168,>950,946
+144600,Oneroa West,Auckland,Pacific Peoples,19,19,19,>950,>950
+144700,Glen Innes West,Auckland,Pacific Peoples,1124,1090,1233,912,884
+144800,Ellerslie South,Auckland,Pacific Peoples,115,112,110,>950,>950
+144900,Stonefields West,Auckland,Pacific Peoples,31,31,39,795,795
+145000,Onehunga Central,Auckland,Pacific Peoples,491,486,528,930,920
+145100,Glendowie South,Auckland,Pacific Peoples,149,146,161,925,907
+145200,Oranga,Auckland,Pacific Peoples,961,940,1028,935,914
+145300,Mount Wellington North West,Auckland,Pacific Peoples,158,158,169,935,935
+145400,Panmure Glen Innes Industrial,Auckland,Pacific Peoples,59,57,64,922,891
+145500,Onehunga-Te Papapa Industrial,Auckland,Pacific Peoples,148,138,160,925,863
+145600,Te Papapa,Auckland,Pacific Peoples,574,560,597,>950,938
+145700,Stonefields East,Auckland,Pacific Peoples,35,35,34,>950,>950
+145800,Glen Innes East-Wai O Taiki Bay,Auckland,Pacific Peoples,1208,1172,1271,>950,922
+145900,Penrose,Auckland,Pacific Peoples,102,98,109,936,899
+146000,Mount Wellington North East,Auckland,Pacific Peoples,130,124,113,>950,>950
+146100,Māngere Bridge Ambury,Counties Manukau,Pacific Peoples,606,598,655,925,913
+146200,Mount Wellington Ferndale,Auckland,Pacific Peoples,594,585,625,>950,936
+146300,Point England,Auckland,Pacific Peoples,1688,1639,1817,929,902
+146400,Bucklands Beach North,Counties Manukau,Pacific Peoples,44,44,53,830,830
+146500,Mount Wellington East,Auckland,Pacific Peoples,440,432,457,>950,945
+146600,Mount Wellington West,Auckland,Pacific Peoples,551,545,573,>950,>950
+146700,Panmure West,Auckland,Pacific Peoples,36,33,41,878,805
+146800,Māngere Bridge,Counties Manukau,Pacific Peoples,624,610,683,914,893
+146900,Oneroa East-Palm Beach,Auckland,Pacific Peoples,23,22,24,>950,917
+147000,Tamaki,Auckland,Pacific Peoples,1150,1124,1231,934,913
+147100,Panmure East,Auckland,Pacific Peoples,506,493,524,>950,941
+147200,Mount Wellington Central,Auckland,Pacific Peoples,625,616,685,912,899
+147400,Sylvia Park,Auckland,Pacific Peoples,11,10,9,>950,>950
+147500,Māngere Mountain View,Counties Manukau,Pacific Peoples,1324,1288,1456,909,885
+147600,Surfdale,Auckland,Pacific Peoples,32,32,35,914,914
+147700,Mount Wellington Industrial,Auckland,Pacific Peoples,masked,masked,masked,masked,masked
+147800,Half Moon Bay West,Counties Manukau,Pacific Peoples,59,59,62,>950,>950
+147900,Auckland Airport,Counties Manukau,Pacific Peoples,84,81,118,712,686
+148000,Eastern Beach,Counties Manukau,Pacific Peoples,41,41,38,>950,>950
+148100,Sunnyhills West-Pakuranga North,Counties Manukau,Pacific Peoples,95,93,94,>950,>950
+148200,Favona North,Counties Manukau,Pacific Peoples,1452,1429,1578,920,906
+148300,Bucklands Beach Central,Counties Manukau,Pacific Peoples,29,29,29,>950,>950
+148400,Farm Cove,Counties Manukau,Pacific Peoples,36,36,39,923,923
+148500,Māngere North,Counties Manukau,Pacific Peoples,1131,1099,1230,920,893
+148600,Favona West,Counties Manukau,Pacific Peoples,1822,1771,1940,939,913
+148700,Ostend,Auckland,Pacific Peoples,41,41,44,932,932
+148800,Half Moon Bay North East,Counties Manukau,Pacific Peoples,36,36,36,>950,>950
+148900,Māngere West,Counties Manukau,Pacific Peoples,2339,2284,2556,915,894
+149000,Pakuranga West,Counties Manukau,Pacific Peoples,450,440,461,>950,>950
+149100,Mount Wellington South West,Auckland,Pacific Peoples,619,611,647,>950,944
+149200,Sunnyhills East,Counties Manukau,Pacific Peoples,74,74,72,>950,>950
+149300,Half Moon Bay South East,Counties Manukau,Pacific Peoples,137,136,152,901,895
+149400,Favona East,Counties Manukau,Pacific Peoples,1952,1905,2094,932,910
+149500,Mount Wellington South East,Auckland,Pacific Peoples,1144,1121,1232,929,910
+149600,Ōtāhuhu Industrial,Counties Manukau,Pacific Peoples,9,9,9,>950,>950
+149700,Bucklands Beach South,Counties Manukau,Pacific Peoples,90,90,102,882,882
+149800,Pakuranga Central,Counties Manukau,Pacific Peoples,325,321,349,931,920
+149900,Āwhitu,Counties Manukau,Pacific Peoples,44,44,52,846,846
+150000,Harania North,Counties Manukau,Pacific Peoples,2551,2466,2705,943,912
+150100,Ōtāhuhu Central,Auckland,Pacific Peoples,594,576,595,>950,>950
+150200,Māngere Central,Counties Manukau,Pacific Peoples,2003,1949,2159,928,903
+150300,Ōtāhuhu North,Auckland,Pacific Peoples,1629,1587,1655,>950,>950
+150400,Howick West,Counties Manukau,Pacific Peoples,130,127,129,>950,>950
+150500,Pakuranga Heights North West,Counties Manukau,Pacific Peoples,197,190,218,904,872
+150600,Mellons Bay,Counties Manukau,Pacific Peoples,36,36,44,818,818
+150700,Pakuranga Heights East,Counties Manukau,Pacific Peoples,219,215,215,>950,>950
+150800,Sutton Park,Counties Manukau,Pacific Peoples,2294,2252,2446,938,921
+150900,Ōtāhuhu East,Auckland,Pacific Peoples,852,836,905,941,924
+151000,Māngere South,Counties Manukau,Pacific Peoples,1742,1702,1907,913,893
+151100,Onetangi,Auckland,Pacific Peoples,19,18,25,760,720
+151200,Harania South,Counties Manukau,Pacific Peoples,1790,1744,1878,>950,929
+151300,Highland Park (Auckland),Counties Manukau,Pacific Peoples,174,170,176,>950,>950
+151400,Ōtāhuhu South West,Auckland,Pacific Peoples,1455,1424,1517,>950,939
+151500,Pakuranga Heights South West,Counties Manukau,Pacific Peoples,343,338,347,>950,>950
+151600,Māngere Mascot,Counties Manukau,Pacific Peoples,2135,2082,2294,931,908
+151700,Waiheke East,Auckland,Pacific Peoples,26,26,24,>950,>950
+151800,Massey Road West,Counties Manukau,Pacific Peoples,1953,1898,2098,931,905
+151900,Ōtāhuhu South,Auckland,Pacific Peoples,1368,1344,1429,>950,941
+152000,Howick Central,Counties Manukau,Pacific Peoples,118,116,123,>950,943
+152100,Massey Road North,Counties Manukau,Pacific Peoples,1435,1411,1523,942,926
+152200,Botany Downs West,Counties Manukau,Pacific Peoples,112,111,112,>950,>950
+152300,East Tamaki,Counties Manukau,Pacific Peoples,36,34,37,>950,919
+152400,Howick East,Counties Manukau,Pacific Peoples,79,75,83,>950,904
+152500,Burswood,Counties Manukau,Pacific Peoples,85,84,89,>950,944
+152600,Massey Road South,Counties Manukau,Pacific Peoples,986,972,1040,948,935
+152700,Middlemore,Counties Manukau,Pacific Peoples,masked,masked,masked,>950,>950
+152800,Māngere South East,Counties Manukau,Pacific Peoples,1788,1758,1906,938,922
+152900,Botany Downs East,Counties Manukau,Pacific Peoples,72,67,71,>950,944
+153000,Grange,Counties Manukau,Pacific Peoples,1094,1065,1147,>950,929
+153100,Golflands,Counties Manukau,Pacific Peoples,64,64,65,>950,>950
+153200,Aorere North,Counties Manukau,Pacific Peoples,780,756,826,944,915
+153300,Māngere East,Counties Manukau,Pacific Peoples,1493,1476,1553,>950,>950
+153400,Cockle Bay,Counties Manukau,Pacific Peoples,75,73,74,>950,>950
+153500,Ōtara West,Counties Manukau,Pacific Peoples,1772,1725,1953,907,883
+153600,Aorere Central,Counties Manukau,Pacific Peoples,965,944,1031,936,916
+153700,Northpark North,Counties Manukau,Pacific Peoples,68,66,73,932,904
+153800,Somerville,Counties Manukau,Pacific Peoples,87,87,92,946,946
+153900,Northpark South,Counties Manukau,Pacific Peoples,68,67,64,>950,>950
+154000,Papatoetoe North,Counties Manukau,Pacific Peoples,1325,1297,1386,>950,936
+154100,Dingwall,Counties Manukau,Pacific Peoples,721,712,746,>950,>950
+154200,Aorere South,Counties Manukau,Pacific Peoples,1785,1765,1877,>950,940
+154300,Shelly Park,Counties Manukau,Pacific Peoples,50,50,52,>950,>950
+154400,Ōtara Central,Counties Manukau,Pacific Peoples,1508,1465,1678,899,873
+154500,Huntington Park,Counties Manukau,Pacific Peoples,77,77,77,>950,>950
+154600,Botany Central,Counties Manukau,Pacific Peoples,masked,masked,masked,masked,masked
+154700,Botany North,Counties Manukau,Pacific Peoples,73,71,72,>950,>950
+154800,Papatoetoe West,Counties Manukau,Pacific Peoples,1484,1456,1570,945,927
+154900,Papatoetoe Central,Counties Manukau,Pacific Peoples,1074,1060,1100,>950,>950
+155000,Sunkist Bay,Counties Manukau,Pacific Peoples,56,56,58,>950,>950
+155100,Ōtara East,Counties Manukau,Pacific Peoples,2200,2136,2345,938,911
+155200,Redcastle,Counties Manukau,Pacific Peoples,182,179,197,924,909
+155300,Botany East,Counties Manukau,Pacific Peoples,63,63,67,940,940
+155400,Botany South,Counties Manukau,Pacific Peoples,103,101,99,>950,>950
+155500,Manukau Central,Counties Manukau,Pacific Peoples,260,253,278,935,910
+155600,Papatoetoe East,Counties Manukau,Pacific Peoples,1218,1199,1293,942,927
+155700,Ōtara South,Counties Manukau,Pacific Peoples,2185,2128,2416,904,881
+155800,Ferguson,Counties Manukau,Pacific Peoples,2530,2455,2744,922,895
+155900,Papatoetoe South West,Counties Manukau,Pacific Peoples,1289,1264,1330,>950,>950
+156000,Botany Junction,Counties Manukau,Pacific Peoples,21,21,25,840,840
+156100,Dannemora North,Counties Manukau,Pacific Peoples,109,109,118,924,924
+156200,Papatoetoe South,Counties Manukau,Pacific Peoples,881,869,899,>950,>950
+156300,East Tamaki Heights,Counties Manukau,Pacific Peoples,90,90,95,947,947
+156400,Te Puru,Counties Manukau,Pacific Peoples,72,72,75,>950,>950
+156500,Puhinui North,Counties Manukau,Pacific Peoples,903,896,918,>950,>950
+156600,Dannemora South,Counties Manukau,Pacific Peoples,195,193,198,>950,>950
+156700,Puhinui South,Counties Manukau,Pacific Peoples,676,660,689,>950,>950
+156800,Rongomai West,Counties Manukau,Pacific Peoples,1368,1321,1515,903,872
+156900,Baverstock,Counties Manukau,Pacific Peoples,378,371,371,>950,>950
+157000,Puhinui East,Counties Manukau,Pacific Peoples,649,641,677,>950,947
+157100,Turanga,Counties Manukau,Pacific Peoples,54,54,60,900,900
+157200,Rongomai East,Counties Manukau,Pacific Peoples,1059,1039,1175,901,884
+157300,Ormiston North,Counties Manukau,Pacific Peoples,200,199,200,>950,>950
+157400,Maraetai,Counties Manukau,Pacific Peoples,39,39,32,>950,>950
+157500,Chapel Downs,Counties Manukau,Pacific Peoples,793,775,833,>950,930
+157600,Wiri West,Counties Manukau,Pacific Peoples,171,162,182,940,890
+157700,Clover Park North,Counties Manukau,Pacific Peoples,2307,2276,2529,912,900
+157800,Mission Heights North,Counties Manukau,Pacific Peoples,231,225,237,>950,949
+157900,Clover Park South,Counties Manukau,Pacific Peoples,1273,1246,1346,946,926
+158000,Donegal Park,Counties Manukau,Pacific Peoples,625,608,639,>950,>950
+158100,Ormiston South,Counties Manukau,Pacific Peoples,628,620,628,>950,>950
+158200,Mission Heights South,Counties Manukau,Pacific Peoples,313,307,313,>950,>950
+158300,Hilltop (Auckland),Counties Manukau,Pacific Peoples,709,697,752,943,927
+158400,Wiri East,Counties Manukau,Pacific Peoples,1521,1472,1703,893,864
+158500,Goodwood Heights,Counties Manukau,Pacific Peoples,906,896,939,>950,>950
+158600,Ormiston East,Counties Manukau,Pacific Peoples,330,324,322,>950,>950
+158700,Clendon Park North,Counties Manukau,Pacific Peoples,1261,1224,1363,925,898
+158800,Burbank,Counties Manukau,Pacific Peoples,1552,1508,1651,940,913
+158900,Tuscany Heights,Counties Manukau,Pacific Peoples,90,90,99,909,909
+159000,Totara Heights,Counties Manukau,Pacific Peoples,558,551,581,>950,948
+159100,Homai East,Counties Manukau,Pacific Peoples,910,890,996,914,894
+159200,Homai West,Counties Manukau,Pacific Peoples,1626,1587,1761,923,901
+159300,The Gardens (Auckland),Counties Manukau,Pacific Peoples,401,400,439,913,911
+159400,Clarks Beach,Counties Manukau,Pacific Peoples,55,53,53,>950,>950
+159500,Clendon Park West,Counties Manukau,Pacific Peoples,1254,1230,1311,>950,938
+159600,Hillpark North,Counties Manukau,Pacific Peoples,425,411,432,>950,>950
+159700,Clendon Park East,Counties Manukau,Pacific Peoples,990,968,1023,>950,946
+159800,Karaka Creek,Counties Manukau,Pacific Peoples,24,24,23,>950,>950
+159900,Rowandale West,Counties Manukau,Pacific Peoples,1385,1347,1469,943,917
+160000,Rowandale East,Counties Manukau,Pacific Peoples,1325,1296,1394,>950,930
+160100,Manurewa Central,Counties Manukau,Pacific Peoples,889,869,942,944,923
+160200,Weymouth North,Counties Manukau,Pacific Peoples,1609,1574,1693,>950,930
+160300,Hillpark South,Counties Manukau,Pacific Peoples,495,488,538,920,907
+160400,Alfriston,Counties Manukau,Pacific Peoples,533,525,569,937,923
+160500,Weymouth East,Counties Manukau,Pacific Peoples,1275,1253,1367,933,917
+160600,Leabank,Counties Manukau,Pacific Peoples,1339,1302,1434,934,908
+160700,Weymouth South,Counties Manukau,Pacific Peoples,1013,994,1109,913,896
+160800,Manurewa East,Counties Manukau,Pacific Peoples,858,842,884,>950,>950
+160900,Manurewa South,Counties Manukau,Pacific Peoples,1118,1091,1196,935,912
+161000,Randwick Park East,Counties Manukau,Pacific Peoples,512,507,536,>950,946
+161100,Wattle Downs West,Counties Manukau,Pacific Peoples,385,380,395,>950,>950
+161200,Wattle Downs North,Counties Manukau,Pacific Peoples,769,750,829,928,905
+161300,Randwick Park West,Counties Manukau,Pacific Peoples,1112,1088,1216,914,895
+161400,Kingseat-Karaka,Counties Manukau,Pacific Peoples,78,77,73,>950,>950
+161500,Wattle Downs East,Counties Manukau,Pacific Peoples,279,275,291,>950,945
+161600,Takanini North,Counties Manukau,Pacific Peoples,337,328,370,911,886
+161700,Takanini Industrial,Counties Manukau,Pacific Peoples,masked,masked,masked,>950,>950
+161800,Conifer Grove West,Counties Manukau,Pacific Peoples,172,168,187,920,898
+161900,Conifer Grove East,Counties Manukau,Pacific Peoples,313,301,362,865,831
+162000,Takanini West,Counties Manukau,Pacific Peoples,461,444,481,>950,923
+162100,Takanini South,Counties Manukau,Pacific Peoples,651,645,649,>950,>950
+162200,Takanini Central,Counties Manukau,Pacific Peoples,118,117,113,>950,>950
+162300,Ardmore,Counties Manukau,Pacific Peoples,47,45,47,>950,>950
+162400,Glenbrook,Counties Manukau,Pacific Peoples,95,92,100,950,920
+162500,Hingaia,Counties Manukau,Pacific Peoples,102,100,103,>950,>950
+162600,Takanini South East,Counties Manukau,Pacific Peoples,391,380,385,>950,>950
+162700,Kawakawa Bay-Orere,Counties Manukau,Pacific Peoples,26,25,26,>950,>950
+162800,Papakura West,Counties Manukau,Pacific Peoples,180,178,192,938,927
+162900,Clevedon,Counties Manukau,Pacific Peoples,24,24,25,>950,>950
+163000,Papakura North,Counties Manukau,Pacific Peoples,498,488,521,>950,937
+163100,Pahurehure,Counties Manukau,Pacific Peoples,221,217,225,>950,>950
+163200,Papakura Central,Counties Manukau,Pacific Peoples,337,327,368,916,889
+163300,Papakura North East,Counties Manukau,Pacific Peoples,521,511,530,>950,>950
+163400,Karaka Lakes,Counties Manukau,Pacific Peoples,120,119,125,>950,>950
+163500,Papakura Kelvin,Counties Manukau,Pacific Peoples,824,803,845,>950,>950
+163600,Papakura Massey Park,Counties Manukau,Pacific Peoples,492,481,529,930,909
+163700,Rosehill,Counties Manukau,Pacific Peoples,523,517,546,>950,947
+163800,Patumahoe,Counties Manukau,Pacific Peoples,45,44,41,>950,>950
+163900,Papakura East,Counties Manukau,Pacific Peoples,614,603,646,>950,933
+164000,Ōpaheke,Counties Manukau,Pacific Peoples,240,234,253,949,925
+164100,Papakura Industrial,Counties Manukau,Pacific Peoples,46,46,44,>950,>950
+164200,Red Hill,Counties Manukau,Pacific Peoples,416,402,425,>950,946
+164300,Drury,Counties Manukau,Pacific Peoples,85,81,95,895,853
+164400,Tamakae,Counties Manukau,Pacific Peoples,59,57,58,>950,>950
+164500,Hamilton Estate,Counties Manukau,Pacific Peoples,74,70,68,>950,>950
+164600,Drury Rural,Counties Manukau,Pacific Peoples,78,75,84,929,893
+164700,Waiuku Central,Counties Manukau,Pacific Peoples,33,33,38,868,868
+164800,Waiuku East,Counties Manukau,Pacific Peoples,52,52,60,867,867
+164900,Kendallvale,Counties Manukau,Pacific Peoples,19,18,19,>950,947
+165000,Puni,Counties Manukau,Pacific Peoples,101,99,94,>950,>950
+165100,Ramarama,Counties Manukau,Pacific Peoples,58,58,61,>950,>950
+165200,Hunua,Counties Manukau,Pacific Peoples,27,27,31,871,871
+165300,Pukekohe North West,Counties Manukau,Pacific Peoples,472,464,475,>950,>950
+165400,Anselmi Ridge,Counties Manukau,Pacific Peoples,67,65,64,>950,>950
+165500,Pukekohe West,Counties Manukau,Pacific Peoples,508,491,501,>950,>950
+165600,Cape Hill,Counties Manukau,Pacific Peoples,53,52,49,>950,>950
+165700,Rosa Birch Park,Counties Manukau,Pacific Peoples,54,53,54,>950,>950
+165800,Rooseville Park,Counties Manukau,Pacific Peoples,78,75,78,>950,>950
+165900,Cloverlea (Auckland),Counties Manukau,Pacific Peoples,58,58,60,>950,>950
+166000,Pukekohe Central,Counties Manukau,Pacific Peoples,34,32,36,944,889
+166100,Pukekohe Hospital,Counties Manukau,Pacific Peoples,45,45,49,918,918
+166200,Buckland,Counties Manukau,Pacific Peoples,40,40,41,>950,>950
+166300,Bombay Hills,Counties Manukau,Pacific Peoples,48,48,53,906,906
+166400,Ararimu,Counties Manukau,Pacific Peoples,33,33,30,>950,>950
+166500,Colville,Waikato,Pacific Peoples,13,13,19,684,684
+166600,Islands Thames-Coromandel District,Waikato,Pacific Peoples,masked,masked,masked,masked,masked
+166700,Coromandel,Waikato,Pacific Peoples,13,13,18,722,722
+166900,Mercury Bay North,Waikato,Pacific Peoples,16,16,15,>950,>950
+167000,Whitianga North,Waikato,Pacific Peoples,14,14,17,824,824
+167100,Whitianga South,Waikato,Pacific Peoples,41,40,50,820,800
+167200,Thames Coast,Waikato,Pacific Peoples,14,14,15,933,933
+167300,Cooks Beach-Ferry Landing,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+167400,Mercury Bay South,Waikato,Pacific Peoples,8,8,7,>950,>950
+167500,Kauaeranga,Waikato,Pacific Peoples,masked,masked,masked,masked,masked
+167600,Thames North,Waikato,Pacific Peoples,31,31,33,939,939
+167700,Thames Central,Waikato,Pacific Peoples,13,13,16,813,813
+167800,Thames South,Waikato,Pacific Peoples,43,41,48,896,854
+167900,Hikuai,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+168000,Totora-Kopu,Waikato,Pacific Peoples,masked,masked,masked,833,833
+168100,Tairua,Waikato,Pacific Peoples,17,17,18,944,944
+168200,Pauanui,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+168300,Matatoki-Puriri,Waikato,Pacific Peoples,7,7,7,>950,>950
+168400,Whangamatā Rural,Waikato,Pacific Peoples,masked,masked,masked,masked,masked
+168500,Whangamatā,Waikato,Pacific Peoples,27,25,33,818,758
+168600,Miranda-Pūkorokoro,Counties Manukau,Pacific Peoples,15,15,17,882,882
+168700,Hauraki Plains North,Waikato,Pacific Peoples,9,9,12,750,750
+168800,Hauraki Plains East,Waikato,Pacific Peoples,masked,masked,masked,833,833
+168900,Ngatea,Waikato,Pacific Peoples,16,16,15,>950,>950
+169000,Hauraki Plains South,Waikato,Pacific Peoples,11,11,12,917,917
+169100,Paeroa Rural,Waikato,Pacific Peoples,13,13,14,929,929
+169200,Paeroa,Waikato,Pacific Peoples,71,68,77,922,883
+169300,Waihi Rural,Waikato,Pacific Peoples,35,35,36,>950,>950
+169400,Waihi North,Waikato,Pacific Peoples,22,22,29,759,759
+169500,Waihi East,Waikato,Pacific Peoples,21,17,27,778,630
+169600,Waihi South,Waikato,Pacific Peoples,30,28,33,909,848
+169700,Aka Aka,Counties Manukau,Pacific Peoples,36,36,40,900,900
+169800,Mangatangi,Counties Manukau,Pacific Peoples,48,48,27,>950,>950
+169900,Tuakau Rural,Counties Manukau,Pacific Peoples,67,67,61,>950,>950
+170000,Tuakau North,Counties Manukau,Pacific Peoples,142,139,134,>950,>950
+170100,Onewhero,Counties Manukau,Pacific Peoples,41,41,43,>950,>950
+170200,Pōkeno Rural,Counties Manukau,Pacific Peoples,34,34,31,>950,>950
+170300,Tuakau South,Counties Manukau,Pacific Peoples,126,119,114,>950,>950
+170400,Port Waikato-Waikaretu,Counties Manukau,Pacific Peoples,21,21,24,875,875
+170500,Pōkeno,Counties Manukau,Pacific Peoples,263,261,267,>950,>950
+170600,Pukekawa,Counties Manukau,Pacific Peoples,18,17,20,900,850
+170700,Maramarua,Waikato,Pacific Peoples,48,46,46,>950,>950
+170800,Rangiriri,Waikato,Pacific Peoples,31,31,29,>950,>950
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+170900,Te Ākau,Waikato,Pacific Peoples,masked,masked,masked,>950,667
+171100,Te Kauwhata,Waikato,Pacific Peoples,55,55,53,>950,>950
+171200,Huntly Rural,Waikato,Pacific Peoples,23,23,26,885,885
+171300,Waerenga,Waikato,Pacific Peoples,10,10,9,>950,>950
+171400,Huntly West,Waikato,Pacific Peoples,111,106,117,949,906
+171500,Huntly East,Waikato,Pacific Peoples,281,275,294,>950,935
+171600,Raglan,Waikato,Pacific Peoples,29,29,29,>950,>950
+171700,Whitikahu,Waikato,Pacific Peoples,17,17,16,>950,>950
+171800,Te Uku,Waikato,Pacific Peoples,18,18,19,947,947
+171900,Taupiri-Lake Kainui,Waikato,Pacific Peoples,36,35,35,>950,>950
+172000,Ngāruawāhia North,Waikato,Pacific Peoples,39,38,37,>950,>950
+172100,Ngāruawāhia Central,Waikato,Pacific Peoples,80,76,77,>950,>950
+172200,Ngāruawāhia South,Waikato,Pacific Peoples,36,34,35,>950,>950
+172300,Kainui-Gordonton,Waikato,Pacific Peoples,14,14,13,>950,>950
+172400,Te Kowhai,Waikato,Pacific Peoples,15,15,16,938,938
+172500,Whatawhata West,Waikato,Pacific Peoples,masked,masked,masked,masked,masked
+172600,Horotiu,Waikato,Pacific Peoples,13,13,14,929,929
+172700,Horsham Downs,Waikato,Pacific Peoples,masked,masked,8,750,750
+172800,Whatawhata East,Waikato,Pacific Peoples,36,35,31,>950,>950
+172900,Rotokauri,Waikato,Pacific Peoples,masked,masked,9,667,667
+173000,Hamilton Park,Waikato,Pacific Peoples,9,9,10,900,900
+173100,Eureka-Tauwhare,Waikato,Pacific Peoples,15,15,15,>950,>950
+173200,Tamahere North,Waikato,Pacific Peoples,31,29,32,>950,906
+173300,Pukemoremore,Waikato,Pacific Peoples,20,20,23,870,870
+173400,Tamahere South,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+173500,Tahuna-Mangateparu,Waikato,Pacific Peoples,10,9,11,909,818
+173600,Mangaiti,Waikato,Pacific Peoples,11,11,11,>950,>950
+173700,Tatuanui,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+173800,Tahuroa,Waikato,Pacific Peoples,10,10,10,>950,>950
+173900,Morrinsville East,Waikato,Pacific Peoples,35,35,31,>950,>950
+174000,Morrinsville West,Waikato,Pacific Peoples,27,25,27,>950,926
+174100,Te Aroha East,Waikato,Pacific Peoples,80,78,77,>950,>950
+174200,Te Aroha West,Waikato,Pacific Peoples,23,23,29,793,793
+174300,Waihou-Manawaru,Waikato,Pacific Peoples,17,16,20,850,800
+174400,Waitoa-Ngarua,Waikato,Pacific Peoples,35,35,23,>950,>950
+174500,Richmond Downs-Wardville,Waikato,Pacific Peoples,masked,masked,masked,400,200
+174600,Waharoa-Peria,Waikato,Pacific Peoples,9,9,9,>950,>950
+174700,Okauia,Waikato,Pacific Peoples,7,masked,8,875,750
+174800,Hinuera,Waikato,Pacific Peoples,masked,masked,masked,600,600
+174900,Matamata North,Waikato,Pacific Peoples,23,21,25,920,840
+175000,Matamata South,Waikato,Pacific Peoples,55,54,50,>950,>950
+175100,Te Poi,Waikato,Pacific Peoples,10,10,12,833,833
+175200,Te Rapa North,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+175300,Flagstaff North,Waikato,Pacific Peoples,68,68,68,>950,>950
+175400,Rotokauri-Waiwhakareke,Waikato,Pacific Peoples,28,28,24,>950,>950
+175500,Flagstaff South,Waikato,Pacific Peoples,45,44,43,>950,>950
+175600,Rototuna North,Waikato,Pacific Peoples,45,44,41,>950,>950
+175700,Pukete West,Waikato,Pacific Peoples,74,74,75,>950,>950
+175800,Flagstaff East,Waikato,Pacific Peoples,68,67,66,>950,>950
+175900,Rototuna Central,Waikato,Pacific Peoples,101,100,108,935,926
+176000,Pukete East,Waikato,Pacific Peoples,48,48,46,>950,>950
+176100,Te Manatu,Waikato,Pacific Peoples,67,65,80,838,813
+176200,Rototuna South,Waikato,Pacific Peoples,75,73,79,949,924
+176300,Te Rapa South,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+176400,Saint Andrews West,Waikato,Pacific Peoples,117,113,117,>950,>950
+176500,Saint Andrews East,Waikato,Pacific Peoples,42,42,47,894,894
+176600,Queenwood (Hamilton City),Waikato,Pacific Peoples,38,35,49,776,714
+176700,St James,Waikato,Pacific Peoples,33,33,37,892,892
+176800,Crawshaw,Waikato,Pacific Peoples,170,168,175,>950,>950
+176900,Huntington,Waikato,Pacific Peoples,31,30,35,886,857
+177000,Western Heights (Hamilton City),Waikato,Pacific Peoples,110,110,114,>950,>950
+177100,Nawton West,Waikato,Pacific Peoples,173,173,183,945,945
+177200,Nawton East,Waikato,Pacific Peoples,211,202,233,906,867
+177300,Chartwell,Waikato,Pacific Peoples,126,124,133,947,932
+177400,Forest Lake (Hamilton City),Waikato,Pacific Peoples,67,65,67,>950,>950
+177500,Chedworth,Waikato,Pacific Peoples,42,40,43,>950,930
+177600,Beerescourt,Waikato,Pacific Peoples,61,59,62,>950,>950
+177700,Miropiko,Waikato,Pacific Peoples,69,69,75,920,920
+177800,Porritt,Waikato,Pacific Peoples,144,140,155,929,903
+177900,Dinsdale North,Waikato,Pacific Peoples,159,157,169,941,929
+178000,Maeroa,Waikato,Pacific Peoples,161,157,152,>950,>950
+178100,Dinsdale South,Waikato,Pacific Peoples,106,105,108,>950,>950
+178200,Fairfield (Hamilton City),Waikato,Pacific Peoples,291,281,310,939,906
+178300,Whitiora,Waikato,Pacific Peoples,92,92,95,>950,>950
+178400,Enderley North,Waikato,Pacific Peoples,210,205,227,925,903
+178500,Fairview Downs,Waikato,Pacific Peoples,202,196,197,>950,>950
+178600,Temple View,Waikato,Pacific Peoples,87,87,100,870,870
+178700,Swarbrick,Waikato,Pacific Peoples,112,111,122,918,910
+178800,Kahikatea,Waikato,Pacific Peoples,188,179,197,>950,909
+178900,Frankton Junction,Waikato,Pacific Peoples,59,57,55,>950,>950
+179000,Kirikiriroa,Waikato,Pacific Peoples,19,17,17,>950,>950
+179100,Enderley South,Waikato,Pacific Peoples,194,185,205,946,902
+179200,Ruakura,Waikato,Pacific Peoples,82,82,82,>950,>950
+179300,Claudelands,Waikato,Pacific Peoples,80,78,97,825,804
+179400,Hamilton Central,Waikato,Pacific Peoples,24,24,23,>950,>950
+179500,Hamilton Lake,Waikato,Pacific Peoples,124,124,122,>950,>950
+179600,Peachgrove,Waikato,Pacific Peoples,134,130,145,924,897
+179700,Hamilton East Village,Waikato,Pacific Peoples,129,126,126,>950,>950
+179800,Hamilton West,Waikato,Pacific Peoples,41,41,43,>950,>950
+179900,Greensboro,Waikato,Pacific Peoples,259,255,277,935,921
+180000,Hamilton East Cook,Waikato,Pacific Peoples,104,104,102,>950,>950
+180100,Melville North,Waikato,Pacific Peoples,121,121,126,>950,>950
+180200,Hamilton East,Waikato,Pacific Peoples,100,98,98,>950,>950
+180300,Melville South,Waikato,Pacific Peoples,137,135,144,>950,938
+180400,Deanwell,Waikato,Pacific Peoples,88,87,91,>950,>950
+180500,Bader,Waikato,Pacific Peoples,185,181,198,934,914
+180600,Hillcrest West (Hamilton City),Waikato,Pacific Peoples,95,93,90,>950,>950
+180700,Hillcrest East (Hamilton City),Waikato,Pacific Peoples,124,121,129,>950,938
+180800,Silverdale (Hamilton City),Waikato,Pacific Peoples,81,78,83,>950,940
+180900,Glenview,Waikato,Pacific Peoples,59,58,59,>950,>950
+181000,Resthill,Waikato,Pacific Peoples,85,85,83,>950,>950
+181100,Fitzroy,Waikato,Pacific Peoples,124,124,124,>950,>950
+181200,Riverlea,Waikato,Pacific Peoples,22,22,25,880,880
+181300,Peacockes,Waikato,Pacific Peoples,masked,masked,masked,>950,800
+181400,Te Pahu,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+181500,Ngahinapouri,Waikato,Pacific Peoples,10,10,14,714,714
+181600,Lake Cameron,Waikato,Pacific Peoples,70,70,26,>950,>950
+181700,Lake Ngaroto,Waikato,Pacific Peoples,16,16,18,889,889
+181800,Kaipaki,Waikato,Pacific Peoples,13,13,15,867,867
+181900,Pirongia,Waikato,Pacific Peoples,masked,masked,masked,800,800
+182000,Hautapu Rural,Waikato,Pacific Peoples,14,13,10,>950,>950
+182100,Pokuru,Waikato,Pacific Peoples,masked,masked,masked,800,800
+182200,Te Rahu,Waikato,Pacific Peoples,masked,masked,7,857,714
+182300,Fencourt,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+182400,Hautapu,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+182500,Karapiro,Waikato,Pacific Peoples,15,15,17,882,882
+182600,Cambridge North,Waikato,Pacific Peoples,14,14,14,>950,>950
+182700,Cambridge West,Waikato,Pacific Peoples,16,15,15,>950,>950
+182800,Cambridge East,Waikato,Pacific Peoples,17,16,21,810,762
+182900,Cambridge Park-River Garden,Waikato,Pacific Peoples,7,7,8,875,875
+183000,Oaklands-St Kilda,Waikato,Pacific Peoples,masked,masked,7,714,714
+183100,Pukerimu,Waikato,Pacific Peoples,12,12,12,>950,>950
+183200,Cambridge Central,Waikato,Pacific Peoples,masked,masked,masked,800,800
+183300,Te Awamutu North,Waikato,Pacific Peoples,11,11,14,786,786
+183400,Te Awamutu West,Waikato,Pacific Peoples,17,17,24,708,708
+183500,Leamington West,Waikato,Pacific Peoples,masked,masked,8,750,750
+183600,Goodfellow Park,Waikato,Pacific Peoples,20,20,19,>950,>950
+183700,Leamington South,Waikato,Pacific Peoples,15,15,15,>950,>950
+183800,Leamington Central,Waikato,Pacific Peoples,29,27,31,935,871
+183900,Leamington East,Waikato,Pacific Peoples,12,12,15,800,800
+184000,Te Awamutu Stadium,Waikato,Pacific Peoples,17,17,18,944,944
+184100,Te Awamutu Central,Waikato,Pacific Peoples,12,12,8,>950,>950
+184200,Pekerau,Waikato,Pacific Peoples,30,30,26,>950,>950
+184300,Fraser Street,Waikato,Pacific Peoples,17,17,16,>950,>950
+184400,Sherwin Park,Waikato,Pacific Peoples,35,33,37,946,892
+184500,St Leger,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+184600,Rotoorangi,Waikato,Pacific Peoples,7,7,7,>950,>950
+184700,Tokanui,Waikato,Pacific Peoples,masked,masked,7,857,857
+184800,Kihikihi Central,Waikato,Pacific Peoples,32,32,31,>950,>950
+184900,Maungatautari,Waikato,Pacific Peoples,masked,masked,masked,800,800
+185000,Rotongata,Waikato,Pacific Peoples,7,7,8,875,875
+185200,Pirongia Forest,Waikato,Pacific Peoples,masked,masked,masked,>950,750
+185300,Honikiwi,Waikato,Pacific Peoples,12,12,11,>950,>950
+185400,Te Kawa,Waikato,Pacific Peoples,12,12,13,923,923
+185500,Otorohanga,Waikato,Pacific Peoples,53,53,57,930,930
+185600,Maihiihi,Waikato,Pacific Peoples,8,8,7,>950,>950
+185700,Puniu,Waikato,Pacific Peoples,9,8,10,900,800
+185800,Tīrau,Waikato,Pacific Peoples,18,18,16,>950,>950
+185900,Putāruru Rural,Waikato,Pacific Peoples,12,12,18,667,667
+186000,Putāruru,Waikato,Pacific Peoples,50,46,55,909,836
+186100,Kinleith,Waikato,Pacific Peoples,21,20,21,>950,>950
+186200,Paraonui,Waikato,Pacific Peoples,118,116,120,>950,>950
+186300,Parkdale,Waikato,Pacific Peoples,41,39,53,774,736
+186400,Matarawa,Waikato,Pacific Peoples,208,206,218,>950,945
+186500,Stanley Park,Waikato,Pacific Peoples,235,227,252,933,901
+186600,Strathmore (South Waikato District),Waikato,Pacific Peoples,319,308,342,933,901
+186700,Tokoroa Central,Waikato,Pacific Peoples,113,108,121,934,893
+186800,Moananui,Waikato,Pacific Peoples,317,305,346,916,882
+187000,Herangi,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+187100,Hangatiki,Waikato,Pacific Peoples,7,7,7,>950,>950
+187200,Aria,Waikato,Pacific Peoples,15,15,14,>950,>950
+187300,Te Kuiti West,Waikato,Pacific Peoples,65,62,76,855,816
+187400,Te Kuiti East,Waikato,Pacific Peoples,67,63,75,893,840
+187500,Waipa Valley,Waikato,Pacific Peoples,25,23,24,>950,>950
+187600,Tiroa,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+187700,Marotiri,Lakes,Pacific Peoples,31,29,31,>950,935
+187800,Ohakuri,Lakes,Pacific Peoples,19,18,22,864,818
+187900,Lake Taupo Bays,Lakes,Pacific Peoples,12,11,12,>950,917
+188000,Mapara,Lakes,Pacific Peoples,masked,masked,masked,667,667
+188200,Wairakei-Broadlands,Lakes,Pacific Peoples,12,12,13,923,923
+188300,Acacia Bay,Lakes,Pacific Peoples,masked,masked,masked,833,833
+188400,Brentwood (Taupo District),Lakes,Pacific Peoples,23,23,21,>950,>950
+188500,Nukuhau-Rangatira Park,Lakes,Pacific Peoples,40,39,41,>950,>950
+188600,Taupō Central West,Lakes,Pacific Peoples,7,7,7,>950,>950
+188700,Tauhara,Lakes,Pacific Peoples,60,59,59,>950,>950
+188800,Taupō Central East,Lakes,Pacific Peoples,81,79,83,>950,>950
+188900,Mountview,Lakes,Pacific Peoples,53,50,58,914,862
+189000,Bird Area,Lakes,Pacific Peoples,35,35,37,946,946
+189100,Hilltop (Taupo District),Lakes,Pacific Peoples,52,52,54,>950,>950
+189200,Waipahihi,Lakes,Pacific Peoples,27,27,25,>950,>950
+189300,Richmond Heights,Lakes,Pacific Peoples,41,41,47,872,872
+189400,Wharewaka,Lakes,Pacific Peoples,masked,masked,masked,>950,>950
+189500,Kaimanawa,Lakes,Pacific Peoples,masked,masked,masked,masked,masked
+189600,Waitahanui,Lakes,Pacific Peoples,7,7,8,875,875
+189700,Tūrangi,Lakes,Pacific Peoples,39,38,40,>950,950
+189800,Rangataiki,Lakes,Pacific Peoples,masked,masked,masked,>950,>950
+189900,Taharua,Lakes,Pacific Peoples,masked,masked,masked,masked,masked
+190000,Te More,Lakes,Pacific Peoples,masked,masked,masked,masked,masked
+190100,Waiau,Bay of Plenty,Pacific Peoples,masked,masked,masked,833,667
+190200,Waihi Beach-Bowentown,Bay of Plenty,Pacific Peoples,12,12,17,706,706
+190300,Tahawai,Bay of Plenty,Pacific Peoples,27,27,24,>950,>950
+190400,Athenree,Bay of Plenty,Pacific Peoples,masked,masked,masked,>950,>950
+190500,Aongatete,Bay of Plenty,Pacific Peoples,246,244,77,>950,>950
+190600,Katikati,Bay of Plenty,Pacific Peoples,198,196,163,>950,>950
+190700,Inlet Tauranga Harbour North,Bay of Plenty,Pacific Peoples,masked,masked,masked,masked,masked
+190800,Matakana Island,Bay of Plenty,Pacific Peoples,masked,masked,masked,masked,masked
+190900,Pahoia,Bay of Plenty,Pacific Peoples,37,36,26,>950,>950
+191000,Omokoroa,Bay of Plenty,Pacific Peoples,20,19,21,>950,905
+191100,Omokoroa Rural,Bay of Plenty,Pacific Peoples,44,44,18,>950,>950
+191200,Te Puna,Bay of Plenty,Pacific Peoples,36,35,19,>950,>950
+191300,Minden,Bay of Plenty,Pacific Peoples,23,23,23,>950,>950
+191400,Kaimai,Bay of Plenty,Pacific Peoples,8,7,9,889,778
+191500,Kopurererua,Bay of Plenty,Pacific Peoples,masked,masked,masked,600,600
+191600,Kaitemako (Western Bay of Plenty District),Bay of Plenty,Pacific Peoples,7,7,8,875,875
+191700,Waiorohi,Bay of Plenty,Pacific Peoples,12,12,16,750,750
+191800,Otawa,Bay of Plenty,Pacific Peoples,170,168,44,>950,>950
+191900,Te Puke West,Bay of Plenty,Pacific Peoples,143,138,94,>950,>950
+192000,Rangiuru,Bay of Plenty,Pacific Peoples,371,367,91,>950,>950
+192100,Te Puke East,Bay of Plenty,Pacific Peoples,144,142,133,>950,>950
+192300,Maketu,Bay of Plenty,Pacific Peoples,43,42,36,>950,>950
+192400,Pukehina Beach,Bay of Plenty,Pacific Peoples,18,16,10,>950,>950
+192500,Pongakawa,Bay of Plenty,Pacific Peoples,92,91,37,>950,>950
+192600,Matua North,Bay of Plenty,Pacific Peoples,25,23,26,>950,885
+192800,Mount Maunganui North,Bay of Plenty,Pacific Peoples,34,32,37,919,865
+192900,Matua South,Bay of Plenty,Pacific Peoples,38,37,33,>950,>950
+193000,Bethlehem North,Bay of Plenty,Pacific Peoples,17,16,26,654,615
+193100,Bellevue,Bay of Plenty,Pacific Peoples,53,52,56,946,929
+193200,Otūmoetai North,Bay of Plenty,Pacific Peoples,54,54,43,>950,>950
+193300,Otūmoetai South,Bay of Plenty,Pacific Peoples,27,26,36,750,722
+193400,Brookfield West,Bay of Plenty,Pacific Peoples,60,60,62,>950,>950
+193500,Bethlehem Central,Bay of Plenty,Pacific Peoples,23,22,28,821,786
+193600,Brookfield East,Bay of Plenty,Pacific Peoples,51,47,51,>950,922
+193700,Mount Maunganui South,Bay of Plenty,Pacific Peoples,19,19,20,950,950
+193800,Tauranga Central,Bay of Plenty,Pacific Peoples,40,40,28,>950,>950
+193900,Mount Maunganui Central,Bay of Plenty,Pacific Peoples,masked,masked,masked,>950,>950
+194000,Judea,Bay of Plenty,Pacific Peoples,60,59,56,>950,>950
+194100,Te Reti,Bay of Plenty,Pacific Peoples,35,33,33,>950,>950
+194200,Bethlehem South,Bay of Plenty,Pacific Peoples,19,16,20,950,800
+194300,Omanu Beach,Bay of Plenty,Pacific Peoples,26,25,28,929,893
+194400,Tauranga Hospital,Bay of Plenty,Pacific Peoples,86,86,81,>950,>950
+194500,Tauriko,Bay of Plenty,Pacific Peoples,masked,masked,masked,>950,>950
+194600,Gate Pa,Bay of Plenty,Pacific Peoples,178,173,184,>950,940
+194700,Greerton South,Bay of Plenty,Pacific Peoples,19,19,20,950,950
+194800,Tauranga South,Bay of Plenty,Pacific Peoples,87,83,101,861,822
+194900,Arataki North,Bay of Plenty,Pacific Peoples,53,53,49,>950,>950
+195000,Matapihi,Bay of Plenty,Pacific Peoples,masked,masked,masked,>950,>950
+195100,Pyes Pa West,Bay of Plenty,Pacific Peoples,74,72,66,>950,>950
+195200,Greerton North,Bay of Plenty,Pacific Peoples,64,62,64,>950,>950
+195300,Yatton Park,Bay of Plenty,Pacific Peoples,153,143,155,>950,923
+195400,Pyes Pa North,Bay of Plenty,Pacific Peoples,84,83,81,>950,>950
+195500,Arataki South,Bay of Plenty,Pacific Peoples,48,47,50,>950,940
+195600,Pyes Pa South,Bay of Plenty,Pacific Peoples,9,9,11,818,818
+195700,Poike,Bay of Plenty,Pacific Peoples,12,12,16,750,750
+195800,Te Maunga North,Bay of Plenty,Pacific Peoples,44,43,46,>950,935
+195900,Maungatapu,Bay of Plenty,Pacific Peoples,43,42,49,878,857
+196000,Hairini,Bay of Plenty,Pacific Peoples,37,37,40,925,925
+196100,Pyes Pa East,Bay of Plenty,Pacific Peoples,masked,masked,masked,<50,<50
+196200,Te Maunga South,Bay of Plenty,Pacific Peoples,84,84,47,>950,>950
+196300,Kaitemako (Tauranga City),Bay of Plenty,Pacific Peoples,19,19,20,950,950
+196400,Ohauiti,Bay of Plenty,Pacific Peoples,16,16,21,762,762
+196500,Baypark-Kairua,Bay of Plenty,Pacific Peoples,13,12,20,650,600
+196600,Welcome Bay West,Bay of Plenty,Pacific Peoples,41,41,50,820,820
+196700,Welcome Bay East,Bay of Plenty,Pacific Peoples,88,87,50,>950,>950
+196800,Pacific View,Bay of Plenty,Pacific Peoples,36,36,37,>950,>950
+196900,Welcome Bay South,Bay of Plenty,Pacific Peoples,58,57,62,935,919
+197000,Palm Beach North,Bay of Plenty,Pacific Peoples,55,52,59,932,881
+197100,Palm Beach South-Gravatt,Bay of Plenty,Pacific Peoples,30,30,29,>950,>950
+197200,Papamoa Beach North,Bay of Plenty,Pacific Peoples,47,47,48,>950,>950
+197300,Doncaster,Bay of Plenty,Pacific Peoples,41,40,40,>950,>950
+197400,Papamoa Beach South,Bay of Plenty,Pacific Peoples,40,38,47,851,809
+197500,Motiti,Bay of Plenty,Pacific Peoples,37,36,37,>950,>950
+197600,Wairakei,Bay of Plenty,Pacific Peoples,145,139,154,942,903
+197700,Tui Ridge,Lakes,Pacific Peoples,10,10,8,>950,>950
+197800,Arahiwi,Lakes,Pacific Peoples,masked,masked,masked,masked,masked
+197900,Ngongotahā Valley,Lakes,Pacific Peoples,19,19,19,>950,>950
+198000,Hamurana,Lakes,Pacific Peoples,8,8,7,>950,>950
+198100,Ngongotahā East,Lakes,Pacific Peoples,42,41,38,>950,>950
+198200,Ngongotahā West,Lakes,Pacific Peoples,35,33,34,>950,>950
+198400,Ngongotahā South,Lakes,Pacific Peoples,19,19,22,864,864
+198500,Selwyn Heights,Lakes,Pacific Peoples,47,46,50,940,920
+198600,Pleasant Heights,Lakes,Pacific Peoples,76,73,85,894,859
+198700,Rotoiti-Rotoehu,Lakes,Pacific Peoples,18,17,14,>950,>950
+198800,Kawaha,Lakes,Pacific Peoples,54,51,53,>950,>950
+198900,Fairy Springs,Lakes,Pacific Peoples,61,58,67,910,866
+199000,Western Heights (Rotorua District),Lakes,Pacific Peoples,86,83,87,>950,>950
+199100,Pukehangi North,Lakes,Pacific Peoples,74,71,76,>950,934
+199200,Pukehangi South,Lakes,Pacific Peoples,45,44,48,938,917
+199300,Mangakakahi Central,Lakes,Pacific Peoples,masked,masked,masked,masked,masked
+199400,Koutu,Lakes,Pacific Peoples,52,51,63,825,810
+199500,Mangakakahi West,Lakes,Pacific Peoples,78,77,80,>950,>950
+199600,Sunnybrook,Lakes,Pacific Peoples,28,26,27,>950,>950
+199700,Fordlands,Lakes,Pacific Peoples,157,148,156,>950,949
+199800,Kuirau,Lakes,Pacific Peoples,18,18,22,818,818
+199900,Utuhina,Lakes,Pacific Peoples,63,61,76,829,803
+200000,Pomare,Lakes,Pacific Peoples,43,42,38,>950,>950
+200100,Rotorua Central,Lakes,Pacific Peoples,masked,masked,8,750,750
+200200,Hillcrest (Rotorua District),Lakes,Pacific Peoples,39,39,39,>950,>950
+200300,Victoria,Lakes,Pacific Peoples,68,64,81,840,790
+200400,Waiohewa,Lakes,Pacific Peoples,10,10,11,909,909
+200500,Glenholme North,Lakes,Pacific Peoples,93,92,98,949,939
+200600,Springfield South,Lakes,Pacific Peoples,12,12,14,857,857
+200700,Springfield North,Lakes,Pacific Peoples,27,27,29,931,931
+200800,Glenholme South,Lakes,Pacific Peoples,40,40,44,909,909
+200900,Ōwhata West,Lakes,Pacific Peoples,46,45,48,>950,938
+201000,Holdens Bay-Rotokawa,Lakes,Pacific Peoples,25,25,23,>950,>950
+201100,Ngapuna,Lakes,Pacific Peoples,masked,masked,masked,750,750
+201200,Fenton Park,Lakes,Pacific Peoples,52,51,44,>950,>950
+201300,Tihiotonga-Whakarewarewa,Lakes,Pacific Peoples,masked,masked,masked,>950,>950
+201400,Ōwhata East,Lakes,Pacific Peoples,60,58,58,>950,>950
+201500,Lynmore,Lakes,Pacific Peoples,30,29,37,811,784
+201600,Ngakuru,Lakes,Pacific Peoples,7,7,7,>950,>950
+201700,Kaingaroa-Whakarewarewa,Lakes,Pacific Peoples,9,9,11,818,818
+201800,Golden Springs,Lakes,Pacific Peoples,10,10,12,833,833
+201900,Manawahe,Bay of Plenty,Pacific Peoples,12,12,13,923,923
+202000,Matatā-Otakiri,Bay of Plenty,Pacific Peoples,10,9,11,909,818
+202100,Onepu Spring,Bay of Plenty,Pacific Peoples,9,9,8,>950,>950
+202200,Edgecumbe,Bay of Plenty,Pacific Peoples,16,16,14,>950,>950
+202300,Thornton-Awakeri,Bay of Plenty,Pacific Peoples,18,18,15,>950,>950
+202400,Te Teko Lakes,Bay of Plenty,Pacific Peoples,7,7,9,778,778
+202500,Coastlands,Bay of Plenty,Pacific Peoples,18,17,18,>950,944
+202600,Whakatāne West,Bay of Plenty,Pacific Peoples,48,48,52,923,923
+202700,Whakatāne Central,Bay of Plenty,Pacific Peoples,46,46,53,868,868
+202800,Trident,Bay of Plenty,Pacific Peoples,48,46,47,>950,>950
+202900,Allandale,Bay of Plenty,Pacific Peoples,32,31,33,>950,939
+203000,Mokorua Bush,Bay of Plenty,Pacific Peoples,14,14,16,875,875
+203100,Wainui,Bay of Plenty,Pacific Peoples,8,7,8,>950,875
+203200,Ōhope,Bay of Plenty,Pacific Peoples,24,24,27,889,889
+203400,Galatea,Bay of Plenty,Pacific Peoples,masked,masked,masked,>950,>950
+203500,Waingarara-Waimana,Bay of Plenty,Pacific Peoples,23,21,26,885,808
+203600,Murupara,Bay of Plenty,Pacific Peoples,12,12,19,632,632
+203700,Monika Reserve,Bay of Plenty,Pacific Peoples,31,30,34,912,882
+203800,Kawerau Industrial,Bay of Plenty,Pacific Peoples,masked,masked,masked,<50,<50
+203900,Tarawera Park,Bay of Plenty,Pacific Peoples,54,49,57,947,860
+204100,Waiotahi,Bay of Plenty,Pacific Peoples,32,32,18,>950,>950
+204200,Cape Runaway,Bay of Plenty,Pacific Peoples,masked,masked,masked,>950,>950
+204300,Woodlands,Bay of Plenty,Pacific Peoples,18,18,16,>950,>950
+204400,Ōpōtiki,Bay of Plenty,Pacific Peoples,141,139,62,>950,>950
+204500,Otara-Tirohanga,Bay of Plenty,Pacific Peoples,23,22,16,>950,>950
+204600,Oponae,Bay of Plenty,Pacific Peoples,masked,masked,masked,masked,masked
+204700,East Cape,Tairawhiti,Pacific Peoples,masked,masked,masked,>950,>950
+204800,Waipaoa,Tairawhiti,Pacific Peoples,7,7,9,778,778
+204900,Ruatoria-Raukumara,Tairawhiti,Pacific Peoples,9,9,8,>950,>950
+205000,Tokomaru,Tairawhiti,Pacific Peoples,masked,masked,8,750,750
+205100,Hangaroa,Tairawhiti,Pacific Peoples,15,14,8,>950,>950
+205200,Wharekaka,Tairawhiti,Pacific Peoples,17,17,20,850,850
+205300,Te Arai,Tairawhiti,Pacific Peoples,masked,masked,masked,>950,>950
+205400,Hexton,Tairawhiti,Pacific Peoples,92,92,64,>950,>950
+205500,Lytton,Tairawhiti,Pacific Peoples,12,11,11,>950,>950
+205600,Makaraka-Awapuni,Tairawhiti,Pacific Peoples,53,52,41,>950,>950
+205700,Riverdale,Tairawhiti,Pacific Peoples,13,12,15,867,800
+205800,Te Hapara North,Tairawhiti,Pacific Peoples,56,56,50,>950,>950
+205900,Mangapapa North,Tairawhiti,Pacific Peoples,31,31,29,>950,>950
+206000,Elgin,Tairawhiti,Pacific Peoples,93,89,84,>950,>950
+206100,Te Hapara South,Tairawhiti,Pacific Peoples,80,77,75,>950,>950
+206200,Mangapapa East,Tairawhiti,Pacific Peoples,22,22,19,>950,>950
+206300,Mangapapa South,Tairawhiti,Pacific Peoples,44,42,45,>950,933
+206400,Te Hapara East,Tairawhiti,Pacific Peoples,49,47,52,942,904
+206500,Centennial Crescent,Tairawhiti,Pacific Peoples,50,50,46,>950,>950
+206600,Whataupoko East,Tairawhiti,Pacific Peoples,7,7,9,778,778
+206700,Whataupoko West,Tairawhiti,Pacific Peoples,20,19,23,870,826
+206800,Gisborne Central,Tairawhiti,Pacific Peoples,7,7,8,875,875
+206900,Kaiti North,Tairawhiti,Pacific Peoples,18,17,21,857,810
+207000,Kaiti South,Tairawhiti,Pacific Peoples,179,178,167,>950,>950
+207100,Outer Kaiti,Tairawhiti,Pacific Peoples,95,90,86,>950,>950
+207200,Tamarau,Tairawhiti,Pacific Peoples,53,53,54,>950,>950
+207300,Wainui-Okitu,Tairawhiti,Pacific Peoples,14,14,10,>950,>950
+207400,Maungataniwha-Raupunga,Hawke's Bay,Pacific Peoples,29,28,22,>950,>950
+207600,Frasertown-Ruakituri,Hawke's Bay,Pacific Peoples,masked,masked,masked,750,750
+207700,Whakaki,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+207800,Wairoa,Hawke's Bay,Pacific Peoples,52,50,52,>950,>950
+207900,Mahia,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+208000,Puketitiri-Tutira,Hawke's Bay,Pacific Peoples,20,18,20,>950,900
+208100,Sherenden-Crownthorpe,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+208200,Maraekakaho,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+208300,Puketapu-Eskdale,Hawke's Bay,Pacific Peoples,37,36,14,>950,>950
+208400,Omahu-Pakowhai,Hawke's Bay,Pacific Peoples,232,231,55,>950,>950
+208500,Bridge Pa,Hawke's Bay,Pacific Peoples,125,124,38,>950,>950
+208600,Twyford,Hawke's Bay,Pacific Peoples,215,213,29,>950,>950
+208700,Poukawa,Hawke's Bay,Pacific Peoples,11,10,12,917,833
+208800,Flaxmere West,Hawke's Bay,Pacific Peoples,472,453,473,>950,>950
+208900,Omahu Strip,Hawke's Bay,Pacific Peoples,42,42,11,>950,>950
+209000,Lochain Park,Hawke's Bay,Pacific Peoples,417,409,424,>950,>950
+209100,Flaxmere Park,Hawke's Bay,Pacific Peoples,315,309,298,>950,>950
+209200,Flaxmere South,Hawke's Bay,Pacific Peoples,397,382,392,>950,>950
+209300,Irongate,Hawke's Bay,Pacific Peoples,312,311,35,>950,>950
+209400,Frimley,Hawke's Bay,Pacific Peoples,164,162,74,>950,>950
+209500,Camberley,Hawke's Bay,Pacific Peoples,283,277,292,>950,949
+209600,Clive,Hawke's Bay,Pacific Peoples,86,85,43,>950,>950
+209700,St Leonards,Hawke's Bay,Pacific Peoples,111,108,115,>950,939
+209800,Mahora,Hawke's Bay,Pacific Peoples,120,119,125,>950,>950
+209900,Raureka,Hawke's Bay,Pacific Peoples,217,208,195,>950,>950
+210000,Cornwall Park,Hawke's Bay,Pacific Peoples,108,103,109,>950,945
+210100,Tomoana,Hawke's Bay,Pacific Peoples,57,56,14,>950,>950
+210200,Longlands-Pukahu,Hawke's Bay,Pacific Peoples,163,163,32,>950,>950
+210300,Raceway Park,Hawke's Bay,Pacific Peoples,210,206,88,>950,>950
+210400,Karamu,Hawke's Bay,Pacific Peoples,329,328,37,>950,>950
+210500,Hastings Central,Hawke's Bay,Pacific Peoples,47,47,16,>950,>950
+210600,Tomoana Crossing,Hawke's Bay,Pacific Peoples,83,79,77,>950,>950
+210700,Akina Park,Hawke's Bay,Pacific Peoples,67,65,51,>950,>950
+210800,Queens Square,Hawke's Bay,Pacific Peoples,48,43,46,>950,935
+210900,Mayfair,Hawke's Bay,Pacific Peoples,149,138,130,>950,>950
+211000,Parkhaven,Hawke's Bay,Pacific Peoples,80,76,75,>950,>950
+211100,Parkvale,Hawke's Bay,Pacific Peoples,48,46,35,>950,>950
+211200,Mangateretere,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+211300,Haumoana-Te Awanga,Hawke's Bay,Pacific Peoples,19,18,15,>950,>950
+211400,Lucknow,Hawke's Bay,Pacific Peoples,29,28,34,853,824
+211500,Karanema-St Hill,Hawke's Bay,Pacific Peoples,19,18,20,950,900
+211600,Havelock North-Central,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+211700,Brookvale,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+211800,Iona,Hawke's Bay,Pacific Peoples,30,29,31,>950,935
+211900,Hereworth,Hawke's Bay,Pacific Peoples,20,20,20,>950,>950
+212000,Te Mata Hills,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+212100,Havelock Hills,Hawke's Bay,Pacific Peoples,masked,masked,masked,833,833
+212200,Kahuranaki,Hawke's Bay,Pacific Peoples,10,10,8,>950,>950
+212300,Bay View,Hawke's Bay,Pacific Peoples,16,16,17,941,941
+212400,Poraiti Hills,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+212500,Poraiti Flat,Hawke's Bay,Pacific Peoples,10,10,9,>950,>950
+212600,Westshore,Hawke's Bay,Pacific Peoples,20,19,19,>950,>950
+212800,Onekawa West,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+212900,Ahuriri,Hawke's Bay,Pacific Peoples,10,10,9,>950,>950
+213000,Taradale West,Hawke's Bay,Pacific Peoples,9,9,10,900,900
+213100,Greenmeadows West,Hawke's Bay,Pacific Peoples,11,11,14,786,786
+213200,Taradale South,Hawke's Bay,Pacific Peoples,19,19,17,>950,>950
+213300,Bluff Hill,Hawke's Bay,Pacific Peoples,12,11,12,>950,917
+213400,Hospital Hill,Hawke's Bay,Pacific Peoples,28,27,28,>950,>950
+213500,Tamatea West,Hawke's Bay,Pacific Peoples,46,42,42,>950,>950
+213600,Tamatea North,Hawke's Bay,Pacific Peoples,39,38,42,929,905
+213700,Taradale Central,Hawke's Bay,Pacific Peoples,24,23,28,857,821
+213800,Tamatea East,Hawke's Bay,Pacific Peoples,31,31,35,886,886
+213900,Marewa West,Hawke's Bay,Pacific Peoples,16,14,16,>950,875
+214000,Greenmeadows Central,Hawke's Bay,Pacific Peoples,masked,masked,masked,750,750
+214100,Onekawa Central,Hawke's Bay,Pacific Peoples,27,26,29,931,897
+214200,Pirimai West,Hawke's Bay,Pacific Peoples,29,29,33,879,879
+214300,Napier Central,Hawke's Bay,Pacific Peoples,11,11,12,917,917
+214400,Greenmeadows South,Hawke's Bay,Pacific Peoples,28,27,28,>950,>950
+214500,Nelson Park,Hawke's Bay,Pacific Peoples,45,45,45,>950,>950
+214600,Bledisloe Park,Hawke's Bay,Pacific Peoples,18,18,16,>950,>950
+214700,Pirimai East,Hawke's Bay,Pacific Peoples,50,48,48,>950,>950
+214800,Onekawa East,Hawke's Bay,Pacific Peoples,79,79,79,>950,>950
+214900,Tareha Reserve,Hawke's Bay,Pacific Peoples,36,36,42,857,857
+215000,Marewa East,Hawke's Bay,Pacific Peoples,86,82,90,>950,911
+215100,Onekawa South,Hawke's Bay,Pacific Peoples,118,116,123,>950,943
+215200,McLean Park,Hawke's Bay,Pacific Peoples,36,35,38,947,921
+215300,Maraenui,Hawke's Bay,Pacific Peoples,329,320,321,>950,>950
+215400,Meeanee-Awatoto,Hawke's Bay,Pacific Peoples,91,90,59,>950,>950
+215500,Mangaonuku,Hawke's Bay,Pacific Peoples,masked,masked,masked,>950,>950
+215600,Makaretu,Hawke's Bay,Pacific Peoples,101,101,22,>950,>950
+215700,Waipawa,Hawke's Bay,Pacific Peoples,42,42,45,933,933
+215800,Waipukurau West,Hawke's Bay,Pacific Peoples,27,27,24,>950,>950
+215900,Mangarara,Hawke's Bay,Pacific Peoples,19,19,18,>950,>950
+216000,Waipukurau East,Hawke's Bay,Pacific Peoples,13,13,16,813,813
+216100,Taurekaitai,Hawke's Bay,Pacific Peoples,13,13,12,>950,>950
+216200,Port Taranaki,Taranaki,Pacific Peoples,masked,masked,masked,masked,masked
+216300,Spotswood,Taranaki,Pacific Peoples,68,66,73,932,904
+216400,Omata,Taranaki,Pacific Peoples,masked,masked,masked,>950,>950
+216500,Ōakura,Taranaki,Pacific Peoples,10,10,7,>950,>950
+216600,Moturoa,Taranaki,Pacific Peoples,22,22,19,>950,>950
+216700,Kaitake,Taranaki,Pacific Peoples,masked,masked,masked,800,600
+216800,Blagdon-Lynmouth,Taranaki,Pacific Peoples,55,54,55,>950,>950
+216900,Kawaroa,Taranaki,Pacific Peoples,16,16,16,>950,>950
+217000,New Plymouth Central,Taranaki,Pacific Peoples,masked,masked,masked,>950,>950
+217100,Marfell,Taranaki,Pacific Peoples,32,31,23,>950,>950
+217200,Whalers Gate,Taranaki,Pacific Peoples,21,21,21,>950,>950
+217300,Strandon,Taranaki,Pacific Peoples,14,14,14,>950,>950
+217400,Westown,Taranaki,Pacific Peoples,63,62,61,>950,>950
+217500,Bell Block West,Taranaki,Pacific Peoples,67,62,75,893,827
+217600,Bell Block East,Taranaki,Pacific Peoples,55,55,56,>950,>950
+217700,Waiwhakaiho-Bell Block South,Taranaki,Pacific Peoples,masked,masked,masked,>950,>950
+217800,Lower Vogeltown,Taranaki,Pacific Peoples,39,39,42,929,929
+217900,Hurdon,Taranaki,Pacific Peoples,22,22,28,786,786
+218000,Frankleigh Park,Taranaki,Pacific Peoples,30,29,26,>950,>950
+218100,Merrilands,Taranaki,Pacific Peoples,48,48,46,>950,>950
+218200,Ferndale,Taranaki,Pacific Peoples,7,7,7,>950,>950
+218300,Welbourn,Taranaki,Pacific Peoples,31,31,30,>950,>950
+218400,Fitzroy-Glen Avon,Taranaki,Pacific Peoples,52,52,49,>950,>950
+218500,Waitara West,Taranaki,Pacific Peoples,62,62,64,>950,>950
+218600,Upper Vogeltown,Taranaki,Pacific Peoples,24,24,27,889,889
+218700,Highlands Park (New Plymouth District),Taranaki,Pacific Peoples,17,17,17,>950,>950
+218800,Paraite,Taranaki,Pacific Peoples,masked,masked,7,571,571
+218900,Waitara East,Taranaki,Pacific Peoples,46,44,47,>950,936
+219000,Lepperton-Brixton,Taranaki,Pacific Peoples,11,10,7,>950,>950
+219100,Mangorei,Taranaki,Pacific Peoples,masked,masked,masked,333,333
+219200,Mount Messenger,Taranaki,Pacific Peoples,8,7,8,>950,875
+219300,Mangaoraka,Taranaki,Pacific Peoples,7,7,9,778,778
+219400,Tikorangi,Taranaki,Pacific Peoples,21,21,21,>950,>950
+219500,Everett Park,Taranaki,Pacific Peoples,masked,masked,masked,>950,>950
+219600,Inglewood,Taranaki,Pacific Peoples,41,39,33,>950,>950
+219700,Tarata,Taranaki,Pacific Peoples,masked,masked,masked,>950,>950
+219800,Pembroke,Taranaki,Pacific Peoples,masked,masked,masked,800,800
+219900,Douglas,Taranaki,Pacific Peoples,masked,masked,masked,masked,masked
+220000,Toko,Taranaki,Pacific Peoples,masked,masked,masked,667,667
+220100,Stratford North,Taranaki,Pacific Peoples,8,8,9,889,889
+220200,Whangamomona,Taranaki,Pacific Peoples,masked,masked,masked,masked,masked
+220300,Stratford Central,Taranaki,Pacific Peoples,23,23,20,>950,>950
+220400,Stratford South,Taranaki,Pacific Peoples,13,13,14,929,929
+220500,Cape Egmont,Taranaki,Pacific Peoples,masked,masked,8,750,500
+220600,Taungatara,Taranaki,Pacific Peoples,masked,masked,masked,667,500
+220700,Ōpunake,Taranaki,Pacific Peoples,10,10,11,909,909
+220800,Kaponga-Mangatoki,Taranaki,Pacific Peoples,masked,masked,masked,masked,masked
+220900,Manaia-Kapuni,Taranaki,Pacific Peoples,7,7,11,636,636
+221000,Eltham,Taranaki,Pacific Peoples,34,32,36,944,889
+221100,Okaiawa,Taranaki,Pacific Peoples,masked,masked,7,857,857
+221200,Te Roti-Moeroa,Taranaki,Pacific Peoples,masked,masked,masked,>950,>950
+221300,Egmont Showgrounds,Taranaki,Pacific Peoples,17,17,17,>950,>950
+221400,Normanby-Tawhiti,Taranaki,Pacific Peoples,31,31,28,>950,>950
+221500,Ohangai,Taranaki,Pacific Peoples,7,7,8,875,875
+221600,Turuturu,Taranaki,Pacific Peoples,17,17,17,>950,>950
+221700,King Edward Park,Taranaki,Pacific Peoples,31,31,15,>950,>950
+221800,Ramanui,Taranaki,Pacific Peoples,36,36,35,>950,>950
+221900,Hawera Central,Taranaki,Pacific Peoples,26,26,25,>950,>950
+222000,Mangawhio,Taranaki,Pacific Peoples,masked,masked,8,750,500
+222100,Manutahi-Waitotora,Taranaki,Pacific Peoples,23,22,25,920,880
+222200,Pātea,Taranaki,Pacific Peoples,11,11,11,>950,>950
+222300,Otangiwai-Ohura,Waikato,Pacific Peoples,masked,masked,masked,750,750
+222400,Ngapuke,Waikato,Pacific Peoples,8,8,8,>950,>950
+222500,Taumarunui North,Waikato,Pacific Peoples,12,11,14,857,786
+222600,Taumarunui Central,Waikato,Pacific Peoples,12,10,14,857,714
+222700,Taumarunui East,Waikato,Pacific Peoples,20,18,26,769,692
+222800,National Park,Waikato,Pacific Peoples,masked,masked,masked,>950,>950
+222900,Tangiwai,Whanganui,Pacific Peoples,masked,masked,masked,667,667
+223000,Raetihi,Whanganui,Pacific Peoples,7,7,10,700,700
+223100,Ohakune,Whanganui,Pacific Peoples,13,13,14,929,929
+223200,Waiouru,Whanganui,Pacific Peoples,18,18,21,857,857
+223300,Upper Whanganui,Whanganui,Pacific Peoples,masked,masked,7,714,714
+223400,Mowhanau,Whanganui,Pacific Peoples,masked,masked,9,667,556
+223500,Brunswick-Papaiti,Whanganui,Pacific Peoples,7,7,8,875,875
+223600,Castlecliff West,Whanganui,Pacific Peoples,28,23,34,824,676
+223700,Otamatea (Whanganui District),Whanganui,Pacific Peoples,16,16,15,>950,>950
+223800,Castlecliff East,Whanganui,Pacific Peoples,57,56,63,905,889
+223900,Springvale North,Whanganui,Pacific Peoples,masked,masked,masked,>950,>950
+224000,Lower Aramoho,Whanganui,Pacific Peoples,23,22,34,676,647
+224100,St Johns Hill East,Whanganui,Pacific Peoples,8,8,8,>950,>950
+224200,St Johns Hill West,Whanganui,Pacific Peoples,31,30,32,>950,938
+224300,Titoki,Whanganui,Pacific Peoples,94,93,104,904,894
+224400,Springvale West,Whanganui,Pacific Peoples,42,42,41,>950,>950
+224500,Springvale East,Whanganui,Pacific Peoples,16,16,17,941,941
+224600,Upper Aramoho,Whanganui,Pacific Peoples,20,19,23,870,826
+224700,Balgownie,Whanganui,Pacific Peoples,masked,masked,masked,>950,>950
+224800,Laird Park,Whanganui,Pacific Peoples,51,51,62,823,823
+224900,Wembley Park,Whanganui,Pacific Peoples,20,18,24,833,750
+225000,College Estate,Whanganui,Pacific Peoples,16,16,14,>950,>950
+225100,Whanganui East-Williams Domain,Whanganui,Pacific Peoples,30,28,34,882,824
+225200,Gonville West,Whanganui,Pacific Peoples,58,56,62,935,903
+225300,Gonville North,Whanganui,Pacific Peoples,81,80,86,942,930
+225400,Cornmarket,Whanganui,Pacific Peoples,30,28,33,909,848
+225500,Whanganui East-Riverlands,Whanganui,Pacific Peoples,30,30,30,>950,>950
+225600,Kaitoke-Fordell,Whanganui,Pacific Peoples,17,17,19,895,895
+225700,Whanganui Central,Whanganui,Pacific Peoples,7,7,8,875,875
+225800,Gonville South,Whanganui,Pacific Peoples,50,49,53,943,925
+225900,Bastia-Durie Hill,Whanganui,Pacific Peoples,26,26,27,>950,>950
+226000,Putiki,Whanganui,Pacific Peoples,13,12,14,929,857
+226100,Mokai Patea,Whanganui,Pacific Peoples,masked,masked,7,571,571
+226200,Ngamatea,Whanganui,Pacific Peoples,masked,masked,masked,masked,masked
+226300,Turakina,Whanganui,Pacific Peoples,17,15,15,>950,>950
+226400,Otairi,Whanganui,Pacific Peoples,7,7,9,778,778
+226500,Taihape,Whanganui,Pacific Peoples,22,21,24,917,875
+226600,Marton Rural,Whanganui,Pacific Peoples,24,24,20,>950,>950
+226700,Marton North,Whanganui,Pacific Peoples,117,113,120,>950,942
+226800,Parewanui,Whanganui,Pacific Peoples,masked,masked,masked,500,500
+226900,Marton South,Whanganui,Pacific Peoples,133,126,131,>950,>950
+227000,Bulls,Whanganui,Pacific Peoples,72,70,88,818,795
+227100,Kiwitea,MidCentral,Pacific Peoples,7,7,9,778,778
+227200,Tokorangi,MidCentral,Pacific Peoples,8,8,9,889,889
+227300,Ohakea-Sanson,MidCentral,Pacific Peoples,15,15,14,>950,>950
+227400,Oroua Downs,MidCentral,Pacific Peoples,23,23,22,>950,>950
+227500,Awahuri,MidCentral,Pacific Peoples,9,9,9,>950,>950
+227600,Pohangina-Apiti,MidCentral,Pacific Peoples,masked,masked,masked,500,500
+227700,Mount Taylor,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+227800,Taikorea,MidCentral,Pacific Peoples,masked,masked,masked,800,600
+227900,Makino,MidCentral,Pacific Peoples,40,38,39,>950,>950
+228000,Sandon,MidCentral,Pacific Peoples,19,18,19,>950,947
+228100,Kimbolton North,MidCentral,Pacific Peoples,32,32,32,>950,>950
+228200,Warwick,MidCentral,Pacific Peoples,19,17,18,>950,944
+228300,Kimbolton West,MidCentral,Pacific Peoples,44,44,43,>950,>950
+228400,Feilding Central,MidCentral,Pacific Peoples,32,31,33,>950,939
+228500,Kimbolton South,MidCentral,Pacific Peoples,22,22,23,>950,>950
+228600,Kauwhata,MidCentral,Pacific Peoples,15,15,17,882,882
+228700,Taonui,MidCentral,Pacific Peoples,23,22,20,>950,>950
+228800,Newbury,MidCentral,Pacific Peoples,64,63,58,>950,>950
+228900,Palmerston North Airport,MidCentral,Pacific Peoples,masked,masked,masked,>950,<50
+229000,Milson North,MidCentral,Pacific Peoples,63,60,69,913,870
+229100,Cloverlea (Palmerston North City),MidCentral,Pacific Peoples,49,48,56,875,857
+229200,Tremaine,MidCentral,Pacific Peoples,20,19,21,>950,905
+229300,Milson South,MidCentral,Pacific Peoples,79,77,86,919,895
+229400,Whakarongo,MidCentral,Pacific Peoples,16,16,13,>950,>950
+229500,Westbrook,MidCentral,Pacific Peoples,216,211,214,>950,>950
+229600,Takaro North,MidCentral,Pacific Peoples,105,104,114,921,912
+229700,Pioneer West,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+229800,Palmerston North Hospital,MidCentral,Pacific Peoples,50,49,54,926,907
+229900,Highbury East,MidCentral,Pacific Peoples,191,182,212,901,858
+230000,Park West,MidCentral,Pacific Peoples,77,75,76,>950,>950
+230100,Takaro South,MidCentral,Pacific Peoples,94,93,96,>950,>950
+230200,Roslyn (Palmerston North City),MidCentral,Pacific Peoples,107,106,118,907,898
+230300,Kelvin Grove West,MidCentral,Pacific Peoples,105,104,98,>950,>950
+230400,Kelvin Grove North,MidCentral,Pacific Peoples,52,52,53,>950,>950
+230500,Papaioea North,MidCentral,Pacific Peoples,50,50,50,>950,>950
+230600,Palmerston North Central,MidCentral,Pacific Peoples,58,58,55,>950,>950
+230700,Awapuni North,MidCentral,Pacific Peoples,216,213,210,>950,>950
+230800,Terrace End,MidCentral,Pacific Peoples,129,126,122,>950,>950
+230900,Maraetarata,MidCentral,Pacific Peoples,45,45,47,>950,>950
+231000,Papaioea South,MidCentral,Pacific Peoples,53,53,51,>950,>950
+231100,Royal Oak (Palmerston North City),MidCentral,Pacific Peoples,60,59,53,>950,>950
+231200,West End,MidCentral,Pacific Peoples,95,94,104,913,904
+231300,Awapuni South,MidCentral,Pacific Peoples,54,53,52,>950,>950
+231400,Milverton,MidCentral,Pacific Peoples,49,48,50,>950,>950
+231500,Ruamahanga,MidCentral,Pacific Peoples,76,74,71,>950,>950
+231600,Esplanade,MidCentral,Pacific Peoples,47,46,49,>950,939
+231700,Hokowhitu Central,MidCentral,Pacific Peoples,34,33,39,872,846
+231800,Hokowhitu East,MidCentral,Pacific Peoples,42,42,45,933,933
+231900,Turitea,MidCentral,Pacific Peoples,13,13,8,>950,>950
+232000,Ruahine,MidCentral,Pacific Peoples,35,35,34,>950,>950
+232100,Linton Camp,MidCentral,Pacific Peoples,39,39,33,>950,>950
+232200,Ashhurst,MidCentral,Pacific Peoples,52,52,50,>950,>950
+232300,Hokowhitu South,MidCentral,Pacific Peoples,36,36,33,>950,>950
+232400,Aokautere,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+232500,Pihauatua,MidCentral,Pacific Peoples,11,10,10,>950,>950
+232600,Aokautere Rural,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+232700,Poutoa,MidCentral,Pacific Peoples,40,40,33,>950,>950
+232800,Norsewood,MidCentral,Pacific Peoples,16,15,15,>950,>950
+232900,Papatawa,MidCentral,Pacific Peoples,masked,masked,masked,500,500
+233000,Mangatainoka,MidCentral,Pacific Peoples,10,9,11,909,818
+233100,Woodville,MidCentral,Pacific Peoples,16,16,17,941,941
+233200,Dannevirke West,MidCentral,Pacific Peoples,23,21,15,>950,>950
+233300,Dannevirke East,MidCentral,Pacific Peoples,45,43,42,>950,>950
+233400,Waitahora,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+233500,Kaitawa,MidCentral,Pacific Peoples,masked,masked,masked,250,250
+233600,Pahiatua,MidCentral,Pacific Peoples,32,32,36,889,889
+233700,Nireaha-Eketahuna,MidCentral,Pacific Peoples,10,9,10,>950,900
+233800,Owhanga,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+233900,Mara,MidCentral,Pacific Peoples,masked,masked,masked,masked,masked
+234000,Kere Kere,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+234100,Foxton Beach,MidCentral,Pacific Peoples,20,20,23,870,870
+234200,Foxton North,MidCentral,Pacific Peoples,17,16,16,>950,>950
+234300,Foxton South,MidCentral,Pacific Peoples,25,25,29,862,862
+234400,Waitarere,MidCentral,Pacific Peoples,49,49,29,>950,>950
+234500,Waikawa (Horowhenua District),MidCentral,Pacific Peoples,15,15,17,882,882
+234600,Miranui,MidCentral,Pacific Peoples,19,18,22,864,818
+234700,Donnelly Park,MidCentral,Pacific Peoples,39,39,40,>950,>950
+234800,Ōhau-Manakau,MidCentral,Pacific Peoples,76,75,59,>950,>950
+234900,Kawiu South,MidCentral,Pacific Peoples,89,83,86,>950,>950
+235000,Makomako,MidCentral,Pacific Peoples,116,114,108,>950,>950
+235100,Kawiu North,MidCentral,Pacific Peoples,30,30,29,>950,>950
+235200,Levin Central,MidCentral,Pacific Peoples,72,69,77,935,896
+235300,Tararua,MidCentral,Pacific Peoples,59,58,61,>950,>950
+235400,Shannon,MidCentral,Pacific Peoples,13,13,15,867,867
+235500,Queenwood (Horowhenua District),MidCentral,Pacific Peoples,118,117,120,>950,>950
+235600,Playford Park,MidCentral,Pacific Peoples,118,116,116,>950,>950
+235700,Fairfield (Horowhenua District),MidCentral,Pacific Peoples,77,74,78,>950,949
+235800,Taitoko,MidCentral,Pacific Peoples,180,174,183,>950,>950
+235900,Waiopehu,MidCentral,Pacific Peoples,95,94,91,>950,>950
+236000,Makahika,MidCentral,Pacific Peoples,20,19,16,>950,>950
+236100,Kimberley,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236200,Kapiti Island,Capital and Coast,Pacific Peoples,masked,masked,masked,masked,masked
+236300,Ōtaki Beach,MidCentral,Pacific Peoples,35,32,34,>950,941
+236400,Forest Lakes (Kapiti Coast District),MidCentral,Pacific Peoples,masked,masked,masked,800,800
+236500,Ōtaki,MidCentral,Pacific Peoples,85,83,91,934,912
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236600,Te Horo,MidCentral,Pacific Peoples,masked,masked,masked,>950,>950
+236700,Waitohu,MidCentral,Pacific Peoples,20,19,21,>950,905
+236800,Waikanae Beach,Capital and Coast,Pacific Peoples,42,42,46,913,913
+236900,Peka Peka,Capital and Coast,Pacific Peoples,masked,masked,masked,>950,>950
+237000,Paraparaumu Beach North,Capital and Coast,Pacific Peoples,54,54,62,871,871
+237100,Paraparaumu Beach West,Capital and Coast,Pacific Peoples,50,49,52,>950,942
+237200,Waikanae Park,Capital and Coast,Pacific Peoples,35,35,32,>950,>950
+237300,Paraparaumu Beach East,Capital and Coast,Pacific Peoples,51,50,54,944,926
+237400,Otaihanga,Capital and Coast,Pacific Peoples,masked,masked,masked,>950,>950
+237500,Paraparaumu North,Capital and Coast,Pacific Peoples,66,62,64,>950,>950
+237600,Waikanae West,Capital and Coast,Pacific Peoples,40,39,41,>950,>950
+237700,Ōtaki Forks,MidCentral,Pacific Peoples,12,11,13,923,846
+237800,Paraparaumu Central,Capital and Coast,Pacific Peoples,118,115,118,>950,>950
+237900,Maungakotukutuku,Capital and Coast,Pacific Peoples,22,20,21,>950,>950
+238000,Raumati Beach West,Capital and Coast,Pacific Peoples,47,46,48,>950,>950
+238100,Waikanae East,Capital and Coast,Pacific Peoples,31,31,35,886,886
+238200,Tararua Forest Park,MidCentral,Pacific Peoples,masked,masked,masked,masked,masked
+238300,Raumati Beach East,Capital and Coast,Pacific Peoples,38,38,45,844,844
+238400,Paraparaumu East,Capital and Coast,Pacific Peoples,50,49,56,893,875
+238500,Raumati South,Capital and Coast,Pacific Peoples,61,60,60,>950,>950
+238600,Paekākāriki,Capital and Coast,Pacific Peoples,22,22,24,917,917
+238700,Mana Island,Capital and Coast,Pacific Peoples,masked,masked,masked,masked,masked
+238800,Pukerua Bay,Capital and Coast,Pacific Peoples,32,30,32,>950,938
+238900,Paekākāriki Hill,Capital and Coast,Pacific Peoples,masked,masked,masked,>950,>950
+239000,Plimmerton,Capital and Coast,Pacific Peoples,47,47,56,839,839
+239100,Titahi Bay North,Capital and Coast,Pacific Peoples,250,243,260,>950,935
+239200,Titahi Bay South,Capital and Coast,Pacific Peoples,431,416,445,>950,935
+239300,Elsdon-Takapuwahia,Capital and Coast,Pacific Peoples,384,368,399,>950,922
+239400,Pāuatahanui,Capital and Coast,Pacific Peoples,masked,masked,8,750,750
+239500,Onepoto,Capital and Coast,Pacific Peoples,191,186,188,>950,>950
+239600,Camborne,Capital and Coast,Pacific Peoples,37,37,39,949,949
+239800,Paremata,Capital and Coast,Pacific Peoples,91,90,90,>950,>950
+239900,Porirua Central,Capital and Coast,Pacific Peoples,38,36,36,>950,>950
+240000,Papakōwhai,Capital and Coast,Pacific Peoples,117,115,119,>950,>950
+240100,Aotea,Capital and Coast,Pacific Peoples,256,256,258,>950,>950
+240200,Postgate,Capital and Coast,Pacific Peoples,290,288,307,945,938
+240300,Ascot Park,Capital and Coast,Pacific Peoples,841,826,883,>950,935
+240400,Whitby,Capital and Coast,Pacific Peoples,150,148,155,>950,>950
+240500,Porirua East,Capital and Coast,Pacific Peoples,645,631,676,>950,933
+240600,Endeavour,Capital and Coast,Pacific Peoples,153,152,149,>950,>950
+240700,Cannons Creek North,Capital and Coast,Pacific Peoples,1314,1282,1398,940,917
+240800,Waitangirua,Capital and Coast,Pacific Peoples,1903,1849,2030,937,911
+240900,Ranui Heights,Capital and Coast,Pacific Peoples,225,222,247,911,899
+241000,Cannons Creek East,Capital and Coast,Pacific Peoples,1774,1740,1894,937,919
+241100,Cannons Creek South,Capital and Coast,Pacific Peoples,702,681,737,>950,924
+241200,Akatarawa,Hutt Valley,Pacific Peoples,masked,masked,masked,>950,>950
+241300,Riverstone Terraces,Hutt Valley,Pacific Peoples,82,81,84,>950,>950
+241400,Heretaunga,Hutt Valley,Pacific Peoples,99,97,98,>950,>950
+241500,Birchville-Brown Owl,Hutt Valley,Pacific Peoples,86,86,96,896,896
+241600,Poets Block,Hutt Valley,Pacific Peoples,73,73,76,>950,>950
+241700,Brentwood (Upper Hutt City),Hutt Valley,Pacific Peoples,156,153,152,>950,>950
+241800,Silverstream (Upper Hutt City),Hutt Valley,Pacific Peoples,75,74,73,>950,>950
+241900,Elderslea,Hutt Valley,Pacific Peoples,143,140,157,911,892
+242000,Trentham North,Hutt Valley,Pacific Peoples,158,153,168,940,911
+242100,Totara Park,Hutt Valley,Pacific Peoples,69,66,71,>950,930
+242200,Trentham South,Hutt Valley,Pacific Peoples,27,27,28,>950,>950
+242300,Mangaroa,Hutt Valley,Pacific Peoples,8,8,7,>950,>950
+242400,Ebdentown,Hutt Valley,Pacific Peoples,77,76,78,>950,>950
+242500,Wallaceville,Hutt Valley,Pacific Peoples,97,96,97,>950,>950
+242600,Maoribank,Hutt Valley,Pacific Peoples,144,139,148,>950,939
+242700,Te Marua,Hutt Valley,Pacific Peoples,21,19,23,913,826
+242800,Pinehaven,Hutt Valley,Pacific Peoples,29,29,28,>950,>950
+242900,Clouston Park,Hutt Valley,Pacific Peoples,127,127,137,927,927
+243000,Upper Hutt Central,Hutt Valley,Pacific Peoples,14,14,14,>950,>950
+243100,Belmont Park,Hutt Valley,Pacific Peoples,masked,masked,masked,667,667
+243200,Maungaraki,Hutt Valley,Pacific Peoples,139,137,141,>950,>950
+243300,Korokoro,Hutt Valley,Pacific Peoples,17,16,16,>950,>950
+243400,Kelson,Hutt Valley,Pacific Peoples,111,109,112,>950,>950
+243500,Normandale,Hutt Valley,Pacific Peoples,34,34,32,>950,>950
+243600,Belmont (Lower Hutt City),Hutt Valley,Pacific Peoples,69,69,70,>950,>950
+243700,Petone Central,Hutt Valley,Pacific Peoples,57,54,56,>950,>950
+243800,Tirohanga,Hutt Valley,Pacific Peoples,34,33,30,>950,>950
+243900,Manor Park,Hutt Valley,Pacific Peoples,22,20,22,>950,909
+244000,Alicetown-Melling,Hutt Valley,Pacific Peoples,136,134,143,>950,937
+244100,Taita North,Hutt Valley,Pacific Peoples,726,713,745,>950,>950
+244200,Boulcott,Hutt Valley,Pacific Peoples,96,94,96,>950,>950
+244300,Hutt Central North,Hutt Valley,Pacific Peoples,72,71,72,>950,>950
+244400,Avalon West,Hutt Valley,Pacific Peoples,201,200,204,>950,>950
+244500,Stokes Valley Central,Hutt Valley,Pacific Peoples,177,174,196,903,888
+244600,Taita South,Hutt Valley,Pacific Peoples,513,498,567,905,878
+244700,Petone East,Hutt Valley,Pacific Peoples,197,193,201,>950,>950
+244800,Hutt Central South,Hutt Valley,Pacific Peoples,43,43,51,843,843
+244900,Stokes Valley North,Hutt Valley,Pacific Peoples,240,235,252,>950,933
+245000,Petone Esplanade,Hutt Valley,Pacific Peoples,167,164,169,>950,>950
+245100,Epuni West,Hutt Valley,Pacific Peoples,159,155,165,>950,939
+245200,Avalon East,Hutt Valley,Pacific Peoples,310,304,338,917,899
+245300,Woburn,Hutt Valley,Pacific Peoples,24,24,26,923,923
+245400,Naenae Central,Hutt Valley,Pacific Peoples,537,522,561,>950,930
+245500,Waterloo West,Hutt Valley,Pacific Peoples,79,79,75,>950,>950
+245600,Epuni East,Hutt Valley,Pacific Peoples,192,186,203,946,916
+245700,Gracefield,Hutt Valley,Pacific Peoples,masked,masked,masked,>950,>950
+245800,Moera,Hutt Valley,Pacific Peoples,132,127,145,910,876
+245900,Delaney,Hutt Valley,Pacific Peoples,364,353,387,941,912
+246000,Waiwhetu,Hutt Valley,Pacific Peoples,302,295,302,>950,>950
+246100,Waterloo East,Hutt Valley,Pacific Peoples,136,132,142,>950,930
+246200,Naenae North,Hutt Valley,Pacific Peoples,435,424,461,944,920
+246300,Manuka,Hutt Valley,Pacific Peoples,87,86,99,879,869
+246400,Naenae South,Hutt Valley,Pacific Peoples,359,355,388,925,915
+246500,Towai,Hutt Valley,Pacific Peoples,masked,masked,masked,masked,masked
+246600,Arakura,Hutt Valley,Pacific Peoples,255,248,258,>950,>950
+246700,Eastern Bays,Hutt Valley,Pacific Peoples,19,19,21,905,905
+246800,Pencarrow,Hutt Valley,Pacific Peoples,11,11,12,917,917
+246900,Wainuiomata West,Hutt Valley,Pacific Peoples,452,444,456,>950,>950
+247000,Glendale,Hutt Valley,Pacific Peoples,373,363,390,>950,931
+247100,Wainuiomata Central,Hutt Valley,Pacific Peoples,169,165,176,>950,938
+247200,Eastbourne,Hutt Valley,Pacific Peoples,21,21,20,>950,>950
+247300,Homedale East,Hutt Valley,Pacific Peoples,215,208,226,>950,920
+247400,Homedale West,Hutt Valley,Pacific Peoples,271,268,270,>950,>950
+247500,Mākara-Ohariu,Capital and Coast,Pacific Peoples,15,15,15,>950,>950
+247600,Tawa North,Capital and Coast,Pacific Peoples,242,237,237,>950,>950
+247700,Linden,Capital and Coast,Pacific Peoples,314,308,319,>950,>950
+247800,Tawa South,Capital and Coast,Pacific Peoples,136,135,141,>950,>950
+247900,Tawa Central,Capital and Coast,Pacific Peoples,165,164,172,>950,>950
+248000,Grenada North,Capital and Coast,Pacific Peoples,124,122,127,>950,>950
+248100,Churton Park North,Capital and Coast,Pacific Peoples,126,124,132,>950,939
+248200,Takapu-Horokiwi,Capital and Coast,Pacific Peoples,masked,masked,masked,>950,>950
+248300,Churton Park South,Capital and Coast,Pacific Peoples,92,92,94,>950,>950
+248400,Johnsonville West,Capital and Coast,Pacific Peoples,153,152,155,>950,>950
+248500,Grenada Village,Capital and Coast,Pacific Peoples,56,54,58,>950,931
+248600,Johnsonville North,Capital and Coast,Pacific Peoples,115,114,111,>950,>950
+248700,Paparangi,Capital and Coast,Pacific Peoples,140,139,146,>950,>950
+248800,Ngaio North,Capital and Coast,Pacific Peoples,28,27,29,>950,931
+248900,Johnsonville Central,Capital and Coast,Pacific Peoples,148,147,166,892,886
+249000,Broadmeadows,Capital and Coast,Pacific Peoples,58,58,69,841,841
+249100,Crofton Downs,Capital and Coast,Pacific Peoples,26,25,29,897,862
+249200,Johnsonville South,Capital and Coast,Pacific Peoples,97,94,98,>950,>950
+249300,Khandallah Reserve,Capital and Coast,Pacific Peoples,21,21,24,875,875
+249400,Karori Park,Capital and Coast,Pacific Peoples,192,190,201,>950,945
+249500,Newlands North,Capital and Coast,Pacific Peoples,227,224,224,>950,>950
+249600,Ngaio South,Capital and Coast,Pacific Peoples,29,29,28,>950,>950
+249700,Newlands South,Capital and Coast,Pacific Peoples,234,234,231,>950,>950
+249800,Woodridge,Capital and Coast,Pacific Peoples,59,58,56,>950,>950
+249900,Karori North,Capital and Coast,Pacific Peoples,26,26,27,>950,>950
+250000,Khandallah North,Capital and Coast,Pacific Peoples,36,36,37,>950,>950
+250100,Wilton,Capital and Coast,Pacific Peoples,80,78,75,>950,>950
+250200,Khandallah South,Capital and Coast,Pacific Peoples,24,24,23,>950,>950
+250300,Wadestown,Capital and Coast,Pacific Peoples,31,29,31,>950,935
+250400,Karori South,Capital and Coast,Pacific Peoples,111,109,110,>950,>950
+250500,Onslow,Capital and Coast,Pacific Peoples,30,29,31,>950,935
+250600,Karori East,Capital and Coast,Pacific Peoples,34,34,38,895,895
+250700,Pipitea-Kaiwharawhara,Capital and Coast,Pacific Peoples,18,18,19,947,947
+250800,Northland (Wellington City),Capital and Coast,Pacific Peoples,37,36,37,>950,>950
+250900,Thorndon,Capital and Coast,Pacific Peoples,88,88,89,>950,>950
+251000,Wellington Botanic Gardens,Capital and Coast,Pacific Peoples,31,30,31,>950,>950
+251100,Kelburn,Capital and Coast,Pacific Peoples,28,28,26,>950,>950
+251200,Aro Valley,Capital and Coast,Pacific Peoples,69,69,73,945,945
+251300,Wellington University,Capital and Coast,Pacific Peoples,24,24,31,774,774
+251400,Wellington Central,Capital and Coast,Pacific Peoples,83,82,97,856,845
+251500,Brooklyn North,Capital and Coast,Pacific Peoples,30,30,28,>950,>950
+251600,Dixon Street,Capital and Coast,Pacific Peoples,139,139,139,>950,>950
+251700,Vivian West,Capital and Coast,Pacific Peoples,66,65,61,>950,>950
+251800,Courtenay,Capital and Coast,Pacific Peoples,43,42,44,>950,>950
+251900,Brooklyn East,Capital and Coast,Pacific Peoples,52,52,51,>950,>950
+252000,Mount Cook West,Capital and Coast,Pacific Peoples,103,101,106,>950,>950
+252100,Vivian East,Capital and Coast,Pacific Peoples,43,43,42,>950,>950
+252200,Brooklyn South,Capital and Coast,Pacific Peoples,73,73,71,>950,>950
+252300,Oriental Bay,Capital and Coast,Pacific Peoples,11,10,11,>950,909
+252400,Mount Cook East,Capital and Coast,Pacific Peoples,87,87,91,>950,>950
+252500,Mount Victoria,Capital and Coast,Pacific Peoples,76,76,75,>950,>950
+252600,Roseneath,Capital and Coast,Pacific Peoples,20,20,23,870,870
+252700,Ōwhiro Bay,Capital and Coast,Pacific Peoples,126,126,132,>950,>950
+252800,Kingston-Mornington-Vogeltown,Capital and Coast,Pacific Peoples,100,99,105,>950,943
+252900,Newtown North,Capital and Coast,Pacific Peoples,134,131,130,>950,>950
+253000,Newtown West,Capital and Coast,Pacific Peoples,144,144,154,935,935
+253100,Hataitai North,Capital and Coast,Pacific Peoples,75,74,82,915,902
+253200,Evans Bay,Capital and Coast,Pacific Peoples,29,29,33,879,879
+253300,Berhampore,Capital and Coast,Pacific Peoples,252,251,262,>950,>950
+253400,Hataitai South,Capital and Coast,Pacific Peoples,35,35,36,>950,>950
+253500,Maupuia,Capital and Coast,Pacific Peoples,124,123,121,>950,>950
+253600,Newtown South,Capital and Coast,Pacific Peoples,249,246,257,>950,>950
+253700,Kilbirnie Central,Capital and Coast,Pacific Peoples,147,146,142,>950,>950
+253800,Island Bay West,Capital and Coast,Pacific Peoples,117,116,130,900,892
+253900,Melrose,Capital and Coast,Pacific Peoples,43,41,45,>950,911
+254000,Island Bay East,Capital and Coast,Pacific Peoples,113,113,113,>950,>950
+254100,Miramar North,Capital and Coast,Pacific Peoples,118,115,120,>950,>950
+254200,Kilbirnie East,Capital and Coast,Pacific Peoples,173,170,184,940,924
+254300,Lyall Bay,Capital and Coast,Pacific Peoples,152,152,162,938,938
+254400,Miramar Central,Capital and Coast,Pacific Peoples,149,145,143,>950,>950
+254500,Southgate,Capital and Coast,Pacific Peoples,71,71,77,922,922
+254600,Karaka Bay-Worser Bay,Capital and Coast,Pacific Peoples,32,32,30,>950,>950
+254700,Houghton Bay,Capital and Coast,Pacific Peoples,57,56,58,>950,>950
+254800,Miramar East,Capital and Coast,Pacific Peoples,85,84,88,>950,>950
+254900,Miramar South,Capital and Coast,Pacific Peoples,337,332,339,>950,>950
+255000,Rongotai,Capital and Coast,Pacific Peoples,masked,masked,masked,500,500
+255100,Strathmore (Wellington City),Capital and Coast,Pacific Peoples,484,478,484,>950,>950
+255200,Seatoun,Capital and Coast,Pacific Peoples,16,16,19,842,842
+255300,Kopuaranga,Wairarapa,Pacific Peoples,7,7,7,>950,>950
+255400,Upper Plain,Wairarapa,Pacific Peoples,15,15,16,938,938
+255500,Opaki,Wairarapa,Pacific Peoples,8,7,7,>950,>950
+255600,Ngaumutawa,Wairarapa,Pacific Peoples,27,26,27,>950,>950
+255700,Solway North,Wairarapa,Pacific Peoples,58,57,58,>950,>950
+255800,Lansdowne West,Wairarapa,Pacific Peoples,38,37,32,>950,>950
+255900,Masterton Central,Wairarapa,Pacific Peoples,16,16,15,>950,>950
+256000,Kuripuni,Wairarapa,Pacific Peoples,31,30,29,>950,>950
+256100,Douglas Park,Wairarapa,Pacific Peoples,58,52,61,>950,852
+256200,Solway South,Wairarapa,Pacific Peoples,97,95,96,>950,>950
+256300,Lansdowne East,Wairarapa,Pacific Peoples,68,67,68,>950,>950
+256400,Cameron and Soldiers Park,Wairarapa,Pacific Peoples,50,48,59,847,814
+256500,Whareama,Wairarapa,Pacific Peoples,7,masked,10,700,600
+256600,Homebush-Te Ore Ore,Wairarapa,Pacific Peoples,masked,masked,masked,750,750
+256700,McJorrow Park,Wairarapa,Pacific Peoples,116,111,115,>950,>950
+256800,Mount Holdsworth,Wairarapa,Pacific Peoples,19,18,20,950,900
+256900,Carterton North,Wairarapa,Pacific Peoples,42,42,29,>950,>950
+257000,Kokotau,Wairarapa,Pacific Peoples,masked,masked,8,625,625
+257100,Carterton South,Wairarapa,Pacific Peoples,34,34,35,>950,>950
+257200,Gladstone (Carterton District),Wairarapa,Pacific Peoples,masked,masked,masked,>950,750
+257300,Tauherenikau,Wairarapa,Pacific Peoples,43,43,11,>950,>950
+257400,Kahutara,Wairarapa,Pacific Peoples,9,9,10,900,900
+257500,Featherston,Wairarapa,Pacific Peoples,52,52,53,>950,>950
+257700,Greytown,Wairarapa,Pacific Peoples,23,23,29,793,793
+257800,Aorangi Forest,Wairarapa,Pacific Peoples,21,21,7,>950,>950
+257900,Martinborough,Wairarapa,Pacific Peoples,29,29,26,>950,>950
+258100,Three Kings Islands,Area outside District Health Board,Pacific Peoples,masked,masked,masked,masked,masked
+258900,Islands Bay of Plenty Region,Bay of Plenty,Pacific Peoples,masked,masked,masked,masked,masked
+259800,Bare Island,Area outside District Health Board,Pacific Peoples,masked,masked,masked,masked,masked
+300300,Golden Bay/Mohua,Nelson Marlborough,Pacific Peoples,8,8,9,889,889
+300500,Takaka,Nelson Marlborough,Pacific Peoples,10,10,10,>950,>950
+300600,Pōhara-Abel Tasman,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+300700,Takaka Hills,Nelson Marlborough,Pacific Peoples,79,78,19,>950,>950
+300800,Kaiteriteri-Riwaka,Nelson Marlborough,Pacific Peoples,415,408,52,>950,>950
+300900,Upper Moutere,Nelson Marlborough,Pacific Peoples,11,10,13,846,769
+301000,Lower Moutere,Nelson Marlborough,Pacific Peoples,153,150,23,>950,>950
+301100,Motueka North,Nelson Marlborough,Pacific Peoples,31,30,28,>950,>950
+301200,Motueka West,Nelson Marlborough,Pacific Peoples,108,105,51,>950,>950
+301300,Motueka East,Nelson Marlborough,Pacific Peoples,58,53,35,>950,>950
+301500,Golden Downs,Nelson Marlborough,Pacific Peoples,12,12,7,>950,>950
+301600,Moutere Hills,Nelson Marlborough,Pacific Peoples,21,21,12,>950,>950
+301700,Ruby Bay-Māpua,Nelson Marlborough,Pacific Peoples,13,13,13,>950,>950
+301800,Murchison-Nelson Lakes,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+301900,Inlet Waimea West,Nelson Marlborough,Pacific Peoples,masked,masked,masked,masked,masked
+302000,Islands Tasman District,Nelson Marlborough,Pacific Peoples,masked,masked,masked,masked,masked
+302100,Waimea West,Nelson Marlborough,Pacific Peoples,89,89,12,>950,>950
+302200,Appleby,Nelson Marlborough,Pacific Peoples,81,81,19,>950,>950
+302300,Wakefield,Nelson Marlborough,Pacific Peoples,16,16,18,889,889
+302400,Richmond West (Tasman District),Nelson Marlborough,Pacific Peoples,39,39,23,>950,>950
+302500,Wakefield Rural,Nelson Marlborough,Pacific Peoples,masked,masked,masked,833,833
+302600,Brightwater,Nelson Marlborough,Pacific Peoples,22,22,20,>950,>950
+302700,Hope,Nelson Marlborough,Pacific Peoples,117,116,15,>950,>950
+302800,Richmond Central (Tasman District),Nelson Marlborough,Pacific Peoples,41,40,32,>950,>950
+302900,Ben Cooper Park,Nelson Marlborough,Pacific Peoples,18,17,9,>950,>950
+303000,Richmond South (Tasman District),Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+303100,Wilkes Park,Nelson Marlborough,Pacific Peoples,17,17,17,>950,>950
+303200,Templemore,Nelson Marlborough,Pacific Peoples,13,13,14,929,929
+303300,Easby Park,Nelson Marlborough,Pacific Peoples,32,32,33,>950,>950
+303400,Fairose,Nelson Marlborough,Pacific Peoples,8,8,7,>950,>950
+303500,Aniseed Valley,Nelson Marlborough,Pacific Peoples,masked,masked,masked,masked,masked
+303600,Nelson Rural,Nelson Marlborough,Pacific Peoples,12,11,13,923,846
+303700,Inlets Nelson City,Nelson Marlborough,Pacific Peoples,masked,masked,masked,masked,masked
+303800,Marybank,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+303900,Port Nelson,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+304000,Nelson Airport,Nelson Marlborough,Pacific Peoples,12,12,13,923,923
+304100,Tāhunanui,Nelson Marlborough,Pacific Peoples,59,59,52,>950,>950
+304200,Britannia,Nelson Marlborough,Pacific Peoples,50,49,45,>950,>950
+304300,Atawhai,Nelson Marlborough,Pacific Peoples,18,17,18,>950,944
+304400,Broadgreen-Monaco,Nelson Marlborough,Pacific Peoples,50,48,50,>950,>950
+304500,Washington,Nelson Marlborough,Pacific Peoples,53,52,54,>950,>950
+304600,Tahuna Hills,Nelson Marlborough,Pacific Peoples,33,31,31,>950,>950
+304700,Nelson Central-Trafalgar,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+304800,The Wood,Nelson Marlborough,Pacific Peoples,46,44,40,>950,>950
+304900,Toi Toi,Nelson Marlborough,Pacific Peoples,19,18,16,>950,>950
+305000,Nayland,Nelson Marlborough,Pacific Peoples,56,56,55,>950,>950
+305100,Aldinga,Nelson Marlborough,Pacific Peoples,21,21,21,>950,>950
+305200,Victory,Nelson Marlborough,Pacific Peoples,21,21,23,913,913
+305300,Rutherford,Nelson Marlborough,Pacific Peoples,41,41,41,>950,>950
+305400,Maitlands,Nelson Marlborough,Pacific Peoples,23,23,23,>950,>950
+305500,Maitai,Nelson Marlborough,Pacific Peoples,11,10,11,>950,909
+305600,Grampians,Nelson Marlborough,Pacific Peoples,55,53,48,>950,>950
+305700,Saxton,Nelson Marlborough,Pacific Peoples,37,36,8,>950,>950
+305800,Suffolk,Nelson Marlborough,Pacific Peoples,19,19,18,>950,>950
+305900,Omaio,Nelson Marlborough,Pacific Peoples,63,63,58,>950,>950
+306000,Enner Glynn,Nelson Marlborough,Pacific Peoples,26,26,25,>950,>950
+306100,Daelyn,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+306200,The Brook,Nelson Marlborough,Pacific Peoples,21,20,20,>950,>950
+306300,Marlborough Sounds West,Nelson Marlborough,Pacific Peoples,13,13,15,867,867
+306400,Marlborough Sounds Coastal Marine,Nelson Marlborough,Pacific Peoples,masked,masked,masked,masked,masked
+306500,Marlborough Sounds East,Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+306600,Upper Wairau,Nelson Marlborough,Pacific Peoples,21,20,11,>950,>950
+306700,Waikawa (Marlborough District),Nelson Marlborough,Pacific Peoples,masked,masked,masked,>950,>950
+306800,Waitohi (Marlborough District),Nelson Marlborough,Pacific Peoples,29,28,32,906,875
+306900,Tuamarina,Nelson Marlborough,Pacific Peoples,14,14,14,>950,>950
+307000,Awatere,Nelson Marlborough,Pacific Peoples,59,59,16,>950,>950
+307100,Renwick,Nelson Marlborough,Pacific Peoples,21,21,23,913,913
+307200,Lower Wairau,Nelson Marlborough,Pacific Peoples,95,94,9,>950,>950
+307300,Woodbourne,Nelson Marlborough,Pacific Peoples,23,23,23,>950,>950
+307400,Spring Creek-Grovetown,Nelson Marlborough,Pacific Peoples,15,14,9,>950,>950
+307500,Springlands,Nelson Marlborough,Pacific Peoples,82,79,68,>950,>950
+307600,Yelverton,Nelson Marlborough,Pacific Peoples,96,94,83,>950,>950
+307700,Mayfield,Nelson Marlborough,Pacific Peoples,256,251,76,>950,>950
+307800,Whitney West,Nelson Marlborough,Pacific Peoples,95,95,64,>950,>950
+307900,Blenheim Central,Nelson Marlborough,Pacific Peoples,170,170,46,>950,>950
+308000,Riversdale-Islington,Nelson Marlborough,Pacific Peoples,187,181,84,>950,>950
+308100,Whitney East,Nelson Marlborough,Pacific Peoples,111,108,103,>950,>950
+308200,Redwoodtown West,Nelson Marlborough,Pacific Peoples,81,79,81,>950,>950
+308300,Witherlea West,Nelson Marlborough,Pacific Peoples,40,40,40,>950,>950
+308400,Redwoodtown East,Nelson Marlborough,Pacific Peoples,67,67,71,944,944
+308500,Riverlands,Nelson Marlborough,Pacific Peoples,540,539,52,>950,>950
+308600,Witherlea East,Nelson Marlborough,Pacific Peoples,38,37,36,>950,>950
+308800,Kaikōura Ranges,Canterbury,Pacific Peoples,7,7,9,778,778
+308900,Kaikōura,Canterbury,Pacific Peoples,11,11,10,>950,>950
+309000,Karamea,West Coast,Pacific Peoples,9,9,12,750,750
+309100,Inlets Buller District,West Coast,Pacific Peoples,masked,masked,masked,masked,masked
+309200,Westport North,West Coast,Pacific Peoples,26,25,25,>950,>950
+309300,Westport Rural,West Coast,Pacific Peoples,masked,masked,masked,>950,>950
+309400,Westport South,West Coast,Pacific Peoples,14,14,18,778,778
+309500,Buller Coalfields,West Coast,Pacific Peoples,masked,masked,masked,>950,>950
+309600,Charleston (Buller District),West Coast,Pacific Peoples,masked,masked,masked,masked,masked
+309700,Inangahua,West Coast,Pacific Peoples,masked,masked,8,750,750
+309800,Reefton,West Coast,Pacific Peoples,8,8,7,>950,>950
+309900,Barrytown,West Coast,Pacific Peoples,8,8,10,800,800
+310000,Runanga,West Coast,Pacific Peoples,masked,masked,masked,>950,>950
+310100,Cobden,West Coast,Pacific Peoples,23,20,23,>950,870
+310200,Blaketown,West Coast,Pacific Peoples,masked,masked,masked,>950,833
+310300,Greymouth Central,West Coast,Pacific Peoples,12,12,11,>950,>950
+310400,King Park,West Coast,Pacific Peoples,21,21,22,>950,>950
+310500,Marsden,West Coast,Pacific Peoples,7,7,8,875,875
+310600,Karoro,West Coast,Pacific Peoples,7,masked,7,>950,857
+310700,Rutherglen-Camerons,West Coast,Pacific Peoples,9,9,8,>950,>950
+310800,Greymouth Rural,West Coast,Pacific Peoples,masked,masked,masked,667,667
+310900,Dobson,West Coast,Pacific Peoples,masked,masked,masked,500,500
+311000,Nelson Creek,West Coast,Pacific Peoples,9,9,8,>950,>950
+311100,Lake Brunner,West Coast,Pacific Peoples,19,19,18,>950,>950
+311200,Haast,West Coast,Pacific Peoples,masked,masked,masked,>950,>950
+311300,Westland Glaciers-Bruce Bay,West Coast,Pacific Peoples,17,17,14,>950,>950
+311400,Arahura-Kumara,West Coast,Pacific Peoples,7,7,13,538,538
+311500,Hokitika,West Coast,Pacific Peoples,21,21,17,>950,>950
+311700,Hokitika Rural,West Coast,Pacific Peoples,masked,masked,masked,>950,>950
+311800,Waitaha,West Coast,Pacific Peoples,masked,masked,masked,masked,masked
+311900,Whataroa-Harihari,West Coast,Pacific Peoples,10,10,10,>950,>950
+312000,Hokitika Valley-Otira,West Coast,Pacific Peoples,masked,masked,masked,>950,>950
+312100,Hanmer Range,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+312200,Amuri,Canterbury,Pacific Peoples,10,9,8,>950,>950
+312300,Hanmer Springs,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+312400,Upper Hurunui,Canterbury,Pacific Peoples,15,15,13,>950,>950
+312500,Parnassus,Canterbury,Pacific Peoples,15,14,13,>950,>950
+312600,Ashley Forest,Canterbury,Pacific Peoples,masked,masked,masked,500,500
+312700,Omihi,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+312800,Balcairn,Canterbury,Pacific Peoples,34,34,30,>950,>950
+312900,Amberley,Canterbury,Pacific Peoples,14,14,13,>950,>950
+313000,Okuku,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+313100,Ashley Gorge,Canterbury,Pacific Peoples,7,7,11,636,636
+313200,Oxford,Canterbury,Pacific Peoples,7,7,9,778,778
+313300,Starvation Hill-Cust,Canterbury,Pacific Peoples,masked,masked,8,625,625
+313400,Loburn,Canterbury,Pacific Peoples,18,17,22,818,773
+313500,Eyrewell,Canterbury,Pacific Peoples,18,18,21,857,857
+313600,West Eyreton,Canterbury,Pacific Peoples,10,10,13,769,769
+313700,Ashley-Sefton,Canterbury,Pacific Peoples,10,10,10,>950,>950
+313800,Fernside,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+313900,Rangiora North West,Canterbury,Pacific Peoples,14,14,14,>950,>950
+314000,Kingsbury,Canterbury,Pacific Peoples,17,17,21,810,810
+314100,Ashgrove,Canterbury,Pacific Peoples,17,17,15,>950,>950
+314200,Rangiora North East,Canterbury,Pacific Peoples,8,7,8,>950,875
+314300,Oxford Estate,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+314400,Rangiora Central,Canterbury,Pacific Peoples,masked,masked,masked,masked,masked
+314500,Rangiora South West,Canterbury,Pacific Peoples,25,25,24,>950,>950
+314600,Lilybrook,Canterbury,Pacific Peoples,33,31,39,846,795
+314700,Waikuku,Canterbury,Pacific Peoples,12,11,11,>950,>950
+314800,Mandeville-Ohoka,Canterbury,Pacific Peoples,18,18,18,>950,>950
+314900,Rangiora South East,Canterbury,Pacific Peoples,25,23,25,>950,920
+315000,Southbrook,Canterbury,Pacific Peoples,8,7,8,>950,875
+315100,Swannanoa-Eyreton,Canterbury,Pacific Peoples,8,8,7,>950,>950
+315200,Tuahiwi,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+315300,Woodend,Canterbury,Pacific Peoples,28,28,34,824,824
+315400,Pegasus,Canterbury,Pacific Peoples,24,24,26,923,923
+315500,Clarkville,Canterbury,Pacific Peoples,11,11,11,>950,>950
+315600,Pegasus Bay,Canterbury,Pacific Peoples,7,7,7,>950,>950
+315700,Kaiapoi North West,Canterbury,Pacific Peoples,48,44,50,>950,880
+315800,Silverstream (Waimakariri District),Canterbury,Pacific Peoples,15,15,16,938,938
+315900,Sovereign Palms,Canterbury,Pacific Peoples,43,42,47,915,894
+316000,Kaiapoi West,Canterbury,Pacific Peoples,10,10,11,909,909
+316100,Kaiapoi Central,Canterbury,Pacific Peoples,29,27,28,>950,>950
+316200,Kaiapoi South,Canterbury,Pacific Peoples,22,21,18,>950,>950
+316300,Kaiapoi East,Canterbury,Pacific Peoples,9,9,11,818,818
+316400,McLeans Island,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+316500,Paparua,Canterbury,Pacific Peoples,17,17,17,>950,>950
+316600,Yaldhurst,Canterbury,Pacific Peoples,49,48,45,>950,>950
+316700,Christchurch Airport,Canterbury,Pacific Peoples,masked,masked,masked,masked,masked
+316800,Clearwater,Canterbury,Pacific Peoples,7,7,8,875,875
+316900,Belfast West,Canterbury,Pacific Peoples,23,22,27,852,815
+317000,Harewood,Canterbury,Pacific Peoples,9,9,11,818,818
+317100,Brooklands-Spencerville,Canterbury,Pacific Peoples,11,11,10,>950,>950
+317200,Styx,Canterbury,Pacific Peoples,masked,masked,7,857,857
+317300,Belfast East,Canterbury,Pacific Peoples,60,60,60,>950,>950
+317400,Northwood,Canterbury,Pacific Peoples,20,19,19,>950,>950
+317500,Russley,Canterbury,Pacific Peoples,30,26,30,>950,867
+317600,Regents Park,Canterbury,Pacific Peoples,21,21,15,>950,>950
+317700,Hawthornden,Canterbury,Pacific Peoples,83,82,81,>950,>950
+317800,Bishopdale North,Canterbury,Pacific Peoples,79,77,87,908,885
+317900,Casebrook,Canterbury,Pacific Peoples,91,90,87,>950,>950
+318000,Bishopdale West,Canterbury,Pacific Peoples,95,91,97,>950,938
+318100,Templeton,Canterbury,Pacific Peoples,39,39,36,>950,>950
+318200,Islington,Canterbury,Pacific Peoples,54,52,55,>950,945
+318300,Burnside Park,Canterbury,Pacific Peoples,48,48,52,923,923
+318400,Marshland,Canterbury,Pacific Peoples,8,8,8,>950,>950
+318500,Avonhead North,Canterbury,Pacific Peoples,13,13,16,813,813
+318600,Redwood North,Canterbury,Pacific Peoples,41,41,38,>950,>950
+318700,Broomfield,Canterbury,Pacific Peoples,119,115,133,895,865
+318800,Redwood West,Canterbury,Pacific Peoples,85,85,85,>950,>950
+318900,Avonhead West,Canterbury,Pacific Peoples,26,26,26,>950,>950
+319000,Bishopdale South,Canterbury,Pacific Peoples,73,72,64,>950,>950
+319100,Islington-Hornby Industrial,Canterbury,Pacific Peoples,18,18,20,900,900
+319200,Burnside,Canterbury,Pacific Peoples,73,72,76,>950,947
+319300,Hei Hei,Canterbury,Pacific Peoples,222,222,238,933,933
+319400,Papanui North,Canterbury,Pacific Peoples,87,85,83,>950,>950
+319500,Avonhead East,Canterbury,Pacific Peoples,58,56,58,>950,>950
+319600,Redwood East,Canterbury,Pacific Peoples,72,69,71,>950,>950
+319700,Avonhead South,Canterbury,Pacific Peoples,74,74,70,>950,>950
+319800,Riccarton Racecourse,Canterbury,Pacific Peoples,71,70,62,>950,>950
+319900,Bryndwr North,Canterbury,Pacific Peoples,106,105,102,>950,>950
+320000,Northlands (Christchurch City),Canterbury,Pacific Peoples,masked,masked,masked,667,667
+320100,Papanui West,Canterbury,Pacific Peoples,54,53,60,900,883
+320200,Ilam North,Canterbury,Pacific Peoples,63,63,61,>950,>950
+320300,Hornby West,Canterbury,Pacific Peoples,136,135,135,>950,>950
+320400,Hornby Central,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+320500,Northcote (Christchurch City),Canterbury,Pacific Peoples,73,71,68,>950,>950
+320600,Jellie Park,Canterbury,Pacific Peoples,28,28,35,800,800
+320700,Ilam South,Canterbury,Pacific Peoples,76,75,81,938,926
+320800,Bryndwr South,Canterbury,Pacific Peoples,64,64,63,>950,>950
+320900,Papanui East,Canterbury,Pacific Peoples,44,42,42,>950,>950
+321000,Sockburn North,Canterbury,Pacific Peoples,121,120,130,931,923
+321100,Hornby South,Canterbury,Pacific Peoples,163,156,156,>950,>950
+321200,Ilam University,Canterbury,Pacific Peoples,64,62,69,928,899
+321300,Prestons,Canterbury,Pacific Peoples,46,45,45,>950,>950
+321400,Strowan,Canterbury,Pacific Peoples,37,37,39,949,949
+321500,Fendalton,Canterbury,Pacific Peoples,9,9,8,>950,>950
+321600,Waitikiri,Canterbury,Pacific Peoples,29,29,27,>950,>950
+321700,Mairehau North,Canterbury,Pacific Peoples,70,69,65,>950,>950
+321800,Bush Inn,Canterbury,Pacific Peoples,73,70,74,>950,946
+321900,Awatea North,Canterbury,Pacific Peoples,112,112,105,>950,>950
+322000,Upper Riccarton,Canterbury,Pacific Peoples,74,73,79,937,924
+322100,Malvern,Canterbury,Pacific Peoples,42,42,40,>950,>950
+322200,Rutland,Canterbury,Pacific Peoples,27,26,31,871,839
+322300,Sockburn South,Canterbury,Pacific Peoples,8,8,8,>950,>950
+322400,Deans Bush,Canterbury,Pacific Peoples,27,27,25,>950,>950
+322500,Wigram North,Canterbury,Pacific Peoples,16,16,11,>950,>950
+322600,Holmwood,Canterbury,Pacific Peoples,13,13,11,>950,>950
+322700,Wharenui,Canterbury,Pacific Peoples,109,108,104,>950,>950
+322800,Wigram West,Canterbury,Pacific Peoples,masked,masked,masked,833,833
+322900,Awatea South,Canterbury,Pacific Peoples,38,38,34,>950,>950
+323000,Merivale,Canterbury,Pacific Peoples,32,32,34,941,941
+323100,Mairehau South,Canterbury,Pacific Peoples,101,101,101,>950,>950
+323200,Mona Vale,Canterbury,Pacific Peoples,31,30,29,>950,>950
+323300,Riccarton West,Canterbury,Pacific Peoples,124,122,118,>950,>950
+323400,Shirley West,Canterbury,Pacific Peoples,178,169,194,918,871
+323500,Middleton,Canterbury,Pacific Peoples,13,12,11,>950,>950
+323600,Wigram South,Canterbury,Pacific Peoples,masked,masked,7,857,857
+323700,Queenspark,Canterbury,Pacific Peoples,86,85,89,>950,>950
+323800,St Albans North,Canterbury,Pacific Peoples,40,39,46,870,848
+323900,St Albans West,Canterbury,Pacific Peoples,42,42,40,>950,>950
+324000,Travis Wetlands,Canterbury,Pacific Peoples,48,47,57,842,825
+324100,Wigram East,Canterbury,Pacific Peoples,9,9,9,>950,>950
+324200,Riccarton Central,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+324300,Oaklands West,Canterbury,Pacific Peoples,56,54,51,>950,>950
+324400,Riccarton South,Canterbury,Pacific Peoples,70,68,69,>950,>950
+324500,Halswell West,Canterbury,Pacific Peoples,48,48,52,923,923
+324600,Shirley East,Canterbury,Pacific Peoples,47,47,46,>950,>950
+324700,Broken Run,Canterbury,Pacific Peoples,14,14,13,>950,>950
+324800,St Albans East,Canterbury,Pacific Peoples,73,71,71,>950,>950
+324900,Hagley Park,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+325000,Hillmorton,Canterbury,Pacific Peoples,83,83,77,>950,>950
+325100,Parklands,Canterbury,Pacific Peoples,100,99,106,943,934
+325200,Riccarton East,Canterbury,Pacific Peoples,17,17,19,895,895
+325300,Edgeware,Canterbury,Pacific Peoples,66,64,78,846,821
+325400,Aidanfield,Canterbury,Pacific Peoples,50,50,52,>950,>950
+325500,Tower Junction,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+325600,Burwood,Canterbury,Pacific Peoples,83,81,83,>950,>950
+325700,Christchurch Central-West,Canterbury,Pacific Peoples,27,25,27,>950,926
+325800,Christchurch Central-North,Canterbury,Pacific Peoples,46,46,52,885,885
+325900,Richmond North (Christchurch City),Canterbury,Pacific Peoples,51,46,61,836,754
+326000,Waimairi Beach,Canterbury,Pacific Peoples,13,13,16,813,813
+326100,Addington West,Canterbury,Pacific Peoples,100,98,95,>950,>950
+326200,Ōtakaro-Avon River Corridor,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+326300,Oaklands East,Canterbury,Pacific Peoples,64,64,71,901,901
+326400,Addington North,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+326500,Dallington,Canterbury,Pacific Peoples,75,73,76,>950,>950
+326600,Christchurch Central,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+326700,Hoon Hay West,Canterbury,Pacific Peoples,375,356,383,>950,930
+326800,Richmond South (Christchurch City),Canterbury,Pacific Peoples,62,58,63,>950,921
+326900,Spreydon West,Canterbury,Pacific Peoples,62,61,68,912,897
+327000,Christchurch Central-East,Canterbury,Pacific Peoples,57,53,63,905,841
+327100,Christchurch Central-South,Canterbury,Pacific Peoples,8,8,8,>950,>950
+327200,North Beach,Canterbury,Pacific Peoples,88,87,98,898,888
+327300,Halswell North,Canterbury,Pacific Peoples,42,42,39,>950,>950
+327400,Addington East,Canterbury,Pacific Peoples,94,92,99,949,929
+327500,Avondale (Christchurch City),Canterbury,Pacific Peoples,109,106,118,924,898
+327600,Spreydon North,Canterbury,Pacific Peoples,122,120,113,>950,>950
+327700,Hoon Hay East,Canterbury,Pacific Peoples,82,81,75,>950,>950
+327800,Avonside,Canterbury,Pacific Peoples,89,88,97,918,907
+327900,Linwood West,Canterbury,Pacific Peoples,239,232,236,>950,>950
+328000,Halswell South,Canterbury,Pacific Peoples,32,32,33,>950,>950
+328100,Sydenham Central,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+328200,Spreydon South,Canterbury,Pacific Peoples,46,45,45,>950,>950
+328300,Rawhiti,Canterbury,Pacific Peoples,100,99,98,>950,>950
+328400,Wainoni,Canterbury,Pacific Peoples,157,154,179,877,860
+328500,Linwood North,Canterbury,Pacific Peoples,143,139,142,>950,>950
+328600,Aranui,Canterbury,Pacific Peoples,471,455,513,918,887
+328700,Sydenham West,Canterbury,Pacific Peoples,29,29,28,>950,>950
+328800,Lancaster Park,Canterbury,Pacific Peoples,10,10,16,625,625
+328900,Phillipstown,Canterbury,Pacific Peoples,225,218,233,>950,936
+329000,Kennedys Bush,Canterbury,Pacific Peoples,masked,masked,masked,667,667
+329100,Somerfield East,Canterbury,Pacific Peoples,40,37,44,909,841
+329200,Somerfield West,Canterbury,Pacific Peoples,37,37,34,>950,>950
+329300,Linwood East,Canterbury,Pacific Peoples,140,140,137,>950,>950
+329400,Sydenham North,Canterbury,Pacific Peoples,64,64,69,928,928
+329500,Hoon Hay South,Canterbury,Pacific Peoples,48,48,48,>950,>950
+329600,Charleston (Christchurch City),Canterbury,Pacific Peoples,61,57,63,>950,905
+329700,Sydenham South,Canterbury,Pacific Peoples,57,57,61,934,934
+329800,Bexley,Canterbury,Pacific Peoples,207,202,211,>950,>950
+329900,Waltham,Canterbury,Pacific Peoples,80,80,83,>950,>950
+330000,Westmorland,Canterbury,Pacific Peoples,15,15,17,882,882
+330100,Woolston North,Canterbury,Pacific Peoples,169,164,178,949,921
+330200,New Brighton,Canterbury,Pacific Peoples,70,69,78,897,885
+330300,Cashmere West,Canterbury,Pacific Peoples,21,21,22,>950,>950
+330400,Bromley South,Canterbury,Pacific Peoples,225,221,229,>950,>950
+330500,Ensors,Canterbury,Pacific Peoples,76,75,79,>950,949
+330600,Beckenham,Canterbury,Pacific Peoples,10,10,10,>950,>950
+330700,Bromley North,Canterbury,Pacific Peoples,masked,masked,masked,masked,masked
+330800,St Martins,Canterbury,Pacific Peoples,40,40,45,889,889
+330900,Opawa,Canterbury,Pacific Peoples,14,14,12,>950,>950
+331000,Woolston West,Canterbury,Pacific Peoples,48,47,52,923,904
+331100,Woolston East,Canterbury,Pacific Peoples,210,207,209,>950,>950
+331200,Huntsbury,Canterbury,Pacific Peoples,7,7,10,700,700
+331300,Cashmere East,Canterbury,Pacific Peoples,16,16,15,>950,>950
+331400,Hillsborough (Christchurch City),Canterbury,Pacific Peoples,25,25,25,>950,>950
+331500,Woolston South,Canterbury,Pacific Peoples,25,24,27,926,889
+331600,Port Hills,Canterbury,Pacific Peoples,masked,masked,masked,500,500
+331700,South New Brighton,Canterbury,Pacific Peoples,54,53,52,>950,>950
+331800,Brookhaven-Ferrymead,Canterbury,Pacific Peoples,57,57,57,>950,>950
+331900,Heathcote Valley,Canterbury,Pacific Peoples,19,19,21,905,905
+332000,Mount Pleasant,Canterbury,Pacific Peoples,19,19,22,864,864
+332100,Redcliffs,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+332200,Governors Bay,Canterbury,Pacific Peoples,9,9,10,900,900
+332400,Clifton Hill,Canterbury,Pacific Peoples,7,7,7,>950,>950
+332500,Lyttelton,Canterbury,Pacific Peoples,19,19,23,826,826
+332700,Sumner,Canterbury,Pacific Peoples,19,19,22,864,864
+332800,Teddington,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+332900,Diamond Harbour,Canterbury,Pacific Peoples,11,10,10,>950,>950
+333100,Banks Peninsula South,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+333200,Eastern Bays-Banks Peninsula,Canterbury,Pacific Peoples,masked,masked,masked,>950,500
+333300,Akaroa Harbour,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+333500,Akaroa,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+333600,Craigieburn,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+333700,Torlesse,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+333800,Glenroy-Hororata,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+333900,Glentunnel,Canterbury,Pacific Peoples,8,8,9,889,889
+334000,Darfield,Canterbury,Pacific Peoples,25,25,27,926,926
+334100,Kirwee,Canterbury,Pacific Peoples,10,10,10,>950,>950
+334200,Bankside,Canterbury,Pacific Peoples,22,22,17,>950,>950
+334300,Charing Cross,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+334400,Halkett,Canterbury,Pacific Peoples,28,26,25,>950,>950
+334500,Newtons Road,Canterbury,Pacific Peoples,19,18,19,>950,947
+334600,West Melton,Canterbury,Pacific Peoples,9,9,10,900,900
+334700,Burnham Camp,Canterbury,Pacific Peoples,35,35,34,>950,>950
+334800,Rolleston Izone,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+334900,Rolleston North West,Canterbury,Pacific Peoples,80,80,74,>950,>950
+335000,Springston,Canterbury,Pacific Peoples,22,22,26,846,846
+335100,Rolleston Central,Canterbury,Pacific Peoples,69,68,61,>950,>950
+335200,Rolleston North East,Canterbury,Pacific Peoples,83,83,79,>950,>950
+335300,Rolleston South West,Canterbury,Pacific Peoples,58,56,55,>950,>950
+335400,Southbridge,Canterbury,Pacific Peoples,38,38,31,>950,>950
+335500,Rolleston South East,Canterbury,Pacific Peoples,178,174,184,>950,946
+335600,Trents,Canterbury,Pacific Peoples,17,17,19,895,895
+335700,Prebbleton,Canterbury,Pacific Peoples,15,15,13,>950,>950
+335800,Irwell,Canterbury,Pacific Peoples,18,18,16,>950,>950
+335900,Ladbrooks,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+336000,Lincoln West,Canterbury,Pacific Peoples,36,36,45,800,800
+336100,Lincoln East,Canterbury,Pacific Peoples,37,37,35,>950,>950
+336200,Leeston,Canterbury,Pacific Peoples,12,12,11,>950,>950
+336300,Tai Tapu,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+336400,Motukarara,Canterbury,Pacific Peoples,masked,masked,masked,750,750
+336600,Ashburton Lakes,Canterbury,Pacific Peoples,masked,masked,masked,<50,<50
+336700,Cairnbrae,Canterbury,Pacific Peoples,13,13,9,>950,>950
+336800,Ashburton Forks,Canterbury,Pacific Peoples,23,23,22,>950,>950
+336900,Methven,Canterbury,Pacific Peoples,18,17,11,>950,>950
+337000,Ealing-Lowcliffe,Canterbury,Pacific Peoples,16,16,13,>950,>950
+337100,Eiffelton,Canterbury,Pacific Peoples,20,20,18,>950,>950
+337200,Chertsey,Canterbury,Pacific Peoples,17,16,14,>950,>950
+337300,Winchmore-Wakanui,Canterbury,Pacific Peoples,12,12,13,923,923
+337400,Allenton North,Canterbury,Pacific Peoples,82,81,74,>950,>950
+337500,Allenton South,Canterbury,Pacific Peoples,89,89,89,>950,>950
+337600,Rakaia,Canterbury,Pacific Peoples,62,60,51,>950,>950
+337700,Ashburton North,Canterbury,Pacific Peoples,masked,masked,7,857,857
+337800,Allenton East,Canterbury,Pacific Peoples,117,116,120,>950,>950
+337900,Tinwald North,Canterbury,Pacific Peoples,22,21,21,>950,>950
+338000,Ashburton Central,Canterbury,Pacific Peoples,12,12,9,>950,>950
+338100,Ashburton West,Canterbury,Pacific Peoples,24,23,25,>950,920
+338200,Tinwald South,Canterbury,Pacific Peoples,98,94,85,>950,>950
+338300,Ashburton East,Canterbury,Pacific Peoples,140,136,139,>950,>950
+338400,Netherby,Canterbury,Pacific Peoples,200,194,196,>950,>950
+338500,Hampstead,Canterbury,Pacific Peoples,275,266,284,>950,937
+338600,Ben McLeod,South Canterbury,Pacific Peoples,masked,masked,masked,masked,masked
+338700,Arundel,South Canterbury,Pacific Peoples,12,12,15,800,800
+338800,Levels Valley,South Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+338900,Geraldine,South Canterbury,Pacific Peoples,18,18,21,857,857
+339000,Rangitata,South Canterbury,Pacific Peoples,14,13,14,>950,929
+339100,Waitohi (Timaru District),South Canterbury,Pacific Peoples,10,10,10,>950,>950
+339200,Pleasant Point,South Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+339300,Temuka West,South Canterbury,Pacific Peoples,26,25,24,>950,>950
+339400,Hadlow,South Canterbury,Pacific Peoples,masked,masked,masked,833,833
+339500,Levels,South Canterbury,Pacific Peoples,72,72,12,>950,>950
+339600,Temuka East,South Canterbury,Pacific Peoples,34,33,28,>950,>950
+339700,Gleniti North,South Canterbury,Pacific Peoples,18,18,14,>950,>950
+339800,Washdyke,South Canterbury,Pacific Peoples,33,33,28,>950,>950
+339900,Fairview,South Canterbury,Pacific Peoples,13,13,13,>950,>950
+340000,Gleniti South,South Canterbury,Pacific Peoples,24,23,22,>950,>950
+340100,Glenwood,South Canterbury,Pacific Peoples,45,45,49,918,918
+340200,Marchwiel West,South Canterbury,Pacific Peoples,32,32,31,>950,>950
+340300,Marchwiel East,South Canterbury,Pacific Peoples,70,69,64,>950,>950
+340400,Highfield North,South Canterbury,Pacific Peoples,27,27,30,900,900
+340500,Highfield South,South Canterbury,Pacific Peoples,22,22,22,>950,>950
+340600,Waimataitai-Maori Hill,South Canterbury,Pacific Peoples,50,50,46,>950,>950
+340700,Fraser Park,South Canterbury,Pacific Peoples,55,53,50,>950,>950
+340800,Seaview,South Canterbury,Pacific Peoples,79,78,64,>950,>950
+341000,Watlington,South Canterbury,Pacific Peoples,55,55,51,>950,>950
+341100,Timaru Central,South Canterbury,Pacific Peoples,35,34,31,>950,>950
+341200,Timaru East,South Canterbury,Pacific Peoples,16,16,14,>950,>950
+341300,Parkside,South Canterbury,Pacific Peoples,61,57,65,938,877
+341400,Kensington (Timaru District),South Canterbury,Pacific Peoples,27,26,26,>950,>950
+341500,Mackenzie Lakes,South Canterbury,Pacific Peoples,16,16,17,941,941
+341800,Twizel,South Canterbury,Pacific Peoples,8,8,9,889,889
+341900,Opua (Mackenzie District),South Canterbury,Pacific Peoples,9,9,7,>950,>950
+342000,Fairlie,South Canterbury,Pacific Peoples,masked,masked,7,857,857
+342100,Hakataramea,South Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+342200,Maungati,South Canterbury,Pacific Peoples,11,11,11,>950,>950
+342300,Lyalldale,South Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+342400,Makikihi-Willowbridge,South Canterbury,Pacific Peoples,9,9,9,>950,>950
+342500,Waimate North,South Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+342600,Morven-Glenavy-Ikawai,South Canterbury,Pacific Peoples,21,21,21,>950,>950
+342700,Waimate West,South Canterbury,Pacific Peoples,9,9,7,>950,>950
+342800,Waimate East,South Canterbury,Pacific Peoples,10,10,13,769,769
+343000,Chatham Islands,Canterbury,Pacific Peoples,masked,masked,masked,>950,>950
+343100,Aviemore,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+343300,Danseys Pass,Southern,Pacific Peoples,12,11,11,>950,>950
+343400,Ngapara,Southern,Pacific Peoples,13,12,11,>950,>950
+343500,Lower Waitaki,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+343600,Waihemo,Southern,Pacific Peoples,12,12,12,>950,>950
+343700,Maheno,Southern,Pacific Peoples,10,9,11,909,818
+343800,Weston,Southern,Pacific Peoples,10,10,11,909,909
+343900,Oamaru North Milner Park,Southern,Pacific Peoples,159,156,147,>950,>950
+344000,Oamaru North Orana Park,Southern,Pacific Peoples,191,189,182,>950,>950
+344100,Oamaru Gardens,Southern,Pacific Peoples,38,38,34,>950,>950
+344200,Glen Warren,Southern,Pacific Peoples,99,98,119,832,824
+344300,Holmes Hill,Southern,Pacific Peoples,25,24,19,>950,>950
+344400,Oamaru Central,Southern,Pacific Peoples,29,29,25,>950,>950
+344500,South Hill,Southern,Pacific Peoples,64,63,67,>950,940
+344700,Palmerston,Southern,Pacific Peoples,9,9,13,692,692
+344800,Lindis-Nevis Valleys,Southern,Pacific Peoples,42,39,19,>950,>950
+344900,Cromwell West,Southern,Pacific Peoples,123,109,73,>950,>950
+345000,Cromwell East,Southern,Pacific Peoples,63,63,43,>950,>950
+345100,Manuherikia-Ida Valleys,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+345200,Earnscleugh,Southern,Pacific Peoples,145,144,14,>950,>950
+345300,Dunstan-Galloway,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+345400,Clyde,Southern,Pacific Peoples,10,10,8,>950,>950
+345500,Alexandra North,Southern,Pacific Peoples,104,97,29,>950,>950
+345600,Alexandra South,Southern,Pacific Peoples,21,20,21,>950,>950
+345700,Maniototo,Southern,Pacific Peoples,11,11,13,846,846
+345800,Teviot Valley,Southern,Pacific Peoples,121,116,32,>950,>950
+345900,Outer Wanaka,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+346000,Glenorchy,Southern,Pacific Peoples,7,7,8,875,875
+346200,Outer Wakatipu,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+346400,Cardrona,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+346600,Wanaka Waterfront,Southern,Pacific Peoples,8,8,9,889,889
+346700,Wanaka North,Southern,Pacific Peoples,16,16,15,>950,>950
+346800,Wanaka West,Southern,Pacific Peoples,7,masked,9,778,667
+346900,Albert Town,Southern,Pacific Peoples,8,8,8,>950,>950
+347000,Wanaka Central,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+347100,Lake Hawea,Southern,Pacific Peoples,masked,masked,masked,>950,750
+347200,Upper Clutha Valley,Southern,Pacific Peoples,masked,masked,7,429,429
+347300,Kingston,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+347400,Arthurs Point,Southern,Pacific Peoples,masked,masked,8,750,750
+347500,Wakatipu Basin,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+347600,Queenstown Hill,Southern,Pacific Peoples,masked,masked,masked,masked,masked
+347700,Warren Park,Southern,Pacific Peoples,11,11,8,>950,>950
+347800,Sunshine Bay-Fernhill,Southern,Pacific Peoples,26,25,20,>950,>950
+347900,Arrowtown,Southern,Pacific Peoples,11,11,10,>950,>950
+348000,Quail Rise,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+348100,Queenstown Central,Southern,Pacific Peoples,7,7,7,>950,>950
+348200,Queenstown East,Southern,Pacific Peoples,9,9,9,>950,>950
+348300,Frankton Arm,Southern,Pacific Peoples,19,19,20,950,950
+348400,Frankton,Southern,Pacific Peoples,44,43,43,>950,>950
+348500,Lake Hayes,Southern,Pacific Peoples,masked,masked,masked,<50,<50
+348600,Kelvin Heights,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+348700,Shotover Country,Southern,Pacific Peoples,61,61,55,>950,>950
+348800,Lake Hayes Estate,Southern,Pacific Peoples,30,30,35,857,857
+348900,Jacks Point,Southern,Pacific Peoples,19,19,14,>950,>950
+349000,Strath Taieri,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+349100,Bucklands Crossing,Southern,Pacific Peoples,13,13,15,867,867
+349200,Waikouaiti,Southern,Pacific Peoples,12,12,16,750,750
+349300,Momona,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+349400,Taieri,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+349600,Mount Cargill,Southern,Pacific Peoples,11,11,12,917,917
+349700,Bush Road,Southern,Pacific Peoples,21,21,23,913,913
+349800,Mosgiel East,Southern,Pacific Peoples,15,14,16,938,875
+349900,Mosgiel Central,Southern,Pacific Peoples,39,37,37,>950,>950
+350000,Seddon Park,Southern,Pacific Peoples,49,45,50,>950,900
+350100,Wingatui,Southern,Pacific Peoples,10,10,10,>950,>950
+350200,Saddle Hill-Chain Hills,Southern,Pacific Peoples,8,8,7,>950,>950
+350300,East Taieri,Southern,Pacific Peoples,23,23,25,920,920
+350400,Halfway Bush,Southern,Pacific Peoples,49,48,51,>950,941
+350500,Helensburgh,Southern,Pacific Peoples,11,11,9,>950,>950
+350600,Glenleith,Southern,Pacific Peoples,44,44,40,>950,>950
+350700,Fairfield (Dunedin City),Southern,Pacific Peoples,24,24,20,>950,>950
+350900,Brockville,Southern,Pacific Peoples,99,96,99,>950,>950
+351000,Wakari,Southern,Pacific Peoples,93,92,95,>950,>950
+351100,Abbotsford,Southern,Pacific Peoples,42,41,40,>950,>950
+351200,Brighton,Southern,Pacific Peoples,8,8,13,615,615
+351300,Pine Hill-Dalmore,Southern,Pacific Peoples,57,56,58,>950,>950
+351400,Kaikorai-Bradford,Southern,Pacific Peoples,38,36,37,>950,>950
+351500,Maori Hill,Southern,Pacific Peoples,19,18,22,864,818
+351600,Roslyn (Dunedin City),Southern,Pacific Peoples,43,43,43,>950,>950
+351700,North East Valley Chingford,Southern,Pacific Peoples,54,54,49,>950,>950
+351800,Roseneath-Sawyers Bay,Southern,Pacific Peoples,12,12,17,706,706
+351900,Normanby,Southern,Pacific Peoples,28,28,24,>950,>950
+352000,North East Valley Knox,Southern,Pacific Peoples,86,86,81,>950,>950
+352100,Belleknowes,Southern,Pacific Peoples,29,29,29,>950,>950
+352200,Gardens (Dunedin City),Southern,Pacific Peoples,108,107,89,>950,>950
+352300,Kenmure,Southern,Pacific Peoples,37,37,35,>950,>950
+352400,Campus West,Southern,Pacific Peoples,70,70,58,>950,>950
+352500,Waldronville,Southern,Pacific Peoples,15,15,13,>950,>950
+352600,Green Island,Southern,Pacific Peoples,35,35,40,875,875
+352700,Port Chalmers,Southern,Pacific Peoples,15,13,16,938,813
+352800,Royal Terrace,Southern,Pacific Peoples,31,31,31,>950,>950
+352900,Arthur Street,Southern,Pacific Peoples,58,58,64,906,906
+353000,Opoho,Southern,Pacific Peoples,18,17,17,>950,>950
+353100,Campus North,Southern,Pacific Peoples,126,125,118,>950,>950
+353200,Campus South,Southern,Pacific Peoples,95,95,88,>950,>950
+353300,Mornington,Southern,Pacific Peoples,88,87,87,>950,>950
+353400,Dunedin Central,Southern,Pacific Peoples,88,88,75,>950,>950
+353500,Maryhill,Southern,Pacific Peoples,78,77,78,>950,>950
+353600,Ravensbourne-St Leonards,Southern,Pacific Peoples,24,23,26,923,885
+353700,Harbourside,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+353800,Fernhill,Southern,Pacific Peoples,72,71,66,>950,>950
+353900,Otago Peninsula,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+354000,Concord,Southern,Pacific Peoples,60,57,57,>950,>950
+354100,Calton Hill,Southern,Pacific Peoples,68,67,70,>950,>950
+354200,Caversham,Southern,Pacific Peoples,120,115,121,>950,>950
+354300,Hillside-Portsmouth Drive,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+354400,Kew (Dunedin City),Southern,Pacific Peoples,46,46,46,>950,>950
+354500,Corstorphine,Southern,Pacific Peoples,92,90,105,876,857
+354600,Forbury,Southern,Pacific Peoples,69,68,69,>950,>950
+354700,Bathgate Park,Southern,Pacific Peoples,125,122,124,>950,>950
+354800,St Clair,Southern,Pacific Peoples,57,56,58,>950,>950
+354900,Waverley,Southern,Pacific Peoples,42,42,39,>950,>950
+355000,Macandrew Bay-Company Bay,Southern,Pacific Peoples,18,18,22,818,818
+355100,Broad Bay-Portobello,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+355200,St Kilda South,Southern,Pacific Peoples,136,134,126,>950,>950
+355300,Musselburgh,Southern,Pacific Peoples,29,28,28,>950,>950
+355400,Shiel Hill,Southern,Pacific Peoples,21,21,19,>950,>950
+355500,St Kilda North,Southern,Pacific Peoples,127,125,122,>950,>950
+355600,Andersons Bay,Southern,Pacific Peoples,41,39,39,>950,>950
+355700,Tainui,Southern,Pacific Peoples,49,48,54,907,889
+355800,West Otago,Southern,Pacific Peoples,10,10,10,>950,>950
+355900,Tuapeka,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+356000,Clinton,Southern,Pacific Peoples,masked,masked,masked,500,<50
+356100,Clutha Valley,Southern,Pacific Peoples,67,67,20,>950,>950
+356200,Bruce,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+356300,Catlins,Southern,Pacific Peoples,17,17,10,>950,>950
+356400,Milton,Southern,Pacific Peoples,23,23,24,>950,>950
+356500,Balclutha South,Southern,Pacific Peoples,99,96,74,>950,>950
+356600,Balclutha North,Southern,Pacific Peoples,64,61,58,>950,>950
+356700,Benhar-Stirling,Southern,Pacific Peoples,15,15,14,>950,>950
+356800,Kaitangata-Matau,Southern,Pacific Peoples,11,11,12,917,917
+357000,Fiordland,Southern,Pacific Peoples,masked,masked,masked,masked,masked
+357300,Mararoa,Southern,Pacific Peoples,masked,masked,masked,>950,800
+357500,Te Anau,Southern,Pacific Peoples,14,14,13,>950,>950
+357600,Whitestone,Southern,Pacific Peoples,masked,masked,masked,masked,masked
+357700,Mossburn,Southern,Pacific Peoples,masked,masked,masked,750,750
+357900,Longwood Forest,Southern,Pacific Peoples,11,11,12,917,917
+358000,Ohai-Nightcaps,Southern,Pacific Peoples,12,12,14,857,857
+358100,Riversdale-Piano Flat,Southern,Pacific Peoples,10,9,9,>950,>950
+358200,Lumsden-Balfour,Southern,Pacific Peoples,masked,masked,10,500,500
+358300,Oreti River,Southern,Pacific Peoples,10,10,10,>950,>950
+358400,Otautau,Southern,Pacific Peoples,10,9,9,>950,>950
+358500,Hedgehope,Southern,Pacific Peoples,masked,masked,masked,667,667
+358600,Winton,Southern,Pacific Peoples,13,12,16,813,750
+358700,Waianiwa,Southern,Pacific Peoples,masked,masked,masked,800,800
+358800,Riverton,Southern,Pacific Peoples,7,7,9,778,778
+358900,Wallacetown,Southern,Pacific Peoples,26,26,25,>950,>950
+359000,Grove Bush,Southern,Pacific Peoples,10,10,10,>950,>950
+359100,Edendale-Woodlands,Southern,Pacific Peoples,16,16,18,889,889
+359300,Stewart Island,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+359400,Awarua Plains,Southern,Pacific Peoples,12,12,11,>950,>950
+359500,Wyndham-Catlins,Southern,Pacific Peoples,14,14,18,778,778
+359600,Waikaka,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+359700,Waimumu-Kaiwera,Southern,Pacific Peoples,12,12,11,>950,>950
+359800,Gore North,Southern,Pacific Peoples,12,12,11,>950,>950
+359900,Gore West,Southern,Pacific Peoples,23,23,18,>950,>950
+360000,East Gore,Southern,Pacific Peoples,12,11,13,923,846
+360100,Gore Central,Southern,Pacific Peoples,masked,masked,masked,>950,>950
+360200,Gore Main,Southern,Pacific Peoples,9,9,10,900,900
+360300,Gore South,Southern,Pacific Peoples,masked,masked,masked,333,333
+360400,Mataura,Southern,Pacific Peoples,44,42,29,>950,>950
+360500,West Plains-Makarewa,Southern,Pacific Peoples,26,24,26,>950,923
+360600,Prestonville-Grasmere,Southern,Pacific Peoples,73,72,70,>950,>950
+360700,Donovan Park,Southern,Pacific Peoples,38,36,35,>950,>950
+360800,Myross Bush,Southern,Pacific Peoples,11,11,10,>950,>950
+360900,Otatara,Southern,Pacific Peoples,25,25,25,>950,>950
+361000,Invercargill Central,Southern,Pacific Peoples,32,32,33,>950,>950
+361100,Gladstone (Invercargill City),Southern,Pacific Peoples,30,30,28,>950,>950
+361200,Rosedale,Southern,Pacific Peoples,18,18,19,947,947
+361300,Avenal,Southern,Pacific Peoples,27,27,25,>950,>950
+361400,Hargest,Southern,Pacific Peoples,35,34,32,>950,>950
+361500,Windsor,Southern,Pacific Peoples,51,50,54,944,926
+361600,Richmond (Invercargill City),Southern,Pacific Peoples,72,71,69,>950,>950
+361700,Glengarry,Southern,Pacific Peoples,82,81,79,>950,>950
+361900,Turnbull Thompson Park,Southern,,24,24,26,923,923
+362000,Crinan,Southern,,64,63,59,>950,>950
+362100,Georgetown,Southern,,79,77,79,>950,>950
+362200,Kew (Invercargill City),Southern,,131,128,121,>950,>950
+362300,Kennington-Tisbury,Southern,,9,8,10,900,800
+362400,Newfield,Southern,,74,70,81,914,864
+362500,Strathern,Southern,,57,56,62,919,903
+362600,Elizabeth Park,Southern,,59,55,50,>950,>950
+362700,Aurora,Southern,,73,72,78,936,923
+362800,Moulson,Southern,,56,56,59,949,949
+362900,Kingswell,Southern,,67,65,71,944,915
+363000,Clifton,Southern,,73,72,76,>950,947
+363100,Woodend-Greenhills,Southern,,8,8,7,>950,>950
+363300,Bluff,Southern,,55,53,58,948,914
+363700,Oceanic Southland Region,Area outside District Health Board,,masked,masked,masked,masked,masked

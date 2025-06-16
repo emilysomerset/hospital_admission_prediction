@@ -1,0 +1,20 @@
+# RStudio files
+*.Rproj
+.Rproj.user/
+
+# R session data
+*.RData
+*.Rhistory
+*.Rapp.history
+*.Ruserdata
+
+# Environment files
+*.Renviron
+*.Rprofile
+
+# Compiled code
+*.o
+*.so
+*.dll
+*.a
+*.dylib

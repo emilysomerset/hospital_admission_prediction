@@ -1,0 +1,52 @@
+Vaccine,Dose number,Ethnicity,Number of doses administered
+AstraZeneca,1,Maori,364
+AstraZeneca,1,Other,2846
+AstraZeneca,1,Pacific Peoples,109
+AstraZeneca,2,Maori,355
+AstraZeneca,2,Other,3040
+AstraZeneca,2,Pacific Peoples,243
+AstraZeneca,BOOSTER 1,Maori,103
+AstraZeneca,BOOSTER 1,Other,1745
+AstraZeneca,BOOSTER 1,Pacific Peoples,99
+AstraZeneca,BOOSTER 2,Maori,12
+AstraZeneca,BOOSTER 2,Other,159
+AstraZeneca,THIRD_PRIMARY,Other,23
+Novavax,1,Maori,188
+Novavax,1,Other,2114
+Novavax,1,Pacific Peoples,59
+Novavax,2,Maori,163
+Novavax,2,Other,1955
+Novavax,2,Pacific Peoples,45
+Novavax,BOOSTER 1,Maori,56
+Novavax,BOOSTER 1,Other,672
+Novavax,BOOSTER 1,Pacific Peoples,5
+Novavax,BOOSTER 2,Maori,44
+Novavax,BOOSTER 2,Other,781
+Novavax,BOOSTER 2,Pacific Peoples,8
+Novavax,THIRD_PRIMARY,Other,31
+Paediatric Pfizer,1,Maori,42229
+Paediatric Pfizer,1,Other,200315
+Paediatric Pfizer,1,Pacific Peoples,24658
+Paediatric Pfizer,2,Maori,17994
+Paediatric Pfizer,2,Other,121013
+Paediatric Pfizer,2,Pacific Peoples,10457
+Paediatric Pfizer,BOOSTER 1,Other,22
+Paediatric Pfizer,THIRD_PRIMARY,Maori,9
+Paediatric Pfizer,THIRD_PRIMARY,Other,75
+Pfizer BioNTech COVID-19,1,Maori,523442
+Pfizer BioNTech COVID-19,1,Other,3223960
+Pfizer BioNTech COVID-19,1,Pacific Peoples,276930
+Pfizer BioNTech COVID-19,2,Maori,506673
+Pfizer BioNTech COVID-19,2,Other,3196631
+Pfizer BioNTech COVID-19,2,Pacific Peoples,272997
+Pfizer BioNTech COVID-19,BOOSTER,Maori,6
+Pfizer BioNTech COVID-19,BOOSTER,Other,64
+Pfizer BioNTech COVID-19,BOOSTER 1,Maori,250015
+Pfizer BioNTech COVID-19,BOOSTER 1,Other,2324632
+Pfizer BioNTech COVID-19,BOOSTER 1,Pacific Peoples,152214
+Pfizer BioNTech COVID-19,BOOSTER 2,Maori,38767
+Pfizer BioNTech COVID-19,BOOSTER 2,Other,488081
+Pfizer BioNTech COVID-19,BOOSTER 2,Pacific Peoples,17476
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Maori,2363
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Other,27622
+Pfizer BioNTech COVID-19,THIRD_PRIMARY,Pacific Peoples,1128

@@ -1,0 +1,2167 @@
+sa2_code,sa2_name,dhb,dose1_cnt,dose2_cnt,pop_cnt,dose1_uptake,dose2_uptake
+Unknown,Unknown,Unknown,8999,8342,9888,910,844
+100100,North Cape,Northland,764,747,859,889,870
+100200,Rangaunu Harbour,Northland,916,856,1218,752,703
+100300,Inlets Far North District,Northland,Masked,Masked,Masked,Masked,Masked
+100400,Karikari Peninsula,Northland,445,431,526,846,819
+100500,Tangonge,Northland,496,470,645,769,729
+100600,Ahipara,Northland,484,467,575,842,812
+100700,Kaitaia East,Northland,1246,1114,1608,775,693
+100800,Kaitaia West,Northland,1689,1549,2244,753,690
+100900,Rangitihi,Northland,334,321,392,852,819
+101000,Oruru-Parapara,Northland,270,247,376,718,657
+101100,Taumarumaru,Northland,541,493,720,751,685
+101200,Herekino-Takahue,Northland,380,337,515,738,654
+101300,Peria,Northland,256,244,328,780,744
+101400,Taemaro-Oruaiti,Northland,241,227,305,790,744
+101500,Whakapaku,Northland,213,200,264,807,758
+101600,Hokianga North,Northland,564,546,673,838,811
+101700,Kohukohu-Broadwood,Northland,309,293,418,739,701
+101800,Whakarara,Northland,513,480,623,823,770
+101900,Kaeo,Northland,406,365,568,715,643
+102000,Omahuta Forest-Horeke,Northland,470,438,645,729,679
+102100,Hokianga South,Northland,566,517,820,690,630
+102200,Lake Manuwai-Kapiro,Northland,229,203,304,753,668
+102300,?kaihau,Northland,278,255,365,762,699
+102400,Rangitane-Purerua,Northland,308,292,343,898,851
+102500,Waipapa,Northland,111,106,128,867,828
+102600,Puketotara,Northland,223,198,282,791,702
+102700,Waim? Forest,Northland,605,578,784,772,737
+102800,Riverview,Northland,229,205,273,839,751
+102900,Waipoua Forest,Northland,520,499,635,819,786
+103000,Kerikeri Central,Northland,410,394,458,895,860
+103100,Kerikeri South,Northland,205,196,231,887,848
+103200,?haeawai-Waimate North,Northland,347,331,407,853,813
+103300,Puketona-Waitangi,Northland,265,244,317,836,770
+103400,Ngapuhi,Northland,773,734,940,822,781
+103500,Kaikohe,Northland,2193,2078,2729,804,761
+103600,Pakaraka,Northland,136,130,150,907,867
+103700,Haruru,Northland,194,191,213,911,897
+103800,Russell,Northland,127,126,134,948,940
+103900,Paihia,Northland,437,406,584,748,695
+104000,Mataraua Forest,Northland,267,242,383,697,632
+104100,Matawaia-Taumarere,Northland,692,630,968,715,651
+104200,Russell Peninsula,Northland,59,59,74,797,797
+104300,Opua (Far North District),Northland,135,128,193,699,663
+104400,Russell Forest-Rawhiti,Northland,350,328,455,769,721
+104500,Moerewa,Northland,998,954,1173,851,813
+104600,Kawakawa,Northland,752,685,971,774,705
+104700,Maromaku,Northland,213,184,308,692,597
+104800,Mangakahia-H?kerenui,Northland,577,527,732,788,720
+104900,Whangaruru,Northland,572,555,658,869,843
+105100,Matarau,Northland,345,320,447,772,716
+105200,Hikurangi,Northland,417,399,458,910,871
+105300,Kauri,Northland,203,200,232,875,862
+105400,Maungatapere,Northland,433,396,530,817,747
+105500,Kamo West,Northland,400,374,497,805,753
+105600,Matapouri-Tutukaka,Northland,198,190,217,912,876
+105700,Kiripaka,Northland,166,153,207,802,739
+105800,Kamo East,Northland,832,798,919,905,868
+105900,Granfield Reserve,Northland,433,414,461,939,898
+106000,Kamo Central,Northland,391,380,422,927,900
+106100,Whau Valley,Northland,545,530,605,901,876
+106200,Tikipunga North,Northland,851,817,943,902,866
+106300,Pukenui,Northland,185,161,227,815,709
+106400,Otangarei,Northland,1066,982,1273,837,771
+106500,Tikipunga South,Northland,1183,1055,1463,809,721
+106600,Kensington (Whangarei District),Northland,626,604,712,879,848
+106700,Abbey Caves-Glenbervie,Northland,118,113,134,881,843
+106800,Mairtown,Northland,501,464,630,795,737
+106900,Maunu-Horahora,Northland,463,453,508,911,892
+107000,Woodhill-Vinetown,Northland,607,580,717,847,809
+107100,Whang?rei Central,Northland,230,222,264,871,841
+107200,Riverside,Northland,401,370,510,786,725
+107300,Raumanga,Northland,1243,1169,1424,873,821
+107400,Tarewa,Northland,795,721,1090,729,661
+107500,Morningside (Whangarei District),Northland,681,650,763,893,852
+107600,Ngunguru,Northland,151,140,194,778,722
+107700,Otaika-Portland,Northland,243,230,295,824,780
+107800,Oakleigh-Mangapai,Northland,212,210,235,902,894
+107900,Port-Limeburners,Northland,Masked,Masked,Masked,Masked,Masked
+108000,Pataua,Northland,154,150,195,790,769
+108100,Onerahi Park,Northland,223,217,240,929,904
+108200,Sherwood Rise,Northland,569,547,627,907,872
+108300,Onerahi,Northland,545,499,733,744,681
+108500,Parua Bay,Northland,257,254,273,941,930
+108600,Bream Bay,Northland,289,279,338,855,825
+108700,Marsden Bay,Northland,316,301,387,817,778
+108800,Ruak?k?,Northland,594,545,717,828,760
+108900,Bream Head,Northland,97,88,111,874,793
+109000,Waipu,Northland,249,245,304,819,806
+109100,Kaipara Coastal,Northland,715,649,1028,696,631
+109200,Maungaru,Northland,242,220,315,768,698
+109300,Dargaville,Northland,1154,1059,1614,715,656
+109400,Ruawai-Matakohe,Northland,396,383,474,835,808
+109500,Otamatea (Kaipara District),Northland,142,128,216,657,593
+109600,Maungaturoto,Northland,166,160,180,922,889
+109700,Kaiwaka,Northland,343,310,501,685,619
+109800,Mangawhai Rural,Northland,147,144,184,799,783
+109900,Mangawhai Heads,Northland,153,135,198,773,682
+110100,Mangawhai,Northland,74,66,98,755,673
+110200,Okahukura Peninsula,Waitemata,154,149,183,842,814
+110400,Cape Rodney,Waitemata,369,353,458,806,771
+110500,Wellsford,Waitemata,230,220,285,807,772
+110700,South Head,Waitemata,343,319,443,774,720
+110800,Kaipara Hills,Waitemata,242,222,306,791,725
+110900,Dome Valley-Matakana,Waitemata,68,65,79,861,823
+111100,Warkworth West,Waitemata,130,127,145,897,876
+111200,Puhoi Valley,Waitemata,183,176,228,803,772
+111300,Warkworth East,Waitemata,175,170,195,897,872
+111400,Sandspit,Waitemata,30,27,40,750,675
+111500,Tawharanui Peninsula,Waitemata,73,72,77,948,935
+111600,Te Kuru,Waitemata,160,143,189,847,757
+111700,Snells Beach,Waitemata,221,220,234,944,940
+111800,Barrier Islands,Auckland,153,149,180,850,828
+111900,Algies Bay-Scotts Landing,Waitemata,46,45,42,>950,>950
+112100,Wainui-Waiwera,Waitemata,93,90,95,>950,947
+112200,Parakai,Waitemata,190,179,228,833,785
+112300,Helensville Rural,Waitemata,110,109,113,>950,>950
+112400,Helensville,Waitemata,385,346,503,765,688
+112500,Waitoki,Waitemata,58,51,70,829,729
+112600,Waikoukou Valley,Waitemata,93,89,108,861,824
+112700,Orewa North,Waitemata,170,168,177,>950,949
+112800,Hatfields Beach,Waitemata,110,106,132,833,803
+112900,Orewa South,Waitemata,141,127,160,881,794
+113000,Orewa Central,Waitemata,143,141,150,>950,940
+113100,Millwater North,Waitemata,76,75,76,>950,>950
+113200,Waipatukahu,Waitemata,154,140,179,860,782
+113300,Millwater South,Waitemata,143,124,174,822,713
+113400,Dairy Flat North,Waitemata,139,132,169,822,781
+113500,Dairy Flat West,Waitemata,49,44,57,860,772
+113600,Kingsway,Waitemata,91,89,84,>950,>950
+113800,Silverdale Central (Auckland),Waitemata,46,44,57,807,772
+113900,Red Beach West,Waitemata,99,95,111,892,856
+114000,Red Beach East,Waitemata,184,181,184,>950,>950
+114100,Silverdale South (Auckland),Waitemata,85,84,101,842,832
+114200,Waimauku,Waitemata,88,80,94,936,851
+114300,Gulf Islands,Auckland,Masked,Masked,Masked,Masked,Masked
+114400,Vipond,Waitemata,168,166,172,>950,>950
+114500,Muriwai,Waitemata,93,86,101,921,851
+114600,Stanmore Bay West,Waitemata,173,167,183,945,913
+114700,Kumeu Rural West,Waitemata,107,103,108,>950,>950
+114800,Okura Bush,Waitemata,58,55,62,935,887
+114900,Whangapar?oa Central,Waitemata,223,219,245,910,894
+115000,Kumeu-Huapai,Waitemata,247,246,241,>950,>950
+115100,Stanmore Bay East,Waitemata,189,185,204,926,907
+115200,Manly West,Waitemata,150,147,157,>950,936
+115300,Muriwai Valley-Bethells Beach,Waitemata,66,66,70,943,943
+115400,Tindalls-Matakatia,Waitemata,94,92,87,>950,>950
+115500,Coatesville,Waitemata,67,63,79,848,797
+115600,Dairy Flat South,Waitemata,55,55,71,775,775
+115700,Gulf Harbour North,Waitemata,114,113,114,>950,>950
+115800,Manly East,Waitemata,203,183,249,815,735
+115900,Riverhead,Waitemata,187,173,230,813,752
+116000,Army Bay,Waitemata,77,75,68,>950,>950
+116100,Kumeu Rural East,Waitemata,171,168,188,910,894
+116200,Gulf Harbour South,Waitemata,68,61,84,810,726
+116300,Paremoremo West,Waitemata,Masked,Masked,Masked,Masked,Masked
+116400,Taupaki,Waitemata,107,96,125,856,768
+116500,Long Bay,Waitemata,Masked,Masked,Masked,Masked,Masked
+116600,Paremoremo East,Waitemata,131,123,138,949,891
+116700,Albany Heights,Waitemata,107,98,128,836,766
+116800,Awaruku,Waitemata,138,132,142,>950,930
+116900,Fairview Heights,Waitemata,64,63,74,865,851
+117000,Whenuapai,Waitemata,410,401,425,>950,944
+117100,Waitakere Ranges North,Waitemata,88,78,95,926,821
+117200,Torbay,Waitemata,128,128,128,>950,>950
+117300,Albany Central,Waitemata,103,96,122,844,787
+117400,Albany West,Waitemata,78,75,82,>950,915
+117500,Glamorgan,Waitemata,132,129,135,>950,>950
+117600,Oteha East,Waitemata,83,76,92,902,826
+117700,Northcross,Waitemata,107,104,104,>950,>950
+117800,Oteha West,Waitemata,Masked,Masked,Masked,Masked,Masked
+117900,Waiake,Waitemata,124,116,155,800,748
+118000,Waitakere,Waitemata,173,165,217,797,760
+118100,Albany South,Waitemata,102,93,111,919,838
+118200,Browns Bay South West,Waitemata,117,117,125,936,936
+118300,Browns Bay Central,Waitemata,100,98,104,>950,942
+118400,Schnapper Rock,Waitemata,106,96,109,>950,881
+118500,Pinehill,Waitemata,71,65,84,845,774
+118600,North Harbour,Waitemata,55,53,76,724,697
+118700,Browns Bay South East,Waitemata,72,70,79,911,886
+118800,Westgate Central,Waitemata,Masked,Masked,Masked,Masked,Masked
+118900,Greenhithe West,Waitemata,113,113,120,942,942
+119000,Rothesay Bay,Waitemata,65,65,64,>950,>950
+119100,Greenhithe East,Waitemata,95,91,107,888,850
+119200,Hobsonville,Waitemata,71,70,70,>950,>950
+119400,Greenhithe South,Waitemata,80,79,73,>950,>950
+119500,Murrays Bay West,Waitemata,71,70,69,>950,>950
+119600,Westgate South,Waitemata,238,230,302,788,762
+119700,Windsor Park,Waitemata,Masked,Masked,Masked,Masked,Masked
+119800,West Harbour West,Waitemata,486,466,534,910,873
+119900,Unsworth Heights West,Waitemata,53,51,56,946,911
+120000,Murrays Bay East,Waitemata,76,72,77,>950,935
+120100,Birdwood West,Waitemata,106,100,119,891,840
+120200,Hobsonville Point,Waitemata,284,269,294,>950,915
+120300,West Harbour Clearwater Cove,Waitemata,222,211,236,941,894
+120400,Unsworth Heights East,Waitemata,165,157,196,842,801
+120500,Mairangi Bay North,Waitemata,83,83,88,943,943
+120600,Massey Central,Waitemata,460,429,565,814,759
+120700,West Harbour Luckens Point,Waitemata,113,104,125,904,832
+120800,Mairangi Bay South,Waitemata,92,91,89,>950,>950
+120900,Massey Royal Road West,Waitemata,338,330,371,911,889
+121000,Bayview East,Waitemata,190,182,191,>950,>950
+121100,Swanson Rural,Waitemata,200,188,230,870,817
+121200,Sunnynook South,Waitemata,115,108,141,816,766
+121300,Sunnynook North,Waitemata,102,89,114,895,781
+121400,Bayview West,Waitemata,103,99,124,831,798
+121500,Totara Vale North,Waitemata,171,161,190,900,847
+121600,Royal Heights North,Waitemata,440,413,502,876,823
+121700,Massey West,Waitemata,184,167,235,783,711
+121800,Beach Haven West,Waitemata,241,239,258,934,926
+121900,Totara Vale South,Waitemata,201,189,229,878,825
+122000,Swanson,Waitemata,291,265,350,831,757
+122100,Bayview South,Waitemata,138,134,132,>950,>950
+122200,Campbells Bay,Waitemata,90,85,90,>950,944
+122300,Royal Heights South,Waitemata,450,428,503,895,851
+122400,Beach Haven East,Waitemata,577,535,728,793,735
+122500,Massey East,Waitemata,419,405,467,897,867
+122600,Forrest Hill North,Waitemata,69,67,69,>950,>950
+122700,Glenfield North,Waitemata,134,132,149,899,886
+122800,Birkdale North,Waitemata,406,393,436,931,901
+122900,Massey South,Waitemata,624,573,776,804,738
+123000,R?nui North,Waitemata,602,578,663,908,872
+123100,Glenfield West,Waitemata,124,121,133,932,910
+123200,Te Atat? Peninsula North West,Waitemata,443,429,483,917,888
+123300,Glenfield South West,Waitemata,188,180,213,883,845
+123400,Forrest Hill West,Waitemata,122,119,116,>950,>950
+123500,Wairau Valley,Waitemata,Masked,Masked,Masked,Masked,Masked
+123600,Forrest Hill East,Waitemata,94,93,102,922,912
+123700,Castor Bay,Waitemata,123,119,126,>950,944
+123800,R?nui Domain,Waitemata,574,527,735,781,717
+123900,Beach Haven South,Waitemata,167,167,168,>950,>950
+124000,Glenfield Central,Waitemata,176,164,194,907,845
+124100,Piha,Waitemata,89,81,105,848,771
+124200,R?nui South West,Waitemata,346,330,382,906,864
+124300,Henderson Larnoch,Waitemata,623,564,756,824,746
+124400,Birkdale South,Waitemata,349,332,392,890,847
+124500,Te Atat? Peninsula Central,Waitemata,547,537,565,>950,950
+124600,Glenfield East,Waitemata,87,86,97,897,887
+124700,Henderson Valley,Waitemata,108,108,124,871,871
+124800,Te Atat? Peninsula West,Waitemata,577,525,667,865,787
+124900,Henderson Lincoln West,Waitemata,415,379,536,774,707
+125000,R?nui South East,Waitemata,294,264,374,786,706
+125100,Henderson Lincoln East,Waitemata,Masked,Masked,Masked,Masked,Masked
+125200,Birkenhead West,Waitemata,190,187,183,>950,>950
+125300,Te Atat? Peninsula East,Waitemata,313,285,344,910,828
+125400,Milford West,Waitemata,78,77,78,>950,>950
+125500,Westlake,Waitemata,76,70,86,884,814
+125600,Hillcrest North (Auckland),Waitemata,157,151,171,918,883
+125700,Henderson Lincoln South,Waitemata,222,220,247,899,891
+125800,Hillcrest West (Auckland),Waitemata,137,130,156,878,833
+125900,Milford Central,Waitemata,39,39,41,>950,>950
+126000,Summerland South,Waitemata,183,177,186,>950,>950
+126100,Summerland North,Waitemata,151,146,152,>950,>950
+126200,Hillcrest East (Auckland),Waitemata,205,196,219,936,895
+126300,Chatswood,Waitemata,112,101,138,812,732
+126400,Te Atat? South-Edmonton,Waitemata,445,409,523,851,782
+126500,Birkenhead North,Waitemata,127,124,131,>950,947
+126600,Takapuna West,Waitemata,152,141,162,938,870
+126700,Henderson North,Waitemata,403,396,445,906,890
+126800,Takapuna Central,Waitemata,74,73,75,>950,>950
+126900,Western Heights (Auckland),Waitemata,345,312,399,865,782
+127000,Te Atat? South-Central,Waitemata,392,385,403,>950,>950
+127100,Northcote Central (Auckland),Waitemata,179,166,205,873,810
+127200,Akoranga,Waitemata,93,86,109,853,789
+127300,Northcote South (Auckland),Waitemata,128,122,140,914,871
+127400,Birkenhead South,Waitemata,80,80,77,>950,>950
+127500,Henderson Central,Waitemata,152,139,171,889,813
+127600,Waiatarua,Waitemata,169,166,187,904,888
+127700,Te Atat? South-McLeod North,Waitemata,357,338,446,800,758
+127800,Henderson Valley Park,Waitemata,323,290,405,798,716
+127900,Henderson North East,Waitemata,208,202,227,916,890
+128000,Waitakere Ranges South,Waitemata,82,82,85,>950,>950
+128100,Northcote Tuff Crater,Waitemata,76,74,84,905,881
+128200,Northcote Point (Auckland),Waitemata,144,133,148,>950,899
+128300,McLaren Park,Waitemata,472,457,496,>950,921
+128400,Henderson East,Waitemata,271,254,327,829,777
+128500,Te Atat? South-McLeod South,Waitemata,346,340,394,878,863
+128600,Takapuna South,Waitemata,49,49,47,>950,>950
+128700,Rosebank Peninsula,Auckland,Masked,Masked,Masked,Masked,Masked
+128800,Hauraki,Waitemata,158,157,157,>950,>950
+128900,Glendene North,Waitemata,493,455,578,853,787
+129000,Sunnyvale West-Parrs Park,Waitemata,327,291,388,843,750
+129100,Sunnyvale East,Waitemata,527,512,555,950,923
+129200,Point Chevalier West,Auckland,225,216,243,926,889
+129300,Belmont (Auckland),Waitemata,154,149,163,945,914
+129400,Bayswater,Waitemata,209,198,220,950,900
+129500,Glendene South,Waitemata,258,256,296,872,865
+129600,Glen Eden West,Waitemata,451,414,548,823,755
+129700,Herne Bay,Auckland,121,115,127,>950,906
+129800,Westmere North,Auckland,125,115,139,899,827
+129900,Point Chevalier East,Auckland,303,291,324,935,898
+130000,Oratia,Waitemata,85,83,85,>950,>950
+130100,Glen Eden Rosier,Waitemata,329,324,371,887,873
+130200,Saint Marys Bay,Auckland,74,74,83,892,892
+130300,Westmere South-Western Springs,Auckland,207,204,218,950,936
+130400,Ponsonby West,Auckland,119,119,130,915,915
+130500,Kelston North,Waitemata,322,313,334,>950,937
+130600,Avondale Rosebank,Auckland,453,421,544,833,774
+130700,Narrow Neck,Waitemata,203,187,229,886,817
+130800,Glen Eden North,Waitemata,254,248,258,>950,>950
+130900,Glen Eden Woodglen,Waitemata,413,368,494,836,745
+131000,Kelston South,Waitemata,292,270,353,827,765
+131100,Waterview,Auckland,342,331,361,947,917
+131200,Ponsonby East,Auckland,174,167,198,879,843
+131300,Wynyard-Viaduct,Auckland,47,46,50,940,920
+131400,Stanley Point,Waitemata,65,65,71,915,915
+131500,Glen Eden Central,Waitemata,322,294,367,877,801
+131600,Grey Lynn North,Auckland,225,215,230,>950,935
+131700,Avondale West (Auckland),Auckland,341,325,374,912,869
+131800,Freemans Bay,Auckland,256,251,256,>950,>950
+131900,Mount Albert West,Auckland,187,186,192,>950,>950
+132000,Avondale North (Auckland),Auckland,342,318,396,864,803
+132100,Grey Lynn West,Auckland,253,240,279,907,860
+132200,Mount Albert North,Auckland,266,260,307,866,847
+132300,New Lynn North,Waitemata,255,246,283,901,869
+132400,Victoria Park,Auckland,123,122,125,>950,>950
+132500,Konini,Waitemata,270,258,319,846,809
+132600,New Lynn North West,Waitemata,223,204,266,838,767
+132700,Hobson Ridge North,Auckland,118,114,140,843,814
+132800,Grey Lynn Central,Auckland,213,199,208,>950,>950
+132900,Fruitvale,Waitemata,230,226,244,943,926
+133000,Devonport,Waitemata,135,132,128,>950,>950
+133100,Avondale Central (Auckland),Auckland,197,192,217,908,885
+133200,Queen Street,Auckland,114,110,112,>950,>950
+133300,Quay Street-Customs Street,Auckland,101,99,116,871,853
+133400,Hobson Ridge Central,Auckland,218,212,243,897,872
+133500,Grey Lynn East,Auckland,119,118,125,>950,944
+133600,Morningside (Auckland),Auckland,263,256,270,>950,948
+133700,Shortland Street,Auckland,104,103,103,>950,>950
+133800,Hobson Ridge South,Auckland,110,106,123,894,862
+133900,New Lynn Central,Waitemata,40,39,50,800,780
+134000,Cheltenham,Waitemata,56,56,56,>950,>950
+134100,Queen Street South West,Auckland,126,124,147,857,844
+134200,Mount Albert Central,Auckland,219,207,231,948,896
+134300,Karangahape,Auckland,141,140,152,928,921
+134400,Kingsland,Auckland,287,275,312,920,881
+134500,Anzac Avenue,Auckland,171,169,185,924,914
+134600,Waima-Woodlands Park,Waitemata,128,122,145,883,841
+134700,Kaurilands,Waitemata,250,232,279,896,832
+134800,Auckland-University,Auckland,Masked,Masked,Masked,Masked,Masked
+134900,New Lynn Seabrook,Waitemata,176,173,194,907,892
+135000,Avondale South (Auckland),Auckland,257,253,265,>950,>950
+135100,Symonds Street North West,Auckland,150,144,163,920,883
+135200,Mount Albert South,Auckland,104,100,113,920,885
+135300,Symonds Street West,Auckland,200,187,224,893,835
+135400,West Lynn,Waitemata,198,195,205,>950,>950
+135500,?wairaka West,Auckland,171,163,206,830,791
+135600,New Lynn Central South,Waitemata,204,198,226,903,876
+135700,The Strand,Auckland,85,84,91,934,923
+135800,St Lukes,Auckland,112,107,116,>950,922
+135900,Symonds Street East,Auckland,212,211,217,>950,>950
+136000,Eden Terrace,Auckland,256,256,272,941,941
+136100,Grafton,Auckland,115,108,121,950,893
+136200,Eden Park,Auckland,92,92,99,929,929
+136300,Sandringham North,Auckland,163,160,167,>950,>950
+136400,Parnell West,Auckland,208,206,207,>950,>950
+136500,New Lynn South,Waitemata,299,294,317,943,927
+136600,New Windsor North,Auckland,192,176,224,857,786
+136700,Titirangi South,Waitemata,176,159,185,>950,859
+136800,?wairaka East,Auckland,102,99,106,>950,934
+136900,Eden Valley,Auckland,115,112,118,>950,949
+137000,Sandringham Central,Auckland,109,108,107,>950,>950
+137100,Glenavon,Auckland,235,217,302,778,719
+137200,Blockhouse Bay North,Auckland,147,144,161,913,894
+137300,Green Bay North,Waitemata,115,103,135,852,763
+137400,Parnell East,Auckland,103,101,107,>950,944
+137500,Laingholm,Waitemata,139,127,161,863,789
+137600,Sandringham West,Auckland,110,109,117,940,932
+137700,Mount Eden North East,Auckland,86,83,93,925,892
+137800,Mount Eden North,Auckland,121,115,126,>950,913
+137900,Wesley West,Auckland,208,187,265,785,706
+138000,Green Bay South,Waitemata,158,146,183,863,798
+138100,Balmoral,Auckland,120,118,125,>950,944
+138200,Sandringham East,Auckland,180,169,202,891,837
+138300,New Windsor South,Auckland,197,194,217,908,894
+138400,Mount Eden West,Auckland,96,96,102,941,941
+138500,Newmarket,Auckland,78,76,79,>950,>950
+138600,Blockhouse Bay North East,Auckland,103,91,121,851,752
+138700,Epsom North,Auckland,115,112,132,871,848
+138800,Wesley South,Auckland,Masked,Masked,Masked,Masked,Masked
+138900,Blockhouse Bay South,Auckland,166,163,173,>950,942
+139000,Mount Eden East,Auckland,125,121,121,>950,>950
+139100,Wesley East,Auckland,148,145,157,943,924
+139200,Orakei West,Auckland,162,161,171,947,942
+139300,Maungawhau,Auckland,97,87,106,915,821
+139400,Remuera West,Auckland,56,56,59,949,949
+139500,Blockhouse Bay East,Auckland,52,51,66,788,773
+139600,Lynfield North,Auckland,98,95,120,817,792
+139700,Mount Roskill North,Auckland,160,157,175,914,897
+139800,Mount Roskill White Swan,Auckland,129,129,130,>950,>950
+139900,Mount Eden South,Auckland,133,128,135,>950,948
+140000,Remuera Waitaramoa,Auckland,115,107,106,>950,>950
+140100,Orakei East,Auckland,655,616,749,874,822
+140200,Epsom Central-North,Auckland,69,68,84,821,810
+140300,Mount St John,Auckland,180,170,208,865,817
+140400,Mount Roskill Central North,Auckland,108,107,125,864,856
+140500,Remuera North,Auckland,58,58,57,>950,>950
+140600,Three Kings West,Auckland,166,160,179,927,894
+140700,Mount Roskill Central South,Auckland,123,120,131,939,916
+140800,Epsom Central-South,Auckland,80,79,80,>950,>950
+140900,Lynfield South,Auckland,122,119,123,>950,>950
+141000,Remuera South,Auckland,102,99,115,887,861
+141100,Mission Bay,Auckland,112,107,128,875,836
+141200,Three Kings East,Auckland,56,52,58,>950,897
+141300,Mount Roskill South,Auckland,84,83,81,>950,>950
+141500,Epsom East,Auckland,91,89,99,919,899
+141600,Remuera Waiata,Auckland,53,51,61,869,836
+141700,Epsom South,Auckland,109,108,105,>950,>950
+141800,Kohimarama,Auckland,91,88,95,>950,926
+141900,Meadowbank West,Auckland,134,128,145,924,883
+142000,Hillsborough North (Auckland),Auckland,110,98,115,>950,852
+142100,Hillsborough West (Auckland),Auckland,107,105,112,>950,938
+142200,Greenlane North,Auckland,115,114,112,>950,>950
+142300,Waikowhai North,Auckland,183,167,238,769,702
+142400,Remuera East,Auckland,61,60,65,938,923
+142500,Waikowhai South,Auckland,63,62,70,900,886
+142600,Royal Oak West (Auckland),Auckland,118,111,129,915,860
+142700,Saint Heliers West,Auckland,81,78,88,920,886
+142800,One Tree Hill,Auckland,220,217,231,>950,939
+142900,Hillsborough East (Auckland),Auckland,81,79,81,>950,>950
+143000,Saint Heliers North,Auckland,81,76,83,>950,916
+143100,Remuera Abbotts Park,Auckland,141,134,146,>950,918
+143200,Meadowbank East,Auckland,119,110,118,>950,932
+143300,Ellerslie Central,Auckland,164,159,179,916,888
+143400,Royal Oak East (Auckland),Auckland,140,136,152,921,895
+143500,Saint Heliers South,Auckland,109,103,124,879,831
+143600,Hillsborough South (Auckland),Auckland,99,98,113,876,867
+143700,Saint Johns West,Auckland,84,77,94,894,819
+143800,Greenlane South,Auckland,198,180,219,904,822
+143900,Remuera Waiatarua,Auckland,68,64,70,>950,914
+144000,Glendowie North,Auckland,86,85,91,945,934
+144100,Onehunga West,Auckland,281,267,309,909,864
+144200,Ellerslie West,Auckland,Masked,Masked,Masked,Masked,Masked
+144300,Onehunga North,Auckland,248,233,259,>950,900
+144400,Ellerslie East,Auckland,102,101,110,927,918
+144500,Saint Johns East,Auckland,172,170,197,873,863
+144600,Oneroa West,Auckland,94,84,105,895,800
+144700,Glen Innes West,Auckland,521,493,551,946,895
+144800,Ellerslie South,Auckland,104,104,110,945,945
+144900,Stonefields West,Auckland,43,43,45,>950,>950
+145000,Onehunga Central,Auckland,243,241,259,938,931
+145100,Glendowie South,Auckland,188,174,207,908,841
+145200,Oranga,Auckland,302,295,336,899,878
+145300,Mount Wellington North West,Auckland,116,115,128,906,898
+145400,Panmure Glen Innes Industrial,Auckland,57,55,64,891,859
+145500,Onehunga-Te Papapa Industrial,Auckland,109,104,124,879,839
+145600,Te Papapa,Auckland,289,267,324,892,824
+145700,Stonefields East,Auckland,40,36,44,909,818
+145800,Glen Innes East-Wai O Taiki Bay,Auckland,566,541,615,920,880
+145900,Penrose,Auckland,60,57,81,741,704
+146000,Mount Wellington North East,Auckland,111,108,116,>950,931
+146100,M?ngere Bridge Ambury,Counties Manukau,388,378,398,>950,950
+146200,Mount Wellington Ferndale,Auckland,296,291,307,>950,948
+146300,Point England,Auckland,746,724,843,885,859
+146400,Bucklands Beach North,Counties Manukau,51,51,55,927,927
+146500,Mount Wellington East,Auckland,184,172,240,767,717
+146600,Mount Wellington West,Auckland,300,273,349,860,782
+146700,Panmure West,Auckland,Masked,Masked,Masked,Masked,Masked
+146800,M?ngere Bridge,Counties Manukau,399,393,419,>950,938
+146900,Oneroa East-Palm Beach,Auckland,54,53,63,857,841
+147000,Tamaki,Auckland,683,627,839,814,747
+147100,Panmure East,Auckland,335,322,367,913,877
+147200,Mount Wellington Central,Auckland,376,366,413,910,886
+147400,Sylvia Park,Auckland,Masked,Masked,Masked,Masked,Masked
+147500,M?ngere Mountain View,Counties Manukau,587,545,710,827,768
+147600,Surfdale,Auckland,172,161,206,835,782
+147700,Mount Wellington Industrial,Auckland,Masked,Masked,Masked,Masked,Masked
+147800,Half Moon Bay West,Counties Manukau,94,86,109,862,789
+147900,Auckland Airport,Counties Manukau,226,222,246,919,902
+148000,Eastern Beach,Counties Manukau,44,44,47,936,936
+148100,Sunnyhills West-Pakuranga North,Counties Manukau,152,146,158,>950,924
+148200,Favona North,Counties Manukau,282,272,325,868,837
+148300,Bucklands Beach Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+148400,Farm Cove,Counties Manukau,70,67,78,897,859
+148500,M?ngere North,Counties Manukau,264,247,340,776,726
+148600,Favona West,Counties Manukau,372,336,436,853,771
+148700,Ostend,Auckland,166,150,194,856,773
+148800,Half Moon Bay North East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+148900,M?ngere West,Counties Manukau,551,497,741,744,671
+149000,Pakuranga West,Counties Manukau,374,369,405,923,911
+149100,Mount Wellington South West,Auckland,297,289,322,922,898
+149200,Sunnyhills East,Counties Manukau,137,135,132,>950,>950
+149300,Half Moon Bay South East,Counties Manukau,142,139,146,>950,>950
+149400,Favona East,Counties Manukau,334,316,424,788,745
+149500,Mount Wellington South East,Auckland,428,410,453,945,905
+149600,?t?huhu Industrial,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+149700,Bucklands Beach South,Counties Manukau,94,90,113,832,796
+149800,Pakuranga Central,Counties Manukau,243,232,250,>950,928
+149900,?whitu,Counties Manukau,243,227,330,736,688
+150000,Harania North,Counties Manukau,406,367,547,742,671
+150100,?t?huhu Central,Auckland,272,259,310,877,835
+150200,M?ngere Central,Counties Manukau,457,424,557,820,761
+150300,?t?huhu North,Auckland,363,333,478,759,697
+150400,Howick West,Counties Manukau,155,151,157,>950,>950
+150500,Pakuranga Heights North West,Counties Manukau,199,193,223,892,865
+150600,Mellons Bay,Counties Manukau,102,95,113,903,841
+150700,Pakuranga Heights East,Counties Manukau,220,215,243,905,885
+150800,Sutton Park,Counties Manukau,373,363,424,880,856
+150900,?t?huhu East,Auckland,244,235,272,897,864
+151000,M?ngere South,Counties Manukau,346,323,422,820,765
+151100,Onetangi,Auckland,96,92,106,906,868
+151200,Harania South,Counties Manukau,418,386,549,761,703
+151300,Highland Park (Auckland),Counties Manukau,147,143,149,>950,>950
+151400,?t?huhu South West,Auckland,487,459,613,794,749
+151500,Pakuranga Heights South West,Counties Manukau,260,244,314,828,777
+151600,M?ngere Mascot,Counties Manukau,397,378,437,908,865
+151700,Waiheke East,Auckland,53,52,63,841,825
+151800,Massey Road West,Counties Manukau,406,381,486,835,784
+151900,?t?huhu South,Auckland,411,401,449,915,893
+152000,Howick Central,Counties Manukau,160,155,192,833,807
+152100,Massey Road North,Counties Manukau,392,354,487,805,727
+152200,Botany Downs West,Counties Manukau,104,97,114,912,851
+152300,East Tamaki,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+152400,Howick East,Counties Manukau,148,147,168,881,875
+152500,Burswood,Counties Manukau,52,51,56,929,911
+152600,Massey Road South,Counties Manukau,203,185,284,715,651
+152700,Middlemore,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+152800,M?ngere South East,Counties Manukau,333,322,357,933,902
+152900,Botany Downs East,Counties Manukau,68,62,81,840,765
+153000,Grange,Counties Manukau,220,214,249,884,859
+153100,Golflands,Counties Manukau,68,65,74,919,878
+153200,Aorere North,Counties Manukau,166,163,187,888,872
+153300,M?ngere East,Counties Manukau,373,342,434,859,788
+153400,Cockle Bay,Counties Manukau,152,145,160,950,906
+153500,?tara West,Counties Manukau,539,501,620,869,808
+153600,Aorere Central,Counties Manukau,242,236,259,934,911
+153700,Northpark North,Counties Manukau,65,64,67,>950,>950
+153800,Somerville,Counties Manukau,91,90,94,>950,>950
+153900,Northpark South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+154000,Papatoetoe North,Counties Manukau,371,365,429,865,851
+154100,Dingwall,Counties Manukau,252,248,271,930,915
+154200,Aorere South,Counties Manukau,504,487,559,902,871
+154300,Shelly Park,Counties Manukau,106,100,119,891,840
+154400,?tara Central,Counties Manukau,410,376,526,779,715
+154500,Huntington Park,Counties Manukau,75,67,84,893,798
+154600,Botany Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+154700,Botany North,Counties Manukau,60,60,64,938,938
+154800,Papatoetoe West,Counties Manukau,478,446,559,855,798
+154900,Papatoetoe Central,Counties Manukau,403,395,431,935,916
+155000,Sunkist Bay,Counties Manukau,190,189,180,>950,>950
+155100,?tara East,Counties Manukau,593,546,750,791,728
+155200,Redcastle,Counties Manukau,111,103,129,860,798
+155300,Botany East,Counties Manukau,58,55,55,>950,>950
+155400,Botany South,Counties Manukau,99,93,118,839,788
+155500,Manukau Central,Counties Manukau,203,198,224,906,884
+155600,Papatoetoe East,Counties Manukau,413,386,507,815,761
+155700,?tara South,Counties Manukau,495,439,647,765,679
+155800,Ferguson,Counties Manukau,647,582,895,723,650
+155900,Papatoetoe South West,Counties Manukau,371,361,408,909,885
+156000,Botany Junction,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+156100,Dannemora North,Counties Manukau,59,59,68,868,868
+156200,Papatoetoe South,Counties Manukau,336,326,371,906,879
+156300,East Tamaki Heights,Counties Manukau,45,44,61,738,721
+156400,Te Puru,Counties Manukau,210,197,224,938,879
+156500,Puhinui North,Counties Manukau,276,256,323,854,793
+156600,Dannemora South,Counties Manukau,60,58,61,>950,>950
+156700,Puhinui South,Counties Manukau,216,209,230,939,909
+156800,Rongomai West,Counties Manukau,364,346,413,881,838
+156900,Baverstock,Counties Manukau,146,143,168,869,851
+157000,Puhinui East,Counties Manukau,156,152,178,876,854
+157100,Turanga,Counties Manukau,167,164,179,933,916
+157200,Rongomai East,Counties Manukau,206,185,272,757,680
+157300,Ormiston North,Counties Manukau,62,61,67,925,910
+157400,Maraetai,Counties Manukau,125,124,118,>950,>950
+157500,Chapel Downs,Counties Manukau,211,203,264,799,769
+157600,Wiri West,Counties Manukau,325,302,369,881,818
+157700,Clover Park North,Counties Manukau,573,552,652,879,847
+157800,Mission Heights North,Counties Manukau,108,100,125,864,800
+157900,Clover Park South,Counties Manukau,415,385,529,784,728
+158000,Donegal Park,Counties Manukau,124,124,138,899,899
+158100,Ormiston South,Counties Manukau,155,154,167,928,922
+158200,Mission Heights South,Counties Manukau,86,83,90,>950,922
+158300,Hilltop (Auckland),Counties Manukau,234,222,292,801,760
+158400,Wiri East,Counties Manukau,792,707,1049,755,674
+158500,Goodwood Heights,Counties Manukau,318,310,366,869,847
+158600,Ormiston East,Counties Manukau,113,109,125,904,872
+158700,Clendon Park North,Counties Manukau,688,663,758,908,875
+158800,Burbank,Counties Manukau,861,783,1133,760,691
+158900,Tuscany Heights,Counties Manukau,65,64,76,855,842
+159000,Totara Heights,Counties Manukau,284,269,353,805,762
+159100,Homai East,Counties Manukau,429,398,569,754,699
+159200,Homai West,Counties Manukau,1002,919,1306,767,704
+159300,The Gardens (Auckland),Counties Manukau,253,249,261,>950,>950
+159400,Clarks Beach,Counties Manukau,139,136,143,>950,>950
+159500,Clendon Park West,Counties Manukau,539,517,599,900,863
+159600,Hillpark North,Counties Manukau,256,234,303,845,772
+159700,Clendon Park East,Counties Manukau,368,332,474,776,700
+159800,Karaka Creek,Counties Manukau,76,74,73,>950,>950
+159900,Rowandale West,Counties Manukau,738,677,986,748,687
+160000,Rowandale East,Counties Manukau,756,734,835,905,879
+160100,Manurewa Central,Counties Manukau,501,468,631,794,742
+160200,Weymouth North,Counties Manukau,927,893,997,930,896
+160300,Hillpark South,Counties Manukau,393,362,460,854,787
+160400,Alfriston,Counties Manukau,261,255,311,839,820
+160500,Weymouth East,Counties Manukau,664,608,877,757,693
+160600,Leabank,Counties Manukau,904,827,1188,761,696
+160700,Weymouth South,Counties Manukau,681,658,772,882,852
+160800,Manurewa East,Counties Manukau,555,527,630,881,837
+160900,Manurewa South,Counties Manukau,760,729,835,910,873
+161000,Randwick Park East,Counties Manukau,292,279,321,910,869
+161100,Wattle Downs West,Counties Manukau,406,399,423,>950,943
+161200,Wattle Downs North,Counties Manukau,560,537,656,854,819
+161300,Randwick Park West,Counties Manukau,823,726,1062,775,684
+161400,Kingseat-Karaka,Counties Manukau,286,264,355,806,744
+161500,Wattle Downs East,Counties Manukau,312,308,323,>950,>950
+161600,Takanini North,Counties Manukau,397,372,438,906,849
+161700,Takanini Industrial,Counties Manukau,Masked,Masked,Masked,Masked,Masked
+161800,Conifer Grove West,Counties Manukau,272,255,294,925,867
+161900,Conifer Grove East,Counties Manukau,397,370,516,769,717
+162000,Takanini West,Counties Manukau,489,466,536,912,869
+162100,Takanini South,Counties Manukau,494,458,568,870,806
+162200,Takanini Central,Counties Manukau,93,93,96,>950,>950
+162300,Ardmore,Counties Manukau,172,154,215,800,716
+162400,Glenbrook,Counties Manukau,195,179,228,855,785
+162500,Hingaia,Counties Manukau,143,133,161,888,826
+162600,Takanini South East,Counties Manukau,410,397,460,891,863
+162700,Kawakawa Bay-Orere,Counties Manukau,198,192,206,>950,932
+162800,Papakura West,Counties Manukau,290,275,367,790,749
+162900,Clevedon,Counties Manukau,88,78,90,>950,867
+163000,Papakura North,Counties Manukau,896,804,1126,796,714
+163100,Pahurehure,Counties Manukau,388,380,405,>950,938
+163200,Papakura Central,Counties Manukau,673,632,791,851,799
+163300,Papakura North East,Counties Manukau,657,610,762,862,801
+163400,Karaka Lakes,Counties Manukau,151,151,139,>950,>950
+163500,Papakura Kelvin,Counties Manukau,1377,1324,1491,924,888
+163600,Papakura Massey Park,Counties Manukau,697,628,849,821,740
+163700,Rosehill,Counties Manukau,820,794,903,908,879
+163800,Patumahoe,Counties Manukau,154,142,183,842,776
+163900,Papakura East,Counties Manukau,525,509,574,915,887
+164000,?paheke,Counties Manukau,423,413,446,948,926
+164100,Papakura Industrial,Counties Manukau,54,48,64,844,750
+164200,Red Hill,Counties Manukau,724,648,877,826,739
+164300,Drury,Counties Manukau,215,211,233,923,906
+164400,Tamakae,Counties Manukau,314,289,373,842,775
+164500,Hamilton Estate,Counties Manukau,425,396,501,848,790
+164600,Drury Rural,Counties Manukau,321,302,388,827,778
+164700,Waiuku Central,Counties Manukau,159,141,197,807,716
+164800,Waiuku East,Counties Manukau,243,223,288,844,774
+164900,Kendallvale,Counties Manukau,89,81,97,918,835
+165000,Puni,Counties Manukau,144,141,152,947,928
+165100,Ramarama,Counties Manukau,158,151,186,849,812
+165200,Hunua,Counties Manukau,108,98,128,844,766
+165300,Pukekohe North West,Counties Manukau,963,877,1170,823,750
+165400,Anselmi Ridge,Counties Manukau,140,125,143,>950,874
+165500,Pukekohe West,Counties Manukau,1082,1053,1140,949,924
+165600,Cape Hill,Counties Manukau,112,104,129,868,806
+165700,Rosa Birch Park,Counties Manukau,210,206,212,>950,>950
+165800,Rooseville Park,Counties Manukau,296,290,310,>950,935
+165900,Cloverlea (Auckland),Counties Manukau,137,134,148,926,905
+166000,Pukekohe Central,Counties Manukau,58,56,54,>950,>950
+166100,Pukekohe Hospital,Counties Manukau,136,120,153,889,784
+166200,Buckland,Counties Manukau,125,111,136,919,816
+166300,Bombay Hills,Counties Manukau,119,115,131,908,878
+166400,Ararimu,Counties Manukau,141,126,154,916,818
+166500,Colville,Waikato,402,371,567,709,654
+166700,Coromandel,Waikato,292,279,404,723,691
+166900,Mercury Bay North,Waikato,86,82,115,748,713
+167000,Whitianga North,Waikato,103,100,121,851,826
+167100,Whitianga South,Waikato,333,298,455,732,655
+167200,Thames Coast,Waikato,244,236,266,917,887
+167300,Cooks Beach-Ferry Landing,Waikato,Masked,Masked,Masked,Masked,Masked
+167400,Mercury Bay South,Waikato,59,57,75,787,760
+167500,Kauaeranga,Waikato,51,44,67,761,657
+167600,Thames North,Waikato,224,216,248,903,871
+167700,Thames Central,Waikato,159,153,176,903,869
+167800,Thames South,Waikato,468,438,572,818,766
+167900,Hikuai,Waikato,Masked,Masked,Masked,Masked,Masked
+168000,Totora-Kopu,Waikato,109,100,127,858,787
+168100,Tairua,Waikato,83,79,101,822,782
+168200,Pauanui,Waikato,Masked,Masked,Masked,Masked,Masked
+168300,Matatoki-Puriri,Waikato,122,112,156,782,718
+168400,Whangamat? Rural,Waikato,60,59,65,923,908
+168500,Whangamat?,Waikato,381,356,458,832,777
+168600,Miranda-P?korokoro,Counties Manukau,189,175,231,818,758
+168700,Hauraki Plains North,Waikato,130,114,165,788,691
+168800,Hauraki Plains East,Waikato,153,142,173,884,821
+168900,Ngatea,Waikato,169,155,186,909,833
+169000,Hauraki Plains South,Waikato,222,211,253,877,834
+169100,Paeroa Rural,Waikato,261,239,348,750,687
+169200,Paeroa,Waikato,990,913,1261,785,724
+169300,Waihi Rural,Waikato,195,181,270,722,670
+169400,Waihi North,Waikato,257,246,307,837,801
+169500,Waihi East,Waikato,174,159,239,728,665
+169600,Waihi South,Waikato,305,273,426,716,641
+169700,Aka Aka,Counties Manukau,255,236,302,844,781
+169800,Mangatangi,Counties Manukau,136,134,150,907,893
+169900,Tuakau Rural,Counties Manukau,113,112,119,950,941
+170000,Tuakau North,Counties Manukau,647,592,776,834,763
+170100,Onewhero,Counties Manukau,221,213,251,880,849
+170200,P?keno Rural,Counties Manukau,200,191,221,905,864
+170300,Tuakau South,Counties Manukau,523,474,594,880,798
+170400,Port Waikato-Waikaretu,Counties Manukau,210,202,235,894,860
+170500,P?keno,Counties Manukau,415,384,453,916,848
+170600,Pukekawa,Counties Manukau,164,150,177,927,847
+170700,Maramarua,Waikato,279,266,300,930,887
+170800,Rangiriri,Waikato,226,222,240,942,925
+170900,Te ?kau,Waikato,265,243,327,810,743
+171100,Te Kauwhata,Waikato,294,258,368,799,701
+171200,Huntly Rural,Waikato,394,374,445,885,840
+171300,Waerenga,Waikato,73,72,82,890,878
+171400,Huntly West,Waikato,1543,1471,1753,880,839
+171500,Huntly East,Waikato,1391,1278,1762,789,725
+171600,Raglan,Waikato,486,478,604,805,791
+171700,Whitikahu,Waikato,136,135,150,907,900
+171800,Te Uku,Waikato,333,312,429,776,727
+171900,Taupiri-Lake Kainui,Waikato,501,484,543,923,891
+172000,Ng?ruaw?hia North,Waikato,936,866,1153,812,751
+172100,Ng?ruaw?hia Central,Waikato,1052,1019,1196,880,852
+172200,Ng?ruaw?hia South,Waikato,648,623,701,924,889
+172300,Kainui-Gordonton,Waikato,159,145,198,803,732
+172400,Te Kowhai,Waikato,193,179,227,850,789
+172500,Whatawhata West,Waikato,40,40,46,870,870
+172600,Horotiu,Waikato,154,141,185,832,762
+172700,Horsham Downs,Waikato,44,43,45,>950,>950
+172800,Whatawhata East,Waikato,401,391,447,897,875
+172900,Rotokauri,Waikato,71,68,83,855,819
+173000,Hamilton Park,Waikato,90,88,96,938,917
+173100,Eureka-Tauwhare,Waikato,138,122,155,890,787
+173200,Tamahere North,Waikato,218,215,224,>950,>950
+173300,Pukemoremore,Waikato,329,321,325,>950,>950
+173400,Tamahere South,Waikato,104,102,111,937,919
+173500,Tahuna-Mangateparu,Waikato,97,94,114,851,825
+173600,Mangaiti,Waikato,110,103,128,859,805
+173700,Tatuanui,Waikato,126,123,130,>950,946
+173800,Tahuroa,Waikato,165,153,196,842,781
+173900,Morrinsville East,Waikato,375,367,400,938,918
+174000,Morrinsville West,Waikato,458,441,507,903,870
+174100,Te Aroha East,Waikato,345,312,483,714,646
+174200,Te Aroha West,Waikato,168,163,176,>950,926
+174300,Waihou-Manawaru,Waikato,72,70,106,679,660
+174400,Waitoa-Ngarua,Waikato,107,104,117,915,889
+174500,Richmond Downs-Wardville,Waikato,135,130,169,799,769
+174600,Waharoa-Peria,Waikato,374,341,461,811,740
+174700,Okauia,Waikato,71,68,85,835,800
+174800,Hinuera,Waikato,69,65,89,775,730
+174900,Matamata North,Waikato,304,290,334,910,868
+175000,Matamata South,Waikato,530,483,652,813,741
+175100,Te Poi,Waikato,107,99,141,759,702
+175200,Te Rapa North,Waikato,Masked,Masked,Masked,Masked,Masked
+175300,Flagstaff North,Waikato,223,202,276,808,732
+175400,Rotokauri-Waiwhakareke,Waikato,111,110,110,>950,>950
+175500,Flagstaff South,Waikato,164,160,157,>950,>950
+175600,Rototuna North,Waikato,115,111,129,891,860
+175700,Pukete West,Waikato,325,313,353,921,887
+175800,Flagstaff East,Waikato,307,287,372,825,772
+175900,Rototuna Central,Waikato,360,326,444,811,734
+176000,Pukete East,Waikato,229,223,245,935,910
+176100,Te Manatu,Waikato,308,302,320,>950,944
+176200,Rototuna South,Waikato,313,283,343,913,825
+176300,Te Rapa South,Waikato,Masked,Masked,Masked,Masked,Masked
+176400,Saint Andrews West,Waikato,580,557,647,896,861
+176500,Saint Andrews East,Waikato,250,241,275,909,876
+176600,Queenwood (Hamilton City),Waikato,227,213,236,>950,903
+176700,St James,Waikato,103,100,118,873,847
+176800,Crawshaw,Waikato,1002,918,1330,753,690
+176900,Huntington,Waikato,159,144,185,859,778
+177000,Western Heights (Hamilton City),Waikato,415,382,492,843,776
+177100,Nawton West,Waikato,716,689,741,>950,930
+177200,Nawton East,Waikato,1090,1054,1168,933,902
+177300,Chartwell,Waikato,527,515,587,898,877
+177400,Forest Lake (Hamilton City),Waikato,389,378,435,894,869
+177500,Chedworth,Waikato,149,141,167,892,844
+177600,Beerescourt,Waikato,255,249,277,921,899
+177700,Miropiko,Waikato,347,315,399,870,789
+177800,Porritt,Waikato,529,479,710,745,675
+177900,Dinsdale North,Waikato,898,880,962,933,915
+178000,Maeroa,Waikato,767,712,930,825,766
+178100,Dinsdale South,Waikato,732,704,769,>950,915
+178200,Fairfield (Hamilton City),Waikato,1220,1109,1533,796,723
+178300,Whitiora,Waikato,477,436,564,846,773
+178400,Enderley North,Waikato,750,704,879,853,801
+178500,Fairview Downs,Waikato,709,638,834,850,765
+178600,Temple View,Waikato,626,576,743,843,775
+178700,Swarbrick,Waikato,626,564,763,820,739
+178800,Kahikatea,Waikato,803,777,885,907,878
+178900,Frankton Junction,Waikato,131,120,144,910,833
+179000,Kirikiriroa,Waikato,118,112,143,825,783
+179100,Enderley South,Waikato,790,750,868,910,864
+179200,Ruakura,Waikato,233,232,234,>950,>950
+179300,Claudelands,Waikato,491,459,544,903,844
+179400,Hamilton Central,Waikato,125,122,150,833,813
+179500,Hamilton Lake,Waikato,432,394,507,852,777
+179600,Peachgrove,Waikato,456,421,528,864,797
+179700,Hamilton East Village,Waikato,500,468,584,856,801
+179800,Hamilton West,Waikato,255,233,296,861,787
+179900,Greensboro,Waikato,731,714,780,937,915
+180000,Hamilton East Cook,Waikato,464,419,516,899,812
+180100,Melville North,Waikato,520,487,653,796,746
+180200,Hamilton East,Waikato,506,493,551,918,895
+180300,Melville South,Waikato,529,508,560,945,907
+180400,Deanwell,Waikato,427,394,559,764,705
+180500,Bader,Waikato,762,724,869,877,833
+180600,Hillcrest West (Hamilton City),Waikato,304,281,361,842,778
+180700,Hillcrest East (Hamilton City),Waikato,438,409,516,849,793
+180800,Silverdale (Hamilton City),Waikato,312,294,362,862,812
+180900,Glenview,Waikato,383,373,410,934,910
+181000,Resthill,Waikato,330,324,365,904,888
+181100,Fitzroy,Waikato,381,372,409,932,910
+181200,Riverlea,Waikato,202,196,215,940,912
+181300,Peacockes,Waikato,35,34,49,714,694
+181400,Te Pahu,Waikato,72,68,90,800,756
+181500,Ngahinapouri,Waikato,105,102,108,>950,944
+181600,Lake Cameron,Waikato,85,83,94,904,883
+181700,Lake Ngaroto,Waikato,59,59,58,>950,>950
+181800,Kaipaki,Waikato,82,81,90,911,900
+181900,Pirongia,Waikato,87,77,113,770,681
+182000,Hautapu Rural,Waikato,35,33,42,833,786
+182100,Pokuru,Waikato,101,99,108,935,917
+182200,Te Rahu,Waikato,64,63,61,>950,>950
+182300,Fencourt,Waikato,Masked,Masked,Masked,Masked,Masked
+182400,Hautapu,Waikato,Masked,Masked,Masked,Masked,Masked
+182500,Karapiro,Waikato,111,108,116,>950,931
+182600,Cambridge North,Waikato,103,99,108,>950,917
+182700,Cambridge West,Waikato,141,134,169,834,793
+182800,Cambridge East,Waikato,223,211,245,910,861
+182900,Cambridge Park-River Garden,Waikato,62,61,56,>950,>950
+183000,Oaklands-St Kilda,Waikato,66,65,65,>950,>950
+183100,Pukerimu,Waikato,42,40,46,913,870
+183200,Cambridge Central,Waikato,43,41,49,878,837
+183300,Te Awamutu North,Waikato,137,135,134,>950,>950
+183400,Te Awamutu West,Waikato,229,209,279,821,749
+183500,Leamington West,Waikato,129,120,154,838,779
+183600,Goodfellow Park,Waikato,241,232,276,873,841
+183700,Leamington South,Waikato,124,123,136,912,904
+183800,Leamington Central,Waikato,236,228,280,843,814
+183900,Leamington East,Waikato,131,116,155,845,748
+184000,Te Awamutu Stadium,Waikato,210,206,215,>950,>950
+184100,Te Awamutu Central,Waikato,64,61,81,790,753
+184200,Pekerau,Waikato,391,382,416,940,918
+184300,Fraser Street,Waikato,197,178,222,887,802
+184400,Sherwin Park,Waikato,355,317,426,833,744
+184500,St Leger,Waikato,52,49,56,929,875
+184600,Rotoorangi,Waikato,130,122,160,812,762
+184700,Tokanui,Waikato,159,150,201,791,746
+184800,Kihikihi Central,Waikato,525,509,588,893,866
+184900,Maungatautari,Waikato,90,81,108,833,750
+185000,Rotongata,Waikato,87,83,130,669,638
+185200,Pirongia Forest,Waikato,288,280,334,862,838
+185300,Honikiwi,Waikato,233,217,272,857,798
+185400,Te Kawa,Waikato,126,115,140,900,821
+185500,Otorohanga,Waikato,928,885,1169,794,757
+185600,Maihiihi,Waikato,194,182,229,847,795
+185700,Puniu,Waikato,85,82,103,825,796
+185800,T?rau,Waikato,269,246,362,743,680
+185900,Put?ruru Rural,Waikato,288,270,362,796,746
+186000,Put?ruru,Waikato,981,940,1096,895,858
+186100,Kinleith,Waikato,182,162,252,722,643
+186200,Paraonui,Waikato,425,413,443,>950,932
+186300,Parkdale,Waikato,235,224,269,874,833
+186400,Matarawa,Waikato,708,645,872,812,740
+186500,Stanley Park,Waikato,716,645,937,764,688
+186600,Strathmore (South Waikato District),Waikato,840,767,1051,799,730
+186700,Tokoroa Central,Waikato,328,314,364,901,863
+186800,Moananui,Waikato,953,875,1196,797,732
+187000,Herangi,Waikato,235,226,269,874,840
+187100,Hangatiki,Waikato,319,298,391,816,762
+187200,Aria,Waikato,308,299,374,824,799
+187300,Te Kuiti West,Waikato,866,809,1099,788,736
+187400,Te Kuiti East,Waikato,847,784,1103,768,711
+187500,Waipa Valley,Waikato,235,230,280,839,821
+187600,Tiroa,Waikato,Masked,Masked,Masked,Masked,Masked
+187700,Marotiri,Lakes,537,504,591,909,853
+187800,Ohakuri,Lakes,252,232,338,746,686
+187900,Lake Taupo Bays,Lakes,431,402,565,763,712
+188000,Mapara,Lakes,120,112,149,805,752
+188200,Wairakei-Broadlands,Lakes,234,215,283,827,760
+188300,Acacia Bay,Lakes,111,109,121,917,901
+188400,Brentwood (Taupo District),Lakes,229,216,274,836,788
+188500,Nukuhau-Rangatira Park,Lakes,385,360,476,809,756
+188600,Taup? Central West,Lakes,72,70,76,947,921
+188700,Tauhara,Lakes,497,478,560,888,854
+188800,Taup? Central East,Lakes,558,534,644,866,829
+188900,Mountview,Lakes,636,597,771,825,774
+189000,Bird Area,Lakes,240,235,249,>950,944
+189100,Hilltop (Taupo District),Lakes,439,407,531,827,766
+189200,Waipahihi,Lakes,240,218,281,854,776
+189300,Richmond Heights,Lakes,374,355,411,910,864
+189400,Wharewaka,Lakes,101,89,117,863,761
+189600,Waitahanui,Lakes,269,251,320,841,784
+189700,T?rangi,Lakes,1486,1414,1716,866,824
+189800,Rangataiki,Lakes,Masked,Masked,Masked,Masked,Masked
+189900,Taharua,Lakes,Masked,Masked,Masked,Masked,Masked
+190100,Waiau,Bay of Plenty,67,65,80,838,812
+190200,Waihi Beach-Bowentown,Bay of Plenty,192,188,216,889,870
+190300,Tahawai,Bay of Plenty,126,112,189,667,593
+190400,Athenree,Bay of Plenty,71,67,94,755,713
+190500,Aongatete,Bay of Plenty,261,245,333,784,736
+190600,Katikati,Bay of Plenty,367,353,432,850,817
+190800,Matakana Island,Bay of Plenty,127,116,162,784,716
+190900,Pahoia,Bay of Plenty,223,192,271,823,708
+191000,Omokoroa,Bay of Plenty,217,195,264,822,739
+191100,Omokoroa Rural,Bay of Plenty,106,105,105,>950,>950
+191200,Te Puna,Bay of Plenty,524,493,674,777,731
+191300,Minden,Bay of Plenty,185,174,219,845,795
+191400,Kaimai,Bay of Plenty,196,175,248,790,706
+191500,Kopurererua,Bay of Plenty,87,83,119,731,697
+191600,Kaitemako (Western Bay of Plenty District),Bay of Plenty,207,198,293,706,676
+191700,Waiorohi,Bay of Plenty,266,246,343,776,717
+191800,Otawa,Bay of Plenty,168,153,226,743,677
+191900,Te Puke West,Bay of Plenty,800,726,1075,744,675
+192000,Rangiuru,Bay of Plenty,553,535,680,813,787
+192100,Te Puke East,Bay of Plenty,842,792,1117,754,709
+192300,Maketu,Bay of Plenty,571,555,687,831,808
+192400,Pukehina Beach,Bay of Plenty,114,106,132,864,803
+192500,Pongakawa,Bay of Plenty,464,441,557,833,792
+192600,Matua North,Bay of Plenty,131,131,132,>950,>950
+192800,Mount Maunganui North,Bay of Plenty,304,283,353,861,802
+192900,Matua South,Bay of Plenty,176,166,220,800,755
+193000,Bethlehem North,Bay of Plenty,383,342,484,791,707
+193100,Bellevue,Bay of Plenty,472,458,498,948,920
+193200,Ot?moetai North,Bay of Plenty,290,279,324,895,861
+193300,Ot?moetai South,Bay of Plenty,324,294,356,910,826
+193400,Brookfield West,Bay of Plenty,367,352,415,884,848
+193500,Bethlehem Central,Bay of Plenty,165,154,186,887,828
+193600,Brookfield East,Bay of Plenty,364,337,482,755,699
+193700,Mount Maunganui South,Bay of Plenty,226,209,252,897,829
+193800,Tauranga Central,Bay of Plenty,256,251,291,880,863
+193900,Mount Maunganui Central,Bay of Plenty,53,46,69,768,667
+194000,Judea,Bay of Plenty,390,366,517,754,708
+194100,Te Reti,Bay of Plenty,338,314,428,790,734
+194200,Bethlehem South,Bay of Plenty,77,69,96,802,719
+194300,Omanu Beach,Bay of Plenty,212,206,236,898,873
+194400,Tauranga Hospital,Bay of Plenty,364,328,504,722,651
+194500,Tauriko,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
+194600,Gate Pa,Bay of Plenty,747,713,869,860,820
+194700,Greerton South,Bay of Plenty,102,92,120,850,767
+194800,Tauranga South,Bay of Plenty,617,579,791,780,732
+194900,Arataki North,Bay of Plenty,388,381,405,>950,941
+195000,Matapihi,Bay of Plenty,443,430,497,891,865
+195100,Pyes Pa West,Bay of Plenty,404,351,460,878,763
+195200,Greerton North,Bay of Plenty,465,453,539,863,840
+195300,Yatton Park,Bay of Plenty,664,624,762,871,819
+195400,Pyes Pa North,Bay of Plenty,370,361,407,909,887
+195500,Arataki South,Bay of Plenty,447,434,482,927,900
+195600,Pyes Pa South,Bay of Plenty,86,86,86,>950,>950
+195700,Poike,Bay of Plenty,188,181,226,832,801
+195800,Te Maunga North,Bay of Plenty,460,443,545,844,813
+195900,Maungatapu,Bay of Plenty,522,489,634,823,771
+196000,Hairini,Bay of Plenty,593,547,736,806,743
+196100,Pyes Pa East,Bay of Plenty,121,114,151,801,755
+196200,Te Maunga South,Bay of Plenty,370,356,396,934,899
+196300,Kaitemako (Tauranga City),Bay of Plenty,230,222,250,920,888
+196400,Ohauiti,Bay of Plenty,226,222,246,919,902
+196500,Baypark-Kairua,Bay of Plenty,253,242,334,757,725
+196600,Welcome Bay West,Bay of Plenty,420,397,492,854,807
+196700,Welcome Bay East,Bay of Plenty,442,417,501,882,832
+196800,Pacific View,Bay of Plenty,234,233,253,925,921
+196900,Welcome Bay South,Bay of Plenty,353,336,398,887,844
+197000,Palm Beach North,Bay of Plenty,569,523,732,777,714
+197100,Palm Beach South-Gravatt,Bay of Plenty,303,277,360,842,769
+197200,Papamoa Beach North,Bay of Plenty,377,358,438,861,817
+197300,Doncaster,Bay of Plenty,417,362,527,791,687
+197400,Papamoa Beach South,Bay of Plenty,294,285,328,896,869
+197500,Motiti,Bay of Plenty,318,311,340,935,915
+197600,Wairakei,Bay of Plenty,741,713,781,949,913
+197700,Tui Ridge,Lakes,193,190,203,>950,936
+197800,Arahiwi,Lakes,Masked,Masked,Masked,Masked,Masked
+197900,Ngongotah? Valley,Lakes,312,303,337,926,899
+198000,Hamurana,Lakes,128,125,144,889,868
+198100,Ngongotah? East,Lakes,674,647,755,893,857
+198200,Ngongotah? West,Lakes,346,326,388,892,840
+198400,Ngongotah? South,Lakes,401,379,476,842,796
+198500,Selwyn Heights,Lakes,451,424,571,790,743
+198600,Pleasant Heights,Lakes,854,815,945,904,862
+198700,Rotoiti-Rotoehu,Lakes,821,754,1034,794,729
+198800,Kawaha,Lakes,420,405,468,897,865
+198900,Fairy Springs,Lakes,595,580,659,903,880
+199000,Western Heights (Rotorua District),Lakes,962,916,1150,837,797
+199100,Pukehangi North,Lakes,994,943,1142,870,826
+199200,Pukehangi South,Lakes,442,433,478,925,906
+199300,Mangakakahi Central,Lakes,Masked,Masked,Masked,Masked,Masked
+199400,Koutu,Lakes,1045,1009,1168,895,864
+199500,Mangakakahi West,Lakes,711,683,791,899,863
+199600,Sunnybrook,Lakes,429,415,462,929,898
+199700,Fordlands,Lakes,1118,1051,1251,894,840
+199800,Kuirau,Lakes,469,446,537,873,831
+199900,Utuhina,Lakes,398,391,415,>950,942
+2e+05,Pomare,Lakes,303,298,314,>950,949
+200100,Rotorua Central,Lakes,162,150,213,761,704
+200200,Hillcrest (Rotorua District),Lakes,519,482,649,800,743
+200300,Victoria,Lakes,576,548,726,793,755
+200400,Waiohewa,Lakes,264,250,302,874,828
+200500,Glenholme North,Lakes,778,724,1032,754,702
+200600,Springfield South,Lakes,304,286,362,840,790
+200700,Springfield North,Lakes,277,264,332,834,795
+200800,Glenholme South,Lakes,355,330,422,841,782
+200900,?whata West,Lakes,939,904,1075,873,841
+201000,Holdens Bay-Rotokawa,Lakes,357,341,391,913,872
+201100,Ngapuna,Lakes,239,231,258,926,895
+201200,Fenton Park,Lakes,515,466,616,836,756
+201300,Tihiotonga-Whakarewarewa,Lakes,250,238,307,814,775
+201400,?whata East,Lakes,967,882,1177,822,749
+201500,Lynmore,Lakes,385,367,413,932,889
+201600,Ngakuru,Lakes,193,189,220,877,859
+201700,Kaingaroa-Whakarewarewa,Lakes,352,338,443,795,763
+201800,Golden Springs,Lakes,314,294,402,781,731
+201900,Manawahe,Bay of Plenty,164,153,197,832,777
+202000,Matat?-Otakiri,Bay of Plenty,394,384,463,851,829
+202100,Onepu Spring,Bay of Plenty,347,321,457,759,702
+202200,Edgecumbe,Bay of Plenty,577,556,638,904,871
+202300,Thornton-Awakeri,Bay of Plenty,542,528,625,867,845
+202400,Te Teko Lakes,Bay of Plenty,1059,988,1336,793,740
+202500,Coastlands,Bay of Plenty,558,519,721,774,720
+202600,Whakat?ne West,Bay of Plenty,1119,1065,1303,859,817
+202700,Whakat?ne Central,Bay of Plenty,957,922,1095,874,842
+202800,Trident,Bay of Plenty,1035,946,1450,714,652
+202900,Allandale,Bay of Plenty,640,622,770,831,808
+203000,Mokorua Bush,Bay of Plenty,129,128,142,908,901
+203100,Wainui,Bay of Plenty,635,577,876,725,659
+203200,?hope,Bay of Plenty,304,301,339,897,888
+203400,Galatea,Bay of Plenty,459,441,566,811,779
+203500,Waingarara-Waimana,Bay of Plenty,1265,1150,1797,704,640
+203600,Murupara,Bay of Plenty,931,853,1491,624,572
+203700,Monika Reserve,Bay of Plenty,1353,1254,1688,802,743
+203800,Kawerau Industrial,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
+203900,Tarawera Park,Bay of Plenty,1847,1678,2471,747,679
+204100,Waiotahi,Bay of Plenty,452,412,593,762,695
+204200,Cape Runaway,Bay of Plenty,871,803,969,899,829
+204300,Woodlands,Bay of Plenty,297,288,333,892,865
+204400,?p?tiki,Bay of Plenty,1752,1614,2136,820,756
+204500,Otara-Tirohanga,Bay of Plenty,417,383,602,693,636
+204600,Oponae,Bay of Plenty,106,98,134,791,731
+204700,East Cape,Tairawhiti,989,894,1177,840,760
+204800,Waipaoa,Tairawhiti,808,749,1036,780,723
+204900,Ruatoria-Raukumara,Tairawhiti,809,765,920,879,832
+205000,Tokomaru,Tairawhiti,656,615,781,840,787
+205100,Hangaroa,Tairawhiti,387,375,437,886,858
+205200,Wharekaka,Tairawhiti,874,841,925,945,909
+205300,Te Arai,Tairawhiti,524,504,562,932,897
+205400,Hexton,Tairawhiti,480,467,515,932,907
+205500,Lytton,Tairawhiti,208,200,224,929,893
+205600,Makaraka-Awapuni,Tairawhiti,290,276,333,871,829
+205700,Riverdale,Tairawhiti,371,365,397,935,919
+205800,Te Hapara North,Tairawhiti,564,541,639,883,847
+205900,Mangapapa North,Tairawhiti,494,471,529,934,890
+206000,Elgin,Tairawhiti,1260,1208,1406,896,859
+206100,Te Hapara South,Tairawhiti,860,825,956,900,863
+206200,Mangapapa East,Tairawhiti,347,319,415,836,769
+206300,Mangapapa South,Tairawhiti,760,693,909,836,762
+206400,Te Hapara East,Tairawhiti,684,662,719,>950,921
+206500,Centennial Crescent,Tairawhiti,671,650,732,917,888
+206600,Whataupoko East,Tairawhiti,309,287,341,906,842
+206700,Whataupoko West,Tairawhiti,467,419,514,909,815
+206800,Gisborne Central,Tairawhiti,89,84,107,832,785
+206900,Kaiti North,Tairawhiti,722,665,830,870,801
+207000,Kaiti South,Tairawhiti,1629,1484,1996,816,743
+207100,Outer Kaiti,Tairawhiti,1632,1453,2001,816,726
+207200,Tamarau,Tairawhiti,1338,1282,1489,899,861
+207300,Wainui-Okitu,Tairawhiti,208,205,225,924,911
+207400,Maungataniwha-Raupunga,Hawke's Bay,403,368,574,702,641
+207600,Frasertown-Ruakituri,Hawke's Bay,231,227,261,885,870
+207700,Whakaki,Hawke's Bay,379,365,399,950,915
+207800,Wairoa,Hawke's Bay,2316,2084,2976,778,700
+207900,Mahia,Hawke's Bay,519,484,639,812,757
+208000,Puketitiri-Tutira,Hawke's Bay,298,275,378,788,728
+208100,Sherenden-Crownthorpe,Hawke's Bay,88,83,87,>950,>950
+208200,Maraekakaho,Hawke's Bay,106,103,117,906,880
+208300,Puketapu-Eskdale,Hawke's Bay,296,272,360,822,756
+208400,Omahu-Pakowhai,Hawke's Bay,454,423,541,839,782
+208500,Bridge Pa,Hawke's Bay,483,463,523,924,885
+208600,Twyford,Hawke's Bay,123,121,116,>950,>950
+208700,Poukawa,Hawke's Bay,248,242,269,922,900
+208800,Flaxmere West,Hawke's Bay,1122,1064,1234,909,862
+208900,Omahu Strip,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
+209000,Lochain Park,Hawke's Bay,1136,1083,1305,870,830
+209100,Flaxmere Park,Hawke's Bay,1054,1018,1157,911,880
+209200,Flaxmere South,Hawke's Bay,1103,1050,1229,897,854
+209300,Irongate,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
+209400,Frimley,Hawke's Bay,299,276,364,821,758
+209500,Camberley,Hawke's Bay,862,821,942,915,872
+209600,Clive,Hawke's Bay,329,322,362,909,890
+209700,St Leonards,Hawke's Bay,447,413,567,788,728
+209800,Mahora,Hawke's Bay,402,392,432,931,907
+209900,Raureka,Hawke's Bay,686,637,865,793,736
+210000,Cornwall Park,Hawke's Bay,541,507,605,894,838
+210100,Tomoana,Hawke's Bay,115,111,126,913,881
+210200,Longlands-Pukahu,Hawke's Bay,279,262,315,886,832
+210300,Raceway Park,Hawke's Bay,378,345,435,869,793
+210400,Karamu,Hawke's Bay,410,374,479,856,781
+210500,Hastings Central,Hawke's Bay,97,91,122,795,746
+210600,Tomoana Crossing,Hawke's Bay,428,410,489,875,838
+210700,Akina Park,Hawke's Bay,452,418,545,829,767
+210800,Queens Square,Hawke's Bay,307,303,322,>950,941
+210900,Mayfair,Hawke's Bay,820,745,1064,771,700
+211000,Parkhaven,Hawke's Bay,570,520,699,815,744
+211100,Parkvale,Hawke's Bay,286,263,327,875,804
+211200,Mangateretere,Hawke's Bay,88,79,108,815,731
+211300,Haumoana-Te Awanga,Hawke's Bay,250,233,313,799,744
+211400,Lucknow,Hawke's Bay,311,297,344,904,863
+211500,Karanema-St Hill,Hawke's Bay,97,95,103,942,922
+211600,Havelock North-Central,Hawke's Bay,35,31,42,833,738
+211700,Brookvale,Hawke's Bay,82,81,87,943,931
+211800,Iona,Hawke's Bay,176,156,202,871,772
+211900,Hereworth,Hawke's Bay,98,97,107,916,907
+212000,Te Mata Hills,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
+212100,Havelock Hills,Hawke's Bay,59,59,59,>950,>950
+212200,Kahuranaki,Hawke's Bay,203,197,221,919,891
+212300,Bay View,Hawke's Bay,289,266,342,845,778
+212400,Poraiti Hills,Hawke's Bay,55,53,63,873,841
+212500,Poraiti Flat,Hawke's Bay,84,84,85,>950,>950
+212600,Westshore,Hawke's Bay,134,127,145,924,876
+212800,Onekawa West,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
+212900,Ahuriri,Hawke's Bay,97,90,125,776,720
+213000,Taradale West,Hawke's Bay,105,105,106,>950,>950
+213100,Greenmeadows West,Hawke's Bay,82,82,88,932,932
+213200,Taradale South,Hawke's Bay,197,193,226,872,854
+213300,Bluff Hill,Hawke's Bay,219,206,255,859,808
+213400,Hospital Hill,Hawke's Bay,259,239,310,835,771
+213500,Tamatea West,Hawke's Bay,357,337,469,761,719
+213600,Tamatea North,Hawke's Bay,376,361,408,922,885
+213700,Taradale Central,Hawke's Bay,271,246,320,847,769
+213800,Tamatea East,Hawke's Bay,359,336,445,807,755
+213900,Marewa West,Hawke's Bay,206,182,243,848,749
+214000,Greenmeadows Central,Hawke's Bay,123,115,134,918,858
+214100,Onekawa Central,Hawke's Bay,234,209,263,890,795
+214200,Pirimai West,Hawke's Bay,303,278,353,858,788
+214300,Napier Central,Hawke's Bay,119,114,125,>950,912
+214400,Greenmeadows South,Hawke's Bay,312,290,370,843,784
+214500,Nelson Park,Hawke's Bay,284,279,313,907,891
+214600,Bledisloe Park,Hawke's Bay,230,227,234,>950,>950
+214700,Pirimai East,Hawke's Bay,432,418,444,>950,941
+214800,Onekawa East,Hawke's Bay,440,395,606,726,652
+214900,Tareha Reserve,Hawke's Bay,331,327,344,>950,>950
+215000,Marewa East,Hawke's Bay,906,868,1023,886,848
+215100,Onekawa South,Hawke's Bay,911,816,1174,776,695
+215200,McLean Park,Hawke's Bay,385,361,438,879,824
+215300,Maraenui,Hawke's Bay,1373,1296,1575,872,823
+215400,Meeanee-Awatoto,Hawke's Bay,327,322,347,942,928
+215500,Mangaonuku,Hawke's Bay,121,116,134,903,866
+215600,Makaretu,Hawke's Bay,346,310,422,820,735
+215700,Waipawa,Hawke's Bay,340,329,365,932,901
+215800,Waipukurau West,Hawke's Bay,505,483,526,>950,918
+215900,Mangarara,Hawke's Bay,328,323,341,>950,947
+216000,Waipukurau East,Hawke's Bay,350,340,380,921,895
+216100,Taurekaitai,Hawke's Bay,274,253,350,783,723
+216200,Port Taranaki,Taranaki,Masked,Masked,Masked,Masked,Masked
+216300,Spotswood,Taranaki,641,584,809,792,722
+216400,Omata,Taranaki,60,50,68,882,735
+216500,?akura,Taranaki,76,74,81,938,914
+216600,Moturoa,Taranaki,212,203,257,825,790
+216700,Kaitake,Taranaki,127,123,153,830,804
+216800,Blagdon-Lynmouth,Taranaki,311,297,333,934,892
+216900,Kawaroa,Taranaki,207,205,221,937,928
+217000,New Plymouth Central,Taranaki,127,122,154,825,792
+217100,Marfell,Taranaki,394,367,573,688,640
+217200,Whalers Gate,Taranaki,128,127,129,>950,>950
+217300,Strandon,Taranaki,176,167,207,850,807
+217400,Westown,Taranaki,533,516,601,887,859
+217500,Bell Block West,Taranaki,487,472,530,919,891
+217600,Bell Block East,Taranaki,288,279,308,935,906
+217700,Waiwhakaiho-Bell Block South,Taranaki,Masked,Masked,Masked,Masked,Masked
+217800,Lower Vogeltown,Taranaki,293,274,364,805,753
+217900,Hurdon,Taranaki,196,192,202,>950,950
+218000,Frankleigh Park,Taranaki,240,230,248,>950,927
+218100,Merrilands,Taranaki,288,274,322,894,851
+218200,Ferndale,Taranaki,54,45,60,900,750
+218300,Welbourn,Taranaki,308,301,327,942,920
+218400,Fitzroy-Glen Avon,Taranaki,348,341,371,938,919
+218500,Waitara West,Taranaki,1093,1005,1509,724,666
+218600,Upper Vogeltown,Taranaki,217,200,276,786,725
+218700,Highlands Park (New Plymouth District),Taranaki,180,162,213,845,761
+218800,Paraite,Taranaki,65,63,63,>950,>950
+218900,Waitara East,Taranaki,759,732,905,839,809
+219000,Lepperton-Brixton,Taranaki,227,205,268,847,765
+219100,Mangorei,Taranaki,77,70,113,681,619
+219200,Mount Messenger,Taranaki,89,84,102,873,824
+219300,Mangaoraka,Taranaki,94,89,119,790,748
+219400,Tikorangi,Taranaki,224,217,313,716,693
+219500,Everett Park,Taranaki,166,152,199,834,764
+219600,Inglewood,Taranaki,330,296,409,807,724
+219700,Tarata,Taranaki,41,35,47,872,745
+219800,Pembroke,Taranaki,83,72,112,741,643
+219900,Douglas,Taranaki,39,32,48,812,667
+220000,Toko,Taranaki,48,45,54,889,833
+220100,Stratford North,Taranaki,160,140,203,788,690
+220200,Whangamomona,Taranaki,Masked,Masked,Masked,Masked,Masked
+220300,Stratford Central,Taranaki,197,178,265,743,672
+220400,Stratford South,Taranaki,184,177,211,872,839
+220500,Cape Egmont,Taranaki,346,326,394,878,827
+220600,Taungatara,Taranaki,116,115,135,859,852
+220700,?punake,Taranaki,344,324,418,823,775
+220800,Kaponga-Mangatoki,Taranaki,122,107,166,735,645
+220900,Manaia-Kapuni,Taranaki,358,332,482,743,689
+221000,Eltham,Taranaki,348,325,457,761,711
+221100,Okaiawa,Taranaki,197,180,251,785,717
+221200,Te Roti-Moeroa,Taranaki,57,52,76,750,684
+221300,Egmont Showgrounds,Taranaki,240,214,267,899,801
+221400,Normanby-Tawhiti,Taranaki,357,332,453,788,733
+221500,Ohangai,Taranaki,48,46,63,762,730
+221600,Turuturu,Taranaki,350,325,424,825,767
+221700,King Edward Park,Taranaki,290,270,367,790,736
+221800,Ramanui,Taranaki,396,360,511,775,705
+221900,Hawera Central,Taranaki,444,431,485,915,889
+222000,Mangawhio,Taranaki,68,61,90,756,678
+222100,Manutahi-Waitotora,Taranaki,345,321,436,791,736
+222200,P?tea,Taranaki,468,428,581,806,737
+222300,Otangiwai-Ohura,Waikato,145,129,197,736,655
+222400,Ngapuke,Waikato,291,265,426,683,622
+222500,Taumarunui North,Waikato,525,474,714,735,664
+222600,Taumarunui Central,Waikato,513,477,643,798,742
+222700,Taumarunui East,Waikato,616,544,869,709,626
+222800,National Park,Waikato,126,120,175,720,686
+222900,Tangiwai,Whanganui,278,254,376,739,676
+223000,Raetihi,Whanganui,448,420,649,690,647
+223100,Ohakune,Whanganui,239,234,266,898,880
+223200,Waiouru,Whanganui,165,165,172,>950,>950
+223300,Upper Whanganui,Whanganui,311,301,342,909,880
+223400,Mowhanau,Whanganui,116,114,133,872,857
+223500,Brunswick-Papaiti,Whanganui,101,96,113,894,850
+223600,Castlecliff West,Whanganui,392,373,465,843,802
+223700,Otamatea (Whanganui District),Whanganui,84,82,88,>950,932
+223800,Castlecliff East,Whanganui,579,535,808,717,662
+223900,Springvale North,Whanganui,Masked,Masked,Masked,Masked,Masked
+224000,Lower Aramoho,Whanganui,481,438,624,771,702
+224100,St Johns Hill East,Whanganui,80,78,81,>950,>950
+224200,St Johns Hill West,Whanganui,204,197,247,826,798
+224300,Titoki,Whanganui,786,750,890,883,843
+224400,Springvale West,Whanganui,181,179,193,938,927
+224500,Springvale East,Whanganui,142,138,151,940,914
+224600,Upper Aramoho,Whanganui,444,425,486,914,874
+224700,Balgownie,Whanganui,38,36,41,927,878
+224800,Laird Park,Whanganui,491,455,656,748,694
+224900,Wembley Park,Whanganui,529,494,741,714,667
+225000,College Estate,Whanganui,189,178,224,844,795
+225100,Whanganui East-Williams Domain,Whanganui,345,327,400,862,818
+225200,Gonville West,Whanganui,555,523,674,823,776
+225300,Gonville North,Whanganui,505,471,663,762,710
+225400,Cornmarket,Whanganui,225,215,284,792,757
+225500,Whanganui East-Riverlands,Whanganui,330,323,366,902,883
+225600,Kaitoke-Fordell,Whanganui,168,157,219,767,717
+225700,Whanganui Central,Whanganui,136,134,144,944,931
+225800,Gonville South,Whanganui,384,365,479,802,762
+225900,Bastia-Durie Hill,Whanganui,260,249,274,949,909
+226000,Putiki,Whanganui,192,179,211,910,848
+226100,Mokai Patea,Whanganui,254,246,270,941,911
+226200,Ngamatea,Whanganui,Masked,Masked,Masked,Masked,Masked
+226300,Turakina,Whanganui,418,401,486,860,825
+226400,Otairi,Whanganui,141,137,155,910,884
+226500,Taihape,Whanganui,543,502,696,780,721
+226600,Marton Rural,Whanganui,54,52,64,844,812
+226700,Marton North,Whanganui,375,366,432,868,847
+226800,Parewanui,Whanganui,70,66,91,769,725
+226900,Marton South,Whanganui,482,449,613,786,732
+227000,Bulls,Whanganui,331,322,363,912,887
+227100,Kiwitea,MidCentral,104,102,123,846,829
+227200,Tokorangi,MidCentral,233,218,264,883,826
+227300,Ohakea-Sanson,MidCentral,130,128,133,>950,>950
+227400,Oroua Downs,MidCentral,134,128,156,859,821
+227500,Awahuri,MidCentral,193,171,227,850,753
+227600,Pohangina-Apiti,MidCentral,71,62,77,922,805
+227700,Mount Taylor,MidCentral,46,40,42,>950,>950
+227800,Taikorea,MidCentral,93,90,92,>950,>950
+227900,Makino,MidCentral,422,369,540,781,683
+228000,Sandon,MidCentral,193,191,203,>950,941
+228100,Kimbolton North,MidCentral,437,402,514,850,782
+228200,Warwick,MidCentral,125,116,164,762,707
+228300,Kimbolton West,MidCentral,314,306,347,905,882
+228400,Feilding Central,MidCentral,107,104,121,884,860
+228500,Kimbolton South,MidCentral,286,247,335,854,737
+228600,Kauwhata,MidCentral,152,150,154,>950,>950
+228700,Taonui,MidCentral,117,111,141,830,787
+228800,Newbury,MidCentral,194,191,199,>950,>950
+228900,Palmerston North Airport,MidCentral,40,39,42,>950,929
+229000,Milson North,MidCentral,202,198,216,935,917
+229100,Cloverlea (Palmerston North City),MidCentral,322,302,357,902,846
+229200,Tremaine,MidCentral,137,129,154,890,838
+229300,Milson South,MidCentral,448,440,475,943,926
+229400,Whakarongo,MidCentral,112,99,122,918,811
+229500,Westbrook,MidCentral,695,634,885,785,716
+229600,Takaro North,MidCentral,466,452,501,930,902
+229700,Pioneer West,MidCentral,Masked,Masked,Masked,Masked,Masked
+229800,Palmerston North Hospital,MidCentral,235,209,259,907,807
+229900,Highbury East,MidCentral,766,726,851,900,853
+230000,Park West,MidCentral,261,252,282,926,894
+230100,Takaro South,MidCentral,421,386,461,913,837
+230200,Roslyn (Palmerston North City),MidCentral,311,305,345,901,884
+230300,Kelvin Grove West,MidCentral,365,343,416,877,825
+230400,Kelvin Grove North,MidCentral,164,151,172,>950,878
+230500,Papaioea North,MidCentral,289,272,341,848,798
+230600,Palmerston North Central,MidCentral,190,176,212,896,830
+230700,Awapuni North,MidCentral,599,558,714,839,782
+230800,Terrace End,MidCentral,549,517,674,815,767
+230900,Maraetarata,MidCentral,142,139,139,>950,>950
+231000,Papaioea South,MidCentral,240,223,267,899,835
+231100,Royal Oak (Palmerston North City),MidCentral,156,152,147,>950,>950
+231200,West End,MidCentral,332,319,364,912,876
+231300,Awapuni South,MidCentral,341,332,339,>950,>950
+231400,Milverton,MidCentral,191,181,227,841,797
+231500,Ruamahanga,MidCentral,276,275,280,>950,>950
+231600,Esplanade,MidCentral,209,203,217,>950,935
+231700,Hokowhitu Central,MidCentral,141,140,136,>950,>950
+231800,Hokowhitu East,MidCentral,201,194,213,944,911
+231900,Turitea,MidCentral,Masked,Masked,Masked,Masked,Masked
+232000,Ruahine,MidCentral,66,65,65,>950,>950
+232100,Linton Camp,MidCentral,235,228,217,>950,>950
+232200,Ashhurst,MidCentral,330,324,324,>950,>950
+232300,Hokowhitu South,MidCentral,188,181,202,931,896
+232400,Aokautere,MidCentral,57,49,67,851,731
+232500,Pihauatua,MidCentral,82,81,87,943,931
+232600,Aokautere Rural,MidCentral,Masked,Masked,Masked,Masked,Masked
+232700,Poutoa,MidCentral,213,202,212,>950,>950
+232800,Norsewood,MidCentral,163,156,196,832,796
+232900,Papatawa,MidCentral,198,193,214,925,902
+233000,Mangatainoka,MidCentral,179,161,202,886,797
+233100,Woodville,MidCentral,258,247,302,854,818
+233200,Dannevirke West,MidCentral,379,358,409,927,875
+233300,Dannevirke East,MidCentral,805,753,1011,796,745
+233400,Waitahora,MidCentral,71,65,104,683,625
+233500,Kaitawa,MidCentral,48,46,45,>950,>950
+233600,Pahiatua,MidCentral,373,330,464,804,711
+233700,Nireaha-Eketahuna,MidCentral,164,156,189,868,825
+233800,Owhanga,MidCentral,60,58,105,571,552
+234000,Kere Kere,MidCentral,98,94,99,>950,949
+234100,Foxton Beach,MidCentral,248,241,276,899,873
+234200,Foxton North,MidCentral,345,314,424,814,741
+234300,Foxton South,MidCentral,423,406,451,938,900
+234400,Waitarere,MidCentral,298,289,334,892,865
+234500,Waikawa (Horowhenua District),MidCentral,136,129,158,861,816
+234600,Miranui,MidCentral,238,218,247,>950,883
+234700,Donnelly Park,MidCentral,248,242,255,>950,949
+234800,?hau-Manakau,MidCentral,226,221,257,879,860
+234900,Kawiu South,MidCentral,414,396,421,>950,941
+235000,Makomako,MidCentral,288,273,313,920,872
+235100,Kawiu North,MidCentral,208,205,202,>950,>950
+235200,Levin Central,MidCentral,167,163,191,874,853
+235300,Tararua,MidCentral,221,213,227,>950,938
+235400,Shannon,MidCentral,393,359,530,742,677
+235500,Queenwood (Horowhenua District),MidCentral,330,305,439,752,695
+235600,Playford Park,MidCentral,311,297,347,896,856
+235700,Fairfield (Horowhenua District),MidCentral,208,198,227,916,872
+235800,Taitoko,MidCentral,535,482,662,808,728
+235900,Waiopehu,MidCentral,269,260,288,934,903
+236000,Makahika,MidCentral,108,98,123,878,797
+236100,Kimberley,MidCentral,45,45,47,>950,>950
+236300,?taki Beach,MidCentral,498,438,600,830,730
+236400,Forest Lakes (Kapiti Coast District),MidCentral,73,69,94,777,734
+236500,?taki,MidCentral,935,906,1010,926,897
+236600,Te Horo,MidCentral,111,100,121,917,826
+236700,Waitohu,MidCentral,215,207,232,927,892
+236800,Waikanae Beach,Capital and Coast,222,220,237,937,928
+236900,Peka Peka,Capital and Coast,32,32,40,800,800
+237000,Paraparaumu Beach North,Capital and Coast,417,386,491,849,786
+237100,Paraparaumu Beach West,Capital and Coast,192,191,213,901,897
+237200,Waikanae Park,Capital and Coast,134,122,143,937,853
+237300,Paraparaumu Beach East,Capital and Coast,198,180,215,921,837
+237400,Otaihanga,Capital and Coast,75,74,91,824,813
+237500,Paraparaumu North,Capital and Coast,230,228,245,939,931
+237600,Waikanae West,Capital and Coast,253,250,275,920,909
+237700,?taki Forks,MidCentral,51,49,54,944,907
+237800,Paraparaumu Central,Capital and Coast,436,416,493,884,844
+237900,Maungakotukutuku,Capital and Coast,56,55,60,933,917
+238000,Raumati Beach West,Capital and Coast,235,220,270,870,815
+238100,Waikanae East,Capital and Coast,178,169,202,881,837
+238300,Raumati Beach East,Capital and Coast,194,191,223,870,857
+238400,Paraparaumu East,Capital and Coast,258,253,295,875,858
+238500,Raumati South,Capital and Coast,279,270,318,877,849
+238600,Paek?k?riki,Capital and Coast,211,200,227,930,881
+238800,Pukerua Bay,Capital and Coast,156,156,161,>950,>950
+238900,Paek?k?riki Hill,Capital and Coast,Masked,Masked,Masked,Masked,Masked
+239000,Plimmerton,Capital and Coast,208,207,225,924,920
+239100,Titahi Bay North,Capital and Coast,703,654,833,844,785
+239200,Titahi Bay South,Capital and Coast,926,905,986,939,918
+239300,Elsdon-Takapuwahia,Capital and Coast,996,928,1177,846,788
+239400,P?uatahanui,Capital and Coast,48,48,46,>950,>950
+239500,Onepoto,Capital and Coast,481,442,553,870,799
+239600,Camborne,Capital and Coast,169,161,188,899,856
+239800,Paremata,Capital and Coast,228,214,265,860,808
+239900,Porirua Central,Capital and Coast,69,69,74,932,932
+240000,Papak?whai,Capital and Coast,242,240,246,>950,>950
+240100,Aotea,Capital and Coast,261,241,267,>950,903
+240200,Postgate,Capital and Coast,317,288,342,927,842
+240300,Ascot Park,Capital and Coast,595,586,627,949,935
+240400,Whitby,Capital and Coast,239,237,240,>950,>950
+240500,Porirua East,Capital and Coast,466,454,500,932,908
+240600,Endeavour,Capital and Coast,307,306,304,>950,>950
+240700,Cannons Creek North,Capital and Coast,641,605,700,916,864
+240800,Waitangirua,Capital and Coast,872,799,1094,797,730
+240900,Ranui Heights,Capital and Coast,223,216,228,>950,947
+241000,Cannons Creek East,Capital and Coast,614,590,648,948,910
+241100,Cannons Creek South,Capital and Coast,330,322,347,>950,928
+241200,Akatarawa,Hutt Valley,40,40,42,>950,>950
+241300,Riverstone Terraces,Hutt Valley,116,116,112,>950,>950
+241400,Heretaunga,Hutt Valley,201,192,209,>950,919
+241500,Birchville-Brown Owl,Hutt Valley,342,336,351,>950,>950
+241600,Poets Block,Hutt Valley,246,241,254,>950,949
+241700,Brentwood (Upper Hutt City),Hutt Valley,354,319,400,885,798
+241800,Silverstream (Upper Hutt City),Hutt Valley,239,219,257,930,852
+241900,Elderslea,Hutt Valley,407,399,438,929,911
+242000,Trentham North,Hutt Valley,460,447,474,>950,943
+242100,Totara Park,Hutt Valley,285,281,282,>950,>950
+242200,Trentham South,Hutt Valley,126,113,136,926,831
+242300,Mangaroa,Hutt Valley,120,115,131,916,878
+242400,Ebdentown,Hutt Valley,317,300,353,898,850
+242500,Wallaceville,Hutt Valley,259,254,270,>950,941
+242600,Maoribank,Hutt Valley,510,490,533,>950,919
+242700,Te Marua,Hutt Valley,124,114,140,886,814
+242800,Pinehaven,Hutt Valley,86,86,91,945,945
+242900,Clouston Park,Hutt Valley,244,244,263,928,928
+243000,Upper Hutt Central,Hutt Valley,64,60,62,>950,>950
+243100,Belmont Park,Hutt Valley,Masked,Masked,Masked,Masked,Masked
+243200,Maungaraki,Hutt Valley,223,222,230,>950,>950
+243300,Korokoro,Hutt Valley,91,91,88,>950,>950
+243400,Kelson,Hutt Valley,207,195,215,>950,907
+243500,Normandale,Hutt Valley,127,124,134,948,925
+243600,Belmont (Lower Hutt City),Hutt Valley,211,198,220,>950,900
+243700,Petone Central,Hutt Valley,146,141,146,>950,>950
+243800,Tirohanga,Hutt Valley,60,57,56,>950,>950
+243900,Manor Park,Hutt Valley,56,55,60,933,917
+244000,Alicetown-Melling,Hutt Valley,273,267,277,>950,>950
+244100,Taita North,Hutt Valley,537,493,675,796,730
+244200,Boulcott,Hutt Valley,168,165,184,913,897
+244300,Hutt Central North,Hutt Valley,82,81,95,863,853
+244400,Avalon West,Hutt Valley,211,210,216,>950,>950
+244500,Stokes Valley Central,Hutt Valley,413,376,492,839,764
+244600,Taita South,Hutt Valley,604,555,769,785,722
+244700,Petone East,Hutt Valley,381,369,421,905,876
+244800,Hutt Central South,Hutt Valley,193,186,203,>950,916
+244900,Stokes Valley North,Hutt Valley,424,414,442,>950,937
+245000,Petone Esplanade,Hutt Valley,332,322,343,>950,939
+245100,Epuni West,Hutt Valley,287,280,300,>950,933
+245200,Avalon East,Hutt Valley,328,317,352,932,901
+245300,Woburn,Hutt Valley,105,104,114,921,912
+245400,Naenae Central,Hutt Valley,611,576,661,924,871
+245500,Waterloo West,Hutt Valley,174,169,183,>950,923
+245600,Epuni East,Hutt Valley,335,323,354,946,912
+245700,Gracefield,Hutt Valley,Masked,Masked,Masked,Masked,Masked
+245800,Moera,Hutt Valley,380,358,434,876,825
+245900,Delaney,Hutt Valley,559,540,612,913,882
+246000,Waiwhetu,Hutt Valley,631,613,692,912,886
+246100,Waterloo East,Hutt Valley,243,226,274,887,825
+246200,Naenae North,Hutt Valley,531,487,653,813,746
+246300,Manuka,Hutt Valley,205,202,203,>950,>950
+246400,Naenae South,Hutt Valley,622,566,726,857,780
+246600,Arakura,Hutt Valley,588,574,633,929,907
+246700,Eastern Bays,Hutt Valley,86,80,84,>950,>950
+246800,Pencarrow,Hutt Valley,68,68,75,907,907
+246900,Wainuiomata West,Hutt Valley,612,564,720,850,783
+247000,Glendale,Hutt Valley,1016,991,1091,931,908
+247100,Wainuiomata Central,Hutt Valley,364,340,433,841,785
+247200,Eastbourne,Hutt Valley,114,103,110,>950,936
+247300,Homedale East,Hutt Valley,648,630,673,>950,936
+247400,Homedale West,Hutt Valley,587,543,689,852,788
+247500,M?kara-Ohariu,Capital and Coast,51,51,51,>950,>950
+247600,Tawa North,Capital and Coast,333,296,366,910,809
+247700,Linden,Capital and Coast,370,338,447,828,756
+247800,Tawa South,Capital and Coast,238,222,250,>950,888
+247900,Tawa Central,Capital and Coast,172,169,184,935,918
+248000,Grenada North,Capital and Coast,196,191,195,>950,>950
+248100,Churton Park North,Capital and Coast,129,129,141,915,915
+248200,Takapu-Horokiwi,Capital and Coast,Masked,Masked,Masked,Masked,Masked
+248300,Churton Park South,Capital and Coast,202,193,224,902,862
+248400,Johnsonville West,Capital and Coast,234,218,268,873,813
+248500,Grenada Village,Capital and Coast,100,99,98,>950,>950
+248600,Johnsonville North,Capital and Coast,232,229,236,>950,>950
+248700,Paparangi,Capital and Coast,212,211,220,>950,>950
+248800,Ngaio North,Capital and Coast,125,122,120,>950,>950
+248900,Johnsonville Central,Capital and Coast,256,249,276,928,902
+249000,Broadmeadows,Capital and Coast,94,94,91,>950,>950
+249100,Crofton Downs,Capital and Coast,91,90,85,>950,>950
+249200,Johnsonville South,Capital and Coast,128,124,138,928,899
+249300,Khandallah Reserve,Capital and Coast,64,62,61,>950,>950
+249400,Karori Park,Capital and Coast,203,198,207,>950,>950
+249500,Newlands North,Capital and Coast,318,316,328,>950,>950
+249600,Ngaio South,Capital and Coast,121,119,119,>950,>950
+249700,Newlands South,Capital and Coast,335,332,345,>950,>950
+249800,Woodridge,Capital and Coast,65,63,67,>950,940
+249900,Karori North,Capital and Coast,80,75,77,>950,>950
+250000,Khandallah North,Capital and Coast,103,102,98,>950,>950
+250100,Wilton,Capital and Coast,160,159,153,>950,>950
+250200,Khandallah South,Capital and Coast,64,63,65,>950,>950
+250300,Wadestown,Capital and Coast,192,188,183,>950,>950
+250400,Karori South,Capital and Coast,232,223,239,>950,933
+250500,Onslow,Capital and Coast,104,96,107,>950,897
+250600,Karori East,Capital and Coast,133,122,130,>950,938
+250700,Pipitea-Kaiwharawhara,Capital and Coast,78,78,79,>950,>950
+250800,Northland (Wellington City),Capital and Coast,160,160,155,>950,>950
+250900,Thorndon,Capital and Coast,248,246,249,>950,>950
+251000,Wellington Botanic Gardens,Capital and Coast,50,50,47,>950,>950
+251100,Kelburn,Capital and Coast,101,100,100,>950,>950
+251200,Aro Valley,Capital and Coast,285,282,284,>950,>950
+251300,Wellington University,Capital and Coast,109,109,109,>950,>950
+251400,Wellington Central,Capital and Coast,244,240,251,>950,>950
+251500,Brooklyn North,Capital and Coast,99,96,96,>950,>950
+251600,Dixon Street,Capital and Coast,414,410,419,>950,>950
+251700,Vivian West,Capital and Coast,270,267,270,>950,>950
+251800,Courtenay,Capital and Coast,119,117,117,>950,>950
+251900,Brooklyn East,Capital and Coast,166,158,157,>950,>950
+252000,Mount Cook West,Capital and Coast,332,324,351,946,923
+252100,Vivian East,Capital and Coast,155,155,154,>950,>950
+252200,Brooklyn South,Capital and Coast,115,113,117,>950,>950
+252300,Oriental Bay,Capital and Coast,58,58,58,>950,>950
+252400,Mount Cook East,Capital and Coast,249,247,247,>950,>950
+252500,Mount Victoria,Capital and Coast,259,258,252,>950,>950
+252600,Roseneath,Capital and Coast,74,74,72,>950,>950
+252700,?whiro Bay,Capital and Coast,198,196,200,>950,>950
+252800,Kingston-Mornington-Vogeltown,Capital and Coast,188,187,185,>950,>950
+252900,Newtown North,Capital and Coast,180,171,194,928,881
+253000,Newtown West,Capital and Coast,260,259,256,>950,>950
+253100,Hataitai North,Capital and Coast,224,222,214,>950,>950
+253200,Evans Bay,Capital and Coast,75,75,76,>950,>950
+253300,Berhampore,Capital and Coast,320,307,355,901,865
+253400,Hataitai South,Capital and Coast,91,91,94,>950,>950
+253500,Maupuia,Capital and Coast,111,104,122,910,852
+253600,Newtown South,Capital and Coast,298,295,307,>950,>950
+253700,Kilbirnie Central,Capital and Coast,256,245,264,>950,928
+253800,Island Bay West,Capital and Coast,256,255,261,>950,>950
+253900,Melrose,Capital and Coast,84,79,92,913,859
+254000,Island Bay East,Capital and Coast,287,273,314,914,869
+254100,Miramar North,Capital and Coast,117,106,135,867,785
+254200,Kilbirnie East,Capital and Coast,190,187,195,>950,>950
+254300,Lyall Bay,Capital and Coast,281,265,277,>950,>950
+254400,Miramar Central,Capital and Coast,140,138,151,927,914
+254500,Southgate,Capital and Coast,102,92,100,>950,920
+254600,Karaka Bay-Worser Bay,Capital and Coast,71,64,70,>950,914
+254700,Houghton Bay,Capital and Coast,118,109,131,901,832
+254800,Miramar East,Capital and Coast,133,133,137,>950,>950
+254900,Miramar South,Capital and Coast,273,254,300,910,847
+255000,Rongotai,Capital and Coast,Masked,Masked,Masked,Masked,Masked
+255100,Strathmore (Wellington City),Capital and Coast,521,476,574,908,829
+255200,Seatoun,Capital and Coast,119,114,129,922,884
+255300,Kopuaranga,Wairarapa,72,70,80,900,875
+255400,Upper Plain,Wairarapa,130,118,143,909,825
+255500,Opaki,Wairarapa,69,69,65,>950,>950
+255600,Ngaumutawa,Wairarapa,223,207,264,845,784
+255700,Solway North,Wairarapa,386,355,452,854,785
+255800,Lansdowne West,Wairarapa,262,243,312,840,779
+255900,Masterton Central,Wairarapa,126,122,168,750,726
+256000,Kuripuni,Wairarapa,218,202,247,883,818
+256100,Douglas Park,Wairarapa,267,245,319,837,768
+256200,Solway South,Wairarapa,672,651,706,>950,922
+256300,Lansdowne East,Wairarapa,498,456,572,871,797
+256400,Cameron and Soldiers Park,Wairarapa,364,348,392,929,888
+256500,Whareama,Wairarapa,144,138,147,>950,939
+256600,Homebush-Te Ore Ore,Wairarapa,116,112,131,885,855
+256700,McJorrow Park,Wairarapa,622,567,800,778,709
+256800,Mount Holdsworth,Wairarapa,127,110,148,858,743
+256900,Carterton North,Wairarapa,278,256,311,894,823
+257000,Kokotau,Wairarapa,86,84,85,>950,>950
+257100,Carterton South,Wairarapa,304,295,318,>950,928
+257200,Gladstone (Carterton District),Wairarapa,64,62,70,914,886
+257300,Tauherenikau,Wairarapa,103,99,117,880,846
+257400,Kahutara,Wairarapa,97,91,93,>950,>950
+257500,Featherston,Wairarapa,393,363,483,814,752
+257700,Greytown,Wairarapa,157,147,179,877,821
+257800,Aorangi Forest,Wairarapa,172,168,176,>950,>950
+257900,Martinborough,Wairarapa,214,203,226,947,898
+300300,Golden Bay/Mohua,Nelson Marlborough,82,79,121,678,653
+300500,Takaka,Nelson Marlborough,63,61,82,768,744
+300600,P?hara-Abel Tasman,Nelson Marlborough,58,56,83,699,675
+300700,Takaka Hills,Nelson Marlborough,70,69,90,778,767
+300800,Kaiteriteri-Riwaka,Nelson Marlborough,100,93,142,704,655
+300900,Upper Moutere,Nelson Marlborough,61,58,85,718,682
+301000,Lower Moutere,Nelson Marlborough,76,71,103,738,689
+301100,Motueka North,Nelson Marlborough,219,211,250,876,844
+301200,Motueka West,Nelson Marlborough,293,266,393,746,677
+301300,Motueka East,Nelson Marlborough,214,201,287,746,700
+301500,Golden Downs,Nelson Marlborough,122,118,143,853,825
+301600,Moutere Hills,Nelson Marlborough,113,102,140,807,729
+301700,Ruby Bay-M?pua,Nelson Marlborough,110,107,126,873,849
+301800,Murchison-Nelson Lakes,Nelson Marlborough,61,58,75,813,773
+302100,Waimea West,Nelson Marlborough,49,49,49,>950,>950
+302200,Appleby,Nelson Marlborough,61,56,71,859,789
+302300,Wakefield,Nelson Marlborough,106,98,146,726,671
+302400,Richmond West (Tasman District),Nelson Marlborough,87,86,91,>950,945
+302500,Wakefield Rural,Nelson Marlborough,48,47,52,923,904
+302600,Brightwater,Nelson Marlborough,111,109,118,941,924
+302700,Hope,Nelson Marlborough,37,36,47,787,766
+302800,Richmond Central (Tasman District),Nelson Marlborough,123,116,155,794,748
+302900,Ben Cooper Park,Nelson Marlborough,144,139,143,>950,>950
+303000,Richmond South (Tasman District),Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+303100,Wilkes Park,Nelson Marlborough,110,107,113,>950,947
+303200,Templemore,Nelson Marlborough,63,62,66,>950,939
+303300,Easby Park,Nelson Marlborough,149,134,190,784,705
+303400,Fairose,Nelson Marlborough,42,39,48,875,812
+303500,Aniseed Valley,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+303600,Nelson Rural,Nelson Marlborough,90,83,131,687,634
+303800,Marybank,Nelson Marlborough,41,39,46,891,848
+303900,Port Nelson,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+304000,Nelson Airport,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+304100,T?hunanui,Nelson Marlborough,249,232,283,880,820
+304200,Britannia,Nelson Marlborough,118,112,141,837,794
+304300,Atawhai,Nelson Marlborough,172,152,182,945,835
+304400,Broadgreen-Monaco,Nelson Marlborough,198,179,241,822,743
+304500,Washington,Nelson Marlborough,268,254,285,940,891
+304600,Tahuna Hills,Nelson Marlborough,202,185,239,845,774
+304700,Nelson Central-Trafalgar,Nelson Marlborough,64,57,84,762,679
+304800,The Wood,Nelson Marlborough,174,167,188,926,888
+304900,Toi Toi,Nelson Marlborough,129,125,146,884,856
+305000,Nayland,Nelson Marlborough,142,128,169,840,757
+305100,Aldinga,Nelson Marlborough,184,178,193,>950,922
+305200,Victory,Nelson Marlborough,172,164,203,847,808
+305300,Rutherford,Nelson Marlborough,142,138,153,928,902
+305400,Maitlands,Nelson Marlborough,156,145,194,804,747
+305500,Maitai,Nelson Marlborough,79,69,89,888,775
+305600,Grampians,Nelson Marlborough,292,268,347,841,772
+305700,Saxton,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+305800,Suffolk,Nelson Marlborough,146,146,163,896,896
+305900,Omaio,Nelson Marlborough,275,266,315,873,844
+306000,Enner Glynn,Nelson Marlborough,197,190,204,>950,931
+306100,Daelyn,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+306200,The Brook,Nelson Marlborough,96,83,117,821,709
+306300,Marlborough Sounds West,Nelson Marlborough,139,133,156,891,853
+306500,Marlborough Sounds East,Nelson Marlborough,120,111,134,896,828
+306600,Upper Wairau,Nelson Marlborough,91,85,105,867,810
+306700,Waikawa (Marlborough District),Nelson Marlborough,185,183,205,902,893
+306800,Waitohi (Marlborough District),Nelson Marlborough,417,402,446,935,901
+306900,Tuamarina,Nelson Marlborough,94,92,104,904,885
+307000,Awatere,Nelson Marlborough,142,125,173,821,723
+307100,Renwick,Nelson Marlborough,185,171,217,853,788
+307200,Lower Wairau,Nelson Marlborough,73,72,75,>950,>950
+307300,Woodbourne,Nelson Marlborough,178,163,202,881,807
+307400,Spring Creek-Grovetown,Nelson Marlborough,113,107,116,>950,922
+307500,Springlands,Nelson Marlborough,263,258,279,943,925
+307600,Yelverton,Nelson Marlborough,177,172,189,937,910
+307700,Mayfield,Nelson Marlborough,193,188,226,854,832
+307800,Whitney West,Nelson Marlborough,267,244,315,848,775
+307900,Blenheim Central,Nelson Marlborough,177,167,225,787,742
+308000,Riversdale-Islington,Nelson Marlborough,315,292,396,795,737
+308100,Whitney East,Nelson Marlborough,221,208,267,828,779
+308200,Redwoodtown West,Nelson Marlborough,223,199,273,817,729
+308300,Witherlea West,Nelson Marlborough,167,163,166,>950,>950
+308400,Redwoodtown East,Nelson Marlborough,220,200,285,772,702
+308500,Riverlands,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+308600,Witherlea East,Nelson Marlborough,200,186,235,851,791
+308800,Kaik?ura Ranges,Canterbury,205,185,239,858,774
+308900,Kaik?ura,Canterbury,268,267,310,865,861
+309000,Karamea,West Coast,38,37,57,667,649
+309100,Inlets Buller District,West Coast,Masked,Masked,Masked,Masked,Masked
+309200,Westport North,West Coast,163,155,178,916,871
+309300,Westport Rural,West Coast,81,77,89,910,865
+309400,Westport South,West Coast,190,185,207,918,894
+309500,Buller Coalfields,West Coast,73,69,95,768,726
+309600,Charleston (Buller District),West Coast,32,32,40,800,800
+309700,Inangahua,West Coast,44,42,48,917,875
+309800,Reefton,West Coast,71,69,88,807,784
+309900,Barrytown,West Coast,71,70,81,877,864
+310000,Runanga,West Coast,83,79,96,865,823
+310100,Cobden,West Coast,164,159,187,877,850
+310200,Blaketown,West Coast,75,71,84,893,845
+310300,Greymouth Central,West Coast,53,51,62,855,823
+310400,King Park,West Coast,63,61,72,875,847
+310500,Marsden,West Coast,124,110,137,905,803
+310600,Karoro,West Coast,49,48,50,>950,>950
+310700,Rutherglen-Camerons,West Coast,80,77,83,>950,928
+310800,Greymouth Rural,West Coast,53,46,76,697,605
+310900,Dobson,West Coast,63,61,74,851,824
+311000,Nelson Creek,West Coast,55,55,68,809,809
+311100,Lake Brunner,West Coast,Masked,Masked,Masked,Masked,Masked
+311200,Haast,West Coast,Masked,Masked,Masked,Masked,Masked
+311300,Westland Glaciers-Bruce Bay,West Coast,41,41,55,745,745
+311400,Arahura-Kumara,West Coast,121,114,160,756,712
+311500,Hokitika,West Coast,415,411,440,943,934
+311700,Hokitika Rural,West Coast,112,110,122,918,902
+311800,Waitaha,West Coast,39,35,52,750,673
+311900,Whataroa-Harihari,West Coast,45,44,43,>950,>950
+312000,Hokitika Valley-Otira,West Coast,Masked,Masked,Masked,Masked,Masked
+312100,Hanmer Range,Canterbury,Masked,Masked,Masked,Masked,Masked
+312200,Amuri,Canterbury,136,120,175,777,686
+312300,Hanmer Springs,Canterbury,40,39,47,851,830
+312400,Upper Hurunui,Canterbury,75,72,89,843,809
+312500,Parnassus,Canterbury,86,82,101,851,812
+312600,Ashley Forest,Canterbury,41,41,43,>950,>950
+312700,Omihi,Canterbury,51,51,62,823,823
+312800,Balcairn,Canterbury,101,99,106,>950,934
+312900,Amberley,Canterbury,105,95,118,890,805
+313000,Okuku,Canterbury,Masked,Masked,Masked,Masked,Masked
+313100,Ashley Gorge,Canterbury,45,42,63,714,667
+313200,Oxford,Canterbury,86,79,115,748,687
+313300,Starvation Hill-Cust,Canterbury,60,59,80,750,738
+313400,Loburn,Canterbury,67,65,86,779,756
+313500,Eyrewell,Canterbury,93,87,110,845,791
+313600,West Eyreton,Canterbury,65,58,67,>950,866
+313700,Ashley-Sefton,Canterbury,112,105,139,806,755
+313800,Fernside,Canterbury,67,67,75,893,893
+313900,Rangiora North West,Canterbury,74,73,83,892,880
+314000,Kingsbury,Canterbury,99,88,116,853,759
+314100,Ashgrove,Canterbury,82,80,94,872,851
+314200,Rangiora North East,Canterbury,111,108,136,816,794
+314300,Oxford Estate,Canterbury,55,55,58,948,948
+314400,Rangiora Central,Canterbury,Masked,Masked,Masked,Masked,Masked
+314500,Rangiora South West,Canterbury,115,109,143,804,762
+314600,Lilybrook,Canterbury,205,202,224,915,902
+314700,Waikuku,Canterbury,148,144,166,892,867
+314800,Mandeville-Ohoka,Canterbury,127,127,125,>950,>950
+314900,Rangiora South East,Canterbury,124,119,144,861,826
+315000,Southbrook,Canterbury,44,41,51,863,804
+315100,Swannanoa-Eyreton,Canterbury,Masked,Masked,Masked,Masked,Masked
+315200,Tuahiwi,Canterbury,152,148,158,>950,937
+315300,Woodend,Canterbury,212,209,223,>950,937
+315400,Pegasus,Canterbury,159,156,161,>950,>950
+315500,Clarkville,Canterbury,69,67,75,920,893
+315600,Pegasus Bay,Canterbury,110,105,141,780,745
+315700,Kaiapoi North West,Canterbury,212,202,267,794,757
+315800,Silverstream (Waimakariri District),Canterbury,71,63,80,888,788
+315900,Sovereign Palms,Canterbury,263,259,275,>950,942
+316000,Kaiapoi West,Canterbury,122,121,134,910,903
+316100,Kaiapoi Central,Canterbury,205,203,219,936,927
+316200,Kaiapoi South,Canterbury,135,125,155,871,806
+316300,Kaiapoi East,Canterbury,Masked,Masked,Masked,Masked,Masked
+316400,McLeans Island,Canterbury,Masked,Masked,Masked,Masked,Masked
+316500,Paparua,Canterbury,55,52,60,917,867
+316600,Yaldhurst,Canterbury,86,84,87,>950,>950
+316700,Christchurch Airport,Canterbury,Masked,Masked,Masked,Masked,Masked
+316800,Clearwater,Canterbury,Masked,Masked,Masked,Masked,Masked
+316900,Belfast West,Canterbury,111,110,113,>950,>950
+317000,Harewood,Canterbury,42,42,40,>950,>950
+317100,Brooklands-Spencerville,Canterbury,69,66,68,>950,>950
+317200,Styx,Canterbury,83,77,90,922,856
+317300,Belfast East,Canterbury,223,219,225,>950,>950
+317400,Northwood,Canterbury,104,103,106,>950,>950
+317500,Russley,Canterbury,37,33,46,804,717
+317600,Regents Park,Canterbury,45,42,46,>950,913
+317700,Hawthornden,Canterbury,153,132,158,>950,835
+317800,Bishopdale North,Canterbury,270,267,289,934,924
+317900,Casebrook,Canterbury,302,287,341,886,842
+318000,Bishopdale West,Canterbury,203,179,232,875,772
+318100,Templeton,Canterbury,196,178,214,916,832
+318200,Islington,Canterbury,127,119,141,901,844
+318300,Burnside Park,Canterbury,133,133,132,>950,>950
+318400,Marshland,Canterbury,59,56,79,747,709
+318500,Avonhead North,Canterbury,49,49,51,>950,>950
+318600,Redwood North,Canterbury,198,183,220,900,832
+318700,Broomfield,Canterbury,281,254,344,817,738
+318800,Redwood West,Canterbury,204,192,233,876,824
+318900,Avonhead West,Canterbury,43,43,47,915,915
+319000,Bishopdale South,Canterbury,150,135,156,>950,865
+319100,Islington-Hornby Industrial,Canterbury,Masked,Masked,Masked,Masked,Masked
+319200,Burnside,Canterbury,204,186,247,826,753
+319300,Hei Hei,Canterbury,333,324,348,>950,931
+319400,Papanui North,Canterbury,194,184,229,847,803
+319500,Avonhead East,Canterbury,114,111,116,>950,>950
+319600,Redwood East,Canterbury,265,253,299,886,846
+319700,Avonhead South,Canterbury,141,131,149,946,879
+319800,Riccarton Racecourse,Canterbury,97,92,111,874,829
+319900,Bryndwr North,Canterbury,300,277,391,767,708
+320000,Northlands (Christchurch City),Canterbury,Masked,Masked,Masked,Masked,Masked
+320100,Papanui West,Canterbury,178,168,195,913,862
+320200,Ilam North,Canterbury,123,121,130,946,931
+320300,Hornby West,Canterbury,293,280,318,921,881
+320400,Hornby Central,Canterbury,Masked,Masked,Masked,Masked,Masked
+320500,Northcote (Christchurch City),Canterbury,190,176,210,905,838
+320600,Jellie Park,Canterbury,135,127,139,>950,914
+320700,Ilam South,Canterbury,135,131,144,938,910
+320800,Bryndwr South,Canterbury,196,179,253,775,708
+320900,Papanui East,Canterbury,84,80,95,884,842
+321000,Sockburn North,Canterbury,180,171,210,857,814
+321100,Hornby South,Canterbury,404,393,412,>950,>950
+321200,Ilam University,Canterbury,179,178,179,>950,>950
+321300,Prestons,Canterbury,219,194,238,920,815
+321400,Strowan,Canterbury,157,151,177,887,853
+321500,Fendalton,Canterbury,69,69,64,>950,>950
+321600,Waitikiri,Canterbury,189,167,201,940,831
+321700,Mairehau North,Canterbury,225,212,264,852,803
+321800,Bush Inn,Canterbury,145,142,160,906,888
+321900,Awatea North,Canterbury,145,143,144,>950,>950
+322000,Upper Riccarton,Canterbury,144,137,162,889,846
+322100,Malvern,Canterbury,126,123,127,>950,>950
+322200,Rutland,Canterbury,120,111,119,>950,933
+322300,Sockburn South,Canterbury,44,42,52,846,808
+322400,Deans Bush,Canterbury,80,76,82,>950,927
+322500,Wigram North,Canterbury,Masked,Masked,Masked,Masked,Masked
+322600,Holmwood,Canterbury,63,60,60,>950,>950
+322700,Wharenui,Canterbury,167,164,206,811,796
+322800,Wigram West,Canterbury,42,41,50,840,820
+322900,Awatea South,Canterbury,44,42,56,786,750
+323000,Merivale,Canterbury,96,94,100,>950,940
+323100,Mairehau South,Canterbury,250,247,270,926,915
+323200,Mona Vale,Canterbury,73,68,75,>950,907
+323300,Riccarton West,Canterbury,242,233,253,>950,921
+323400,Shirley West,Canterbury,420,381,533,788,715
+323500,Middleton,Canterbury,Masked,Masked,Masked,Masked,Masked
+323600,Wigram South,Canterbury,Masked,Masked,Masked,Masked,Masked
+323700,Queenspark,Canterbury,277,270,299,926,903
+323800,St Albans North,Canterbury,132,123,149,886,826
+323900,St Albans West,Canterbury,132,130,128,>950,>950
+324000,Travis Wetlands,Canterbury,150,148,162,926,914
+324100,Wigram East,Canterbury,Masked,Masked,Masked,Masked,Masked
+324200,Riccarton Central,Canterbury,Masked,Masked,Masked,Masked,Masked
+324300,Oaklands West,Canterbury,140,129,151,927,854
+324400,Riccarton South,Canterbury,166,157,191,869,822
+324500,Halswell West,Canterbury,170,165,193,881,855
+324600,Shirley East,Canterbury,206,192,236,873,814
+324700,Broken Run,Canterbury,Masked,Masked,Masked,Masked,Masked
+324800,St Albans East,Canterbury,207,199,235,881,847
+324900,Hagley Park,Canterbury,Masked,Masked,Masked,Masked,Masked
+325000,Hillmorton,Canterbury,185,185,182,>950,>950
+325100,Parklands,Canterbury,419,409,431,>950,949
+325200,Riccarton East,Canterbury,52,51,54,>950,944
+325300,Edgeware,Canterbury,272,267,295,922,905
+325400,Aidanfield,Canterbury,100,97,112,893,866
+325500,Tower Junction,Canterbury,Masked,Masked,Masked,Masked,Masked
+325600,Burwood,Canterbury,333,329,357,933,922
+325700,Christchurch Central-West,Canterbury,98,94,113,867,832
+325800,Christchurch Central-North,Canterbury,181,179,196,923,913
+325900,Richmond North (Christchurch City),Canterbury,194,177,233,833,760
+326000,Waimairi Beach,Canterbury,73,70,70,>950,>950
+326100,Addington West,Canterbury,185,180,202,916,891
+326200,?takaro-Avon River Corridor,Canterbury,Masked,Masked,Masked,Masked,Masked
+326300,Oaklands East,Canterbury,225,207,257,875,805
+326400,Addington North,Canterbury,Masked,Masked,Masked,Masked,Masked
+326500,Dallington,Canterbury,239,219,277,863,791
+326600,Christchurch Central,Canterbury,Masked,Masked,Masked,Masked,Masked
+326700,Hoon Hay West,Canterbury,416,379,490,849,773
+326800,Richmond South (Christchurch City),Canterbury,194,191,211,919,905
+326900,Spreydon West,Canterbury,254,250,274,927,912
+327000,Christchurch Central-East,Canterbury,207,204,207,>950,>950
+327100,Christchurch Central-South,Canterbury,68,68,66,>950,>950
+327200,North Beach,Canterbury,432,424,458,943,926
+327300,Halswell North,Canterbury,81,81,77,>950,>950
+327400,Addington East,Canterbury,257,241,285,902,846
+327500,Avondale (Christchurch City),Canterbury,252,248,268,940,925
+327600,Spreydon North,Canterbury,319,315,345,925,913
+327700,Hoon Hay East,Canterbury,216,201,249,867,807
+327800,Avonside,Canterbury,216,204,236,915,864
+327900,Linwood West,Canterbury,477,439,596,800,737
+328000,Halswell South,Canterbury,126,118,136,926,868
+328100,Sydenham Central,Canterbury,Masked,Masked,Masked,Masked,Masked
+328200,Spreydon South,Canterbury,161,158,167,>950,946
+328300,Rawhiti,Canterbury,296,290,318,931,912
+328400,Wainoni,Canterbury,386,379,424,910,894
+328500,Linwood North,Canterbury,357,342,397,899,861
+328600,Aranui,Canterbury,941,866,1219,772,710
+328700,Sydenham West,Canterbury,86,85,96,896,885
+328800,Lancaster Park,Canterbury,39,34,44,886,773
+328900,Phillipstown,Canterbury,469,456,482,>950,946
+329000,Kennedys Bush,Canterbury,31,31,40,775,775
+329100,Somerfield East,Canterbury,210,192,225,933,853
+329200,Somerfield West,Canterbury,154,147,163,945,902
+329300,Linwood East,Canterbury,320,296,386,829,767
+329400,Sydenham North,Canterbury,176,167,204,863,819
+329500,Hoon Hay South,Canterbury,108,96,111,>950,865
+329600,Charleston (Christchurch City),Canterbury,165,148,197,838,751
+329700,Sydenham South,Canterbury,163,154,191,853,806
+329800,Bexley,Canterbury,418,407,484,864,841
+329900,Waltham,Canterbury,152,148,163,933,908
+330000,Westmorland,Canterbury,103,100,107,>950,935
+330100,Woolston North,Canterbury,422,393,509,829,772
+330200,New Brighton,Canterbury,332,315,395,841,797
+330300,Cashmere West,Canterbury,122,113,122,>950,926
+330400,Bromley South,Canterbury,406,369,477,851,774
+330500,Ensors,Canterbury,214,204,249,859,819
+330600,Beckenham,Canterbury,87,86,85,>950,>950
+330700,Bromley North,Canterbury,Masked,Masked,Masked,Masked,Masked
+330800,St Martins,Canterbury,150,141,183,820,770
+330900,Opawa,Canterbury,73,68,87,839,782
+331000,Woolston West,Canterbury,151,146,160,944,912
+331100,Woolston East,Canterbury,303,290,321,944,903
+331200,Huntsbury,Canterbury,89,88,86,>950,>950
+331300,Cashmere East,Canterbury,102,102,108,944,944
+331400,Hillsborough (Christchurch City),Canterbury,146,144,145,>950,>950
+331500,Woolston South,Canterbury,46,45,45,>950,>950
+331600,Port Hills,Canterbury,Masked,Masked,Masked,Masked,Masked
+331700,South New Brighton,Canterbury,318,286,395,805,724
+331800,Brookhaven-Ferrymead,Canterbury,103,93,114,904,816
+331900,Heathcote Valley,Canterbury,114,113,116,>950,>950
+332000,Mount Pleasant,Canterbury,126,116,128,>950,906
+332100,Redcliffs,Canterbury,81,81,85,>950,>950
+332200,Governors Bay,Canterbury,Masked,Masked,Masked,Masked,Masked
+332400,Clifton Hill,Canterbury,44,44,46,>950,>950
+332500,Lyttelton,Canterbury,258,256,260,>950,>950
+332700,Sumner,Canterbury,119,118,118,>950,>950
+332800,Teddington,Canterbury,Masked,Masked,Masked,Masked,Masked
+332900,Diamond Harbour,Canterbury,49,47,52,942,904
+333100,Banks Peninsula South,Canterbury,67,67,74,905,905
+333200,Eastern Bays-Banks Peninsula,Canterbury,60,57,66,909,864
+333300,Akaroa Harbour,Canterbury,42,42,46,913,913
+333500,Akaroa,Canterbury,36,34,49,735,694
+333600,Craigieburn,Canterbury,Masked,Masked,Masked,Masked,Masked
+333700,Torlesse,Canterbury,84,76,101,832,752
+333800,Glenroy-Hororata,Canterbury,46,46,47,>950,>950
+333900,Glentunnel,Canterbury,39,38,41,>950,927
+334000,Darfield,Canterbury,135,125,146,925,856
+334100,Kirwee,Canterbury,43,39,47,915,830
+334200,Bankside,Canterbury,56,56,64,875,875
+334300,Charing Cross,Canterbury,51,50,44,>950,>950
+334400,Halkett,Canterbury,46,46,47,>950,>950
+334500,Newtons Road,Canterbury,180,170,203,887,837
+334600,West Melton,Canterbury,89,88,78,>950,>950
+334700,Burnham Camp,Canterbury,122,110,107,>950,>950
+334800,Rolleston Izone,Canterbury,Masked,Masked,Masked,Masked,Masked
+334900,Rolleston North West,Canterbury,270,252,296,912,851
+335000,Springston,Canterbury,112,104,125,896,832
+335100,Rolleston Central,Canterbury,215,212,201,>950,>950
+335200,Rolleston North East,Canterbury,322,298,344,936,866
+335300,Rolleston South West,Canterbury,256,254,240,>950,>950
+335400,Southbridge,Canterbury,144,140,156,923,897
+335500,Rolleston South East,Canterbury,488,447,502,>950,890
+335600,Trents,Canterbury,91,86,113,805,761
+335700,Prebbleton,Canterbury,138,137,130,>950,>950
+335800,Irwell,Canterbury,78,75,80,>950,938
+335900,Ladbrooks,Canterbury,71,71,68,>950,>950
+336000,Lincoln West,Canterbury,164,159,168,>950,946
+336100,Lincoln East,Canterbury,199,183,204,>950,897
+336200,Leeston,Canterbury,145,142,148,>950,>950
+336300,Tai Tapu,Canterbury,68,66,69,>950,>950
+336400,Motukarara,Canterbury,Masked,Masked,Masked,Masked,Masked
+336600,Ashburton Lakes,Canterbury,Masked,Masked,Masked,Masked,Masked
+336700,Cairnbrae,Canterbury,44,42,48,917,875
+336800,Ashburton Forks,Canterbury,67,53,84,798,631
+336900,Methven,Canterbury,85,83,86,>950,>950
+337000,Ealing-Lowcliffe,Canterbury,66,60,78,846,769
+337100,Eiffelton,Canterbury,80,78,83,>950,940
+337200,Chertsey,Canterbury,88,87,84,>950,>950
+337300,Winchmore-Wakanui,Canterbury,48,45,54,889,833
+337400,Allenton North,Canterbury,108,93,122,885,762
+337500,Allenton South,Canterbury,132,119,156,846,763
+337600,Rakaia,Canterbury,97,96,106,915,906
+337700,Ashburton North,Canterbury,42,39,45,933,867
+337800,Allenton East,Canterbury,88,85,95,926,895
+337900,Tinwald North,Canterbury,62,59,71,873,831
+338000,Ashburton Central,Canterbury,Masked,Masked,Masked,Masked,Masked
+338100,Ashburton West,Canterbury,42,41,41,>950,>950
+338200,Tinwald South,Canterbury,145,136,172,843,791
+338300,Ashburton East,Canterbury,86,80,94,915,851
+338400,Netherby,Canterbury,171,164,197,868,832
+338500,Hampstead,Canterbury,215,212,213,>950,>950
+338600,Ben McLeod,South Canterbury,Masked,Masked,Masked,Masked,Masked
+338700,Arundel,South Canterbury,Masked,Masked,Masked,Masked,Masked
+338800,Levels Valley,South Canterbury,43,38,52,827,731
+338900,Geraldine,South Canterbury,132,131,137,>950,>950
+339000,Rangitata,South Canterbury,50,50,58,862,862
+339100,Waitohi (Timaru District),South Canterbury,100,98,110,909,891
+339200,Pleasant Point,South Canterbury,91,89,114,798,781
+339300,Temuka West,South Canterbury,177,173,200,885,865
+339400,Hadlow,South Canterbury,54,46,59,915,780
+339500,Levels,South Canterbury,79,77,95,832,811
+339600,Temuka East,South Canterbury,203,194,211,>950,919
+339700,Gleniti North,South Canterbury,55,39,51,>950,765
+339800,Washdyke,South Canterbury,78,76,84,929,905
+339900,Fairview,South Canterbury,83,77,107,776,720
+340000,Gleniti South,South Canterbury,61,61,65,938,938
+340100,Glenwood,South Canterbury,126,116,123,>950,943
+340200,Marchwiel West,South Canterbury,90,84,126,714,667
+340300,Marchwiel East,South Canterbury,135,125,186,726,672
+340400,Highfield North,South Canterbury,89,87,105,848,829
+340500,Highfield South,South Canterbury,68,65,66,>950,>950
+340600,Waimataitai-Maori Hill,South Canterbury,125,121,146,856,829
+340700,Fraser Park,South Canterbury,168,151,206,816,733
+340800,Seaview,South Canterbury,165,152,200,825,760
+341000,Watlington,South Canterbury,185,179,193,>950,927
+341100,Timaru Central,South Canterbury,53,50,53,>950,943
+341200,Timaru East,South Canterbury,Masked,Masked,Masked,Masked,Masked
+341300,Parkside,South Canterbury,192,170,228,842,746
+341400,Kensington (Timaru District),South Canterbury,126,108,144,875,750
+341500,Mackenzie Lakes,South Canterbury,Masked,Masked,Masked,Masked,Masked
+341800,Twizel,South Canterbury,90,84,105,857,800
+341900,Opua (Mackenzie District),South Canterbury,33,32,44,750,727
+342000,Fairlie,South Canterbury,46,44,48,>950,917
+342100,Hakataramea,South Canterbury,Masked,Masked,Masked,Masked,Masked
+342200,Maungati,South Canterbury,Masked,Masked,Masked,Masked,Masked
+342300,Lyalldale,South Canterbury,Masked,Masked,Masked,Masked,Masked
+342400,Makikihi-Willowbridge,South Canterbury,41,35,57,719,614
+342500,Waimate North,South Canterbury,Masked,Masked,Masked,Masked,Masked
+342600,Morven-Glenavy-Ikawai,South Canterbury,50,45,61,820,738
+342700,Waimate West,South Canterbury,59,55,78,756,705
+342800,Waimate East,South Canterbury,86,83,86,>950,>950
+343000,Chatham Islands,Canterbury,149,145,159,937,912
+343100,Aviemore,Southern,Masked,Masked,Masked,Masked,Masked
+343300,Danseys Pass,Southern,61,57,68,897,838
+343400,Ngapara,Southern,73,65,82,890,793
+343500,Lower Waitaki,Southern,37,35,45,822,778
+343600,Waihemo,Southern,82,81,88,932,920
+343700,Maheno,Southern,78,74,109,716,679
+343800,Weston,Southern,45,45,45,>950,>950
+343900,Oamaru North Milner Park,Southern,143,137,184,777,745
+344000,Oamaru North Orana Park,Southern,165,164,178,927,921
+344100,Oamaru Gardens,Southern,49,48,57,860,842
+344200,Glen Warren,Southern,94,89,121,777,736
+344300,Holmes Hill,Southern,57,55,57,>950,>950
+344400,Oamaru Central,Southern,Masked,Masked,Masked,Masked,Masked
+344500,South Hill,Southern,146,142,177,825,802
+344700,Palmerston,Southern,76,69,105,724,657
+344800,Lindis-Nevis Valleys,Southern,110,101,121,909,835
+344900,Cromwell West,Southern,213,197,248,859,794
+345000,Cromwell East,Southern,151,136,182,830,747
+345100,Manuherikia-Ida Valleys,Southern,54,50,60,900,833
+345200,Earnscleugh,Southern,42,40,40,>950,>950
+345300,Dunstan-Galloway,Southern,84,81,87,>950,931
+345400,Clyde,Southern,50,50,49,>950,>950
+345500,Alexandra North,Southern,225,221,242,930,913
+345600,Alexandra South,Southern,138,133,146,945,911
+345700,Maniototo,Southern,129,122,147,878,830
+345800,Teviot Valley,Southern,115,110,174,661,632
+345900,Outer Wanaka,Southern,Masked,Masked,Masked,Masked,Masked
+346000,Glenorchy,Southern,Masked,Masked,Masked,Masked,Masked
+346200,Outer Wakatipu,Southern,Masked,Masked,Masked,Masked,Masked
+346400,Cardrona,Southern,Masked,Masked,Masked,Masked,Masked
+346600,Wanaka Waterfront,Southern,51,51,59,864,864
+346700,Wanaka North,Southern,124,124,117,>950,>950
+346800,Wanaka West,Southern,33,33,41,805,805
+346900,Albert Town,Southern,79,79,80,>950,>950
+347000,Wanaka Central,Southern,37,37,40,925,925
+347100,Lake Hawea,Southern,73,67,94,777,713
+347200,Upper Clutha Valley,Southern,53,49,64,828,766
+347300,Kingston,Southern,Masked,Masked,Masked,Masked,Masked
+347400,Arthurs Point,Southern,44,41,45,>950,911
+347500,Wakatipu Basin,Southern,58,56,61,>950,918
+347600,Queenstown Hill,Southern,Masked,Masked,Masked,Masked,Masked
+347700,Warren Park,Southern,39,38,45,867,844
+347800,Sunshine Bay-Fernhill,Southern,117,113,134,873,843
+347900,Arrowtown,Southern,108,101,122,885,828
+348000,Quail Rise,Southern,Masked,Masked,Masked,Masked,Masked
+348100,Queenstown Central,Southern,Masked,Masked,Masked,Masked,Masked
+348200,Queenstown East,Southern,Masked,Masked,Masked,Masked,Masked
+348300,Frankton Arm,Southern,69,64,79,873,810
+348400,Frankton,Southern,109,105,117,932,897
+348500,Lake Hayes,Southern,Masked,Masked,Masked,Masked,Masked
+348600,Kelvin Heights,Southern,39,32,43,907,744
+348700,Shotover Country,Southern,146,141,150,>950,940
+348800,Lake Hayes Estate,Southern,122,113,130,938,869
+348900,Jacks Point,Southern,61,60,61,>950,>950
+349000,Strath Taieri,Southern,Masked,Masked,Masked,Masked,Masked
+349100,Bucklands Crossing,Southern,114,111,128,891,867
+349200,Waikouaiti,Southern,86,81,105,819,771
+349300,Momona,Southern,100,99,105,>950,943
+349400,Taieri,Southern,63,59,72,875,819
+349600,Mount Cargill,Southern,103,99,105,>950,943
+349700,Bush Road,Southern,107,103,126,849,817
+349800,Mosgiel East,Southern,132,127,145,910,876
+349900,Mosgiel Central,Southern,98,96,96,>950,>950
+350000,Seddon Park,Southern,183,166,213,859,779
+350100,Wingatui,Southern,55,53,54,>950,>950
+350200,Saddle Hill-Chain Hills,Southern,47,46,45,>950,>950
+350300,East Taieri,Southern,102,99,92,>950,>950
+350400,Halfway Bush,Southern,113,108,136,831,794
+350500,Helensburgh,Southern,60,55,65,923,846
+350600,Glenleith,Southern,58,55,59,>950,932
+350700,Fairfield (Dunedin City),Southern,142,133,142,>950,937
+350900,Brockville,Southern,231,224,248,931,903
+351000,Wakari,Southern,255,253,261,>950,>950
+351100,Abbotsford,Southern,166,151,190,874,795
+351200,Brighton,Southern,99,98,104,>950,942
+351300,Pine Hill-Dalmore,Southern,196,187,222,883,842
+351400,Kaikorai-Bradford,Southern,71,70,72,>950,>950
+351500,Maori Hill,Southern,103,101,103,>950,>950
+351600,Roslyn (Dunedin City),Southern,164,151,173,948,873
+351700,North East Valley Chingford,Southern,134,130,149,899,872
+351800,Roseneath-Sawyers Bay,Southern,80,76,81,>950,938
+351900,Normanby,Southern,75,75,79,949,949
+352000,North East Valley Knox,Southern,209,202,216,>950,935
+352100,Belleknowes,Southern,132,127,146,904,870
+352200,Gardens (Dunedin City),Southern,286,284,279,>950,>950
+352300,Kenmure,Southern,109,101,125,872,808
+352400,Campus West,Southern,143,141,138,>950,>950
+352500,Waldronville,Southern,92,84,97,948,866
+352600,Green Island,Southern,198,178,222,892,802
+352700,Port Chalmers,Southern,89,86,96,927,896
+352800,Royal Terrace,Southern,97,97,96,>950,>950
+352900,Arthur Street,Southern,104,101,110,945,918
+353000,Opoho,Southern,72,71,76,947,934
+353100,Campus North,Southern,267,267,254,>950,>950
+353200,Campus South,Southern,188,187,179,>950,>950
+353300,Mornington,Southern,233,219,265,879,826
+353400,Dunedin Central,Southern,195,193,203,>950,>950
+353500,Maryhill,Southern,150,141,162,926,870
+353600,Ravensbourne-St Leonards,Southern,118,116,125,944,928
+353700,Harbourside,Southern,Masked,Masked,Masked,Masked,Masked
+353800,Fernhill,Southern,140,135,148,946,912
+353900,Otago Peninsula,Southern,103,101,116,888,871
+354000,Concord,Southern,107,100,111,>950,901
+354100,Calton Hill,Southern,113,111,130,869,854
+354200,Caversham,Southern,201,188,233,863,807
+354300,Hillside-Portsmouth Drive,Southern,Masked,Masked,Masked,Masked,Masked
+354400,Kew (Dunedin City),Southern,91,90,88,>950,>950
+354500,Corstorphine,Southern,138,130,153,902,850
+354600,Forbury,Southern,128,117,155,826,755
+354700,Bathgate Park,Southern,232,226,248,935,911
+354800,St Clair,Southern,124,122,126,>950,>950
+354900,Waverley,Southern,134,118,140,>950,843
+355000,Macandrew Bay-Company Bay,Southern,73,73,74,>950,>950
+355100,Broad Bay-Portobello,Southern,78,78,77,>950,>950
+355200,St Kilda South,Southern,278,261,302,921,864
+355300,Musselburgh,Southern,104,101,101,>950,>950
+355400,Shiel Hill,Southern,72,71,68,>950,>950
+355500,St Kilda North,Southern,195,185,215,907,860
+355600,Andersons Bay,Southern,137,137,141,>950,>950
+355700,Tainui,Southern,105,102,115,913,887
+355800,West Otago,Southern,143,137,163,877,840
+355900,Tuapeka,Southern,84,72,118,712,610
+356000,Clinton,Southern,66,57,91,725,626
+356100,Clutha Valley,Southern,65,65,80,812,812
+356200,Bruce,Southern,144,133,188,766,707
+356300,Catlins,Southern,88,88,87,>950,>950
+356400,Milton,Southern,258,249,284,908,877
+356500,Balclutha South,Southern,267,241,322,829,748
+356600,Balclutha North,Southern,125,118,138,906,855
+356700,Benhar-Stirling,Southern,46,45,51,902,882
+356800,Kaitangata-Matau,Southern,149,141,164,909,860
+357000,Fiordland,Southern,Masked,Masked,Masked,Masked,Masked
+357300,Mararoa,Southern,48,44,68,706,647
+357500,Te Anau,Southern,145,141,170,853,829
+357600,Whitestone,Southern,38,34,52,731,654
+357700,Mossburn,Southern,62,60,81,765,741
+357900,Longwood Forest,Southern,144,135,198,727,682
+358000,Ohai-Nightcaps,Southern,149,134,198,753,677
+358100,Riversdale-Piano Flat,Southern,80,79,81,>950,>950
+358200,Lumsden-Balfour,Southern,62,57,81,765,704
+358300,Oreti River,Southern,86,77,120,717,642
+358400,Otautau,Southern,164,154,218,752,706
+358500,Hedgehope,Southern,57,49,71,803,690
+358600,Winton,Southern,172,162,223,771,726
+358700,Waianiwa,Southern,43,39,51,843,765
+358800,Riverton,Southern,170,166,205,829,810
+358900,Wallacetown,Southern,69,67,70,>950,>950
+359000,Grove Bush,Southern,38,38,46,826,826
+359100,Edendale-Woodlands,Southern,160,143,204,784,701
+359300,Stewart Island,Southern,46,46,50,920,920
+359400,Awarua Plains,Southern,43,41,64,672,641
+359500,Wyndham-Catlins,Southern,161,160,170,947,941
+359600,Waikaka,Southern,53,47,68,779,691
+359700,Waimumu-Kaiwera,Southern,41,39,42,>950,929
+359800,Gore North,Southern,101,100,108,935,926
+359900,Gore West,Southern,188,179,201,935,891
+360000,East Gore,Southern,143,139,156,917,891
+360100,Gore Central,Southern,Masked,Masked,Masked,Masked,Masked
+360200,Gore Main,Southern,66,63,71,930,887
+360300,Gore South,Southern,54,52,74,730,703
+360400,Mataura,Southern,347,328,438,792,749
+360500,West Plains-Makarewa,Southern,134,123,162,827,759
+360600,Prestonville-Grasmere,Southern,363,334,428,848,780
+360700,Donovan Park,Southern,164,162,170,>950,>950
+360800,Myross Bush,Southern,69,61,73,945,836
+360900,Otatara,Southern,289,269,298,>950,903
+361000,Invercargill Central,Southern,155,146,176,881,830
+361100,Gladstone (Invercargill City),Southern,183,172,206,888,835
+361200,Rosedale,Southern,119,111,129,922,860
+361300,Avenal,Southern,114,105,142,803,739
+361400,Hargest,Southern,172,158,189,910,836
+361500,Windsor,Southern,261,242,292,894,829
+361600,Richmond (Invercargill City),Southern,315,306,339,929,903
+361700,Glengarry,Southern,333,306,433,769,707
+361900,Turnbull Thompson Park,Southern,235,212,290,810,731
+362000,Crinan,Southern,240,231,296,811,780
+362100,Georgetown,Southern,301,268,423,712,634
+362200,Kew (Invercargill City),Southern,284,272,328,866,829
+362300,Kennington-Tisbury,Southern,125,123,127,>950,>950
+362400,Newfield,Southern,335,324,354,946,915
+362500,Strathern,Southern,342,325,404,847,804
+362600,Elizabeth Park,Southern,188,176,201,935,876
+362700,Aurora,Southern,243,230,300,810,767
+362800,Moulson,Southern,196,191,201,>950,950
+362900,Kingswell,Southern,263,252,282,933,894
+363000,Clifton,Southern,286,263,358,799,735
+363100,Woodend-Greenhills,Southern,71,69,114,623,605
+363300,Bluff,Southern,634,609,767,827,794
+108400,Inlet Whang?rei Harbour,Northland,Masked,Masked,Masked,Masked,Masked
+113700,Riverhead Forest,Waitemata,Masked,Masked,Masked,Masked,Masked
+119300,Inlet Waitemata Harbour,Area outside District Health Board,Masked,Masked,Masked,Masked,Masked
+141400,Inlet Manukau Harbour,Area outside District Health Board,Masked,Masked,Masked,Masked,Masked
+166600,Islands Thames-Coromandel District,Waikato,Masked,Masked,Masked,Masked,Masked
+189500,Kaimanawa,Lakes,Masked,Masked,Masked,Masked,Masked
+190000,Te More,Lakes,Masked,Masked,Masked,Masked,Masked
+190700,Inlet Tauranga Harbour North,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
+233900,Mara,MidCentral,Masked,Masked,Masked,Masked,Masked
+236200,Kapiti Island,Capital and Coast,Masked,Masked,Masked,Masked,Masked
+238200,Tararua Forest Park,MidCentral,Masked,Masked,Masked,Masked,Masked
+238700,Mana Island,Capital and Coast,Masked,Masked,Masked,Masked,Masked
+246500,Towai,Hutt Valley,Masked,Masked,Masked,Masked,Masked
+258100,Three Kings Islands,Area outside District Health Board,Masked,Masked,Masked,Masked,Masked
+258900,Islands Bay of Plenty Region,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
+259800,Bare Island,Area outside District Health Board,Masked,Masked,Masked,Masked,Masked
+301900,Inlet Waimea West,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+302000,Islands Tasman District,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+303700,Inlets Nelson City,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+306400,Marlborough Sounds Coastal Marine,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
+363700,Oceanic Southland Region,Area outside District Health Board,Masked,Masked,Masked,Masked,Masked
