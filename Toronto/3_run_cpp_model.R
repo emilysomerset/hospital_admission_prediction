@@ -105,43 +105,41 @@ tmbdat <- list(
 ) 
 
 
-compile(file="./Toronto/cpp/model4_cases_admission_reparam_work.cpp")
-try(dyn.unload(dynlib("./Toronto/cpp/model4_cases_admission_reparam_work")),silent = TRUE)
-dyn.load(dynlib("./Toronto/cpp/model4_cases_admission_reparam_work"))
+compile(file="./Toronto/cpp/model4_cases_admission2.cpp")
+try(dyn.unload(dynlib("./Toronto/cpp/model4_cases_admission2")),silent = TRUE)
+dyn.load(dynlib("./Toronto/cpp/model4_cases_admission2"))
 
 tmbparams <- list(
   X = matrix(10, nrow = tmbdat$I, ncol = tmbdat$J),                   # latent infections
-  logit_pi_init = 0,                                    # logit(pi_1)
-  z_logit_pi = rep(0, tmbdat$J - 1),                           # RW std normal increments
+  logit_pi = rep(0, tmbdat$J ),                           # RW std normal increments
   psi_p = log(0.5),                                     # log sd of pi RW
   
   C_raw = rep(1.5, tmbdat$I * (tmbdat$I + 1) / 2),                    # symmetric contact matrix
   
   tau_logit = matrix(-2, nrow = tmbdat$I, ncol = tmbdat$J),           # logit(tau_ij)
-  psi_tau = log(0.5),                                   # log sd of tau AR(1)
-  rho = 0.5                                             # AR(1) correlation
+  psi_tau = log(0.5)                                   # log sd of tau AR(1)
 )
 
 
 ff <- TMB::MakeADFun(
   data = tmbdat,
   parameters = tmbparams,
-  random = c("X", "z_logit_pi", "tau_logit"),
-  DLL = "model4_cases_admission_reparam_work",
+  random = c("X", "logit_pi", "tau_logit"),
+  DLL = "model4_cases_admission2",
   silent = TRUE
 )
 
-aghq_k = 10
+aghq_k =3
 
-mdl1 <- aghq::marginal_laplace_tmb(ff,k=aghq_k,startingvalue = startingvalue <- c(
-  0,             # logit_pi_init
-  log(0.5),      # psi_p
-  rep(1.5, 3),  # C_raw
-  log(0.5),      # psi_tau
-  0.5            # rho
+mdl1 <- aghq::marginal_laplace_tmb(ff,k=aghq_k,startingvalue = c(
+  1,      # psi_p
+  c(1,0,1),  # C_raw
+  1      # psi_tau
 ))
+
 samps1 <- aghq::sample_marginal(mdl1, M = 500) 
 
+hist(samps1$thetasamples[[1]])
 
 
 

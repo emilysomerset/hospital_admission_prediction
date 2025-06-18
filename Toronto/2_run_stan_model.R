@@ -239,12 +239,80 @@ fit <- sampling(sm, data = stan_data,
 
 
 
+sm <- stan_model("./Toronto/Stan models/model4_cases_admissions_nonnormalapprox.stan")
+
+init_fun <- function() {
+  list(
+    X = pmax(matrix(rpois(stan_data$I * stan_data$J, lambda = 2 * max(stan_data$Y)), stan_data$I, stan_data$J), stan_data$Y + 1),
+    logit_pi_init = 0,
+    z_logit_pi = rep(0, stan_data$J - 1),
+    psi_p = 0.1,
+    C_raw = rep(1, stan_data$I * (stan_data$I + 1) / 2),
+    tau_logit = matrix(-2, stan_data$I, stan_data$J),
+    psi_tau = 0.1
+  )
+}
+
+fit <- sampling(sm, data = stan_data,
+                chains = 4, iter = 10000, warmup = 5000, cores= 4,
+                init = init_fun)
+
+
+
+sm <- stan_model("./Toronto/Stan models/model4_cases_hosp_nonnormalapprox.stan")
+
+stan_data <- list(
+  J = nrow(case_age_matrix2),
+  I = ncol(case_age_matrix2[,-1]),
+  
+  # Infection model  
+  Y = as.matrix(case_age_matrix2[,-1]) %>% t(),
+  ratio = ratio[1:56],
+  mean_X0 = init*2,
+  # sd_X0 = c(200,50,20,3), 
+  sd_X0 = c(100, 10),
+  phi_p = -log(0.5) / 1,
+  
+  # Hospital 
+  H = as.matrix(hosp_age_matrix2[,-1]) %>% t(),
+  phi_tau = -log(0.5)/1,
+  K=3,
+  A_tot = case_merged_age %>% group_by(earliest_week_end_date) %>% slice(1) %$% hospitalized_cases
+) 
+
+
+init_fun <- function() {
+  list(
+    X = pmax(matrix(rpois(stan_data$I * stan_data$J, lambda = 2 * max(stan_data$Y)), stan_data$I, stan_data$J), stan_data$Y + 1),
+    logit_pi_init = 0,
+    z_logit_pi = rep(0, stan_data$J - 1),
+    psi_p = 0.1,
+    C_raw = rep(1, stan_data$I * (stan_data$I + 1) / 2),
+    tau_logit = matrix(-2, stan_data$I, stan_data$J),
+    psi_tau = 0.1,
+    A = as.matrix(adm_age_matrix2[,-1]) %>% t()
+  )
+}
+
+fit <- sampling(sm, data = stan_data,
+                chains = 4, iter = 10000, warmup = 5000, cores= 4, init=init_fun)
+
 summary(fit)$summary %>%
   as.data.frame() %>%
   arrange(desc(Rhat)) 
 
-mcmc_trace(as.array(fit), pars = "X_total[39]")
-mcmc_trace(as.array(fit), pars = "C[2,2]")
+
+summary(fit)$summary %>%
+  as.data.frame() %>% 
+  filter(grepl("theta", rownames(.)))
+
+mcmc_trace(as.array(fit), pars = c("X[1,44]","X[2,44]"))+ 
+  ggplot2::facet_wrap(~parameter, scales = "free_y")
+mcmc_trace(as.array(fit), pars = "p[2,29,1]")
+mcmc_trace(as.array(fit), pars = "X_total[48]")
+stan_data$Y[2,29]
+
+mcmc_scatter(as.array(fit),pars = c("p[1,44,1]","A[1,44]"), transformations = "log")
 
 mcmc_trace(as.array(fit), pars = "tau[2,30]")
 
@@ -260,6 +328,7 @@ X
 
 
 # Extract samples
+psi_p_samples <- rstan::extract(fit, pars = "psi_p")$psi_p  # array of dim [iterations, I, J]
 X_samples <- rstan::extract(fit, pars = "X")$X  # array of dim [iterations, I, J]
 p_samples <- rstan::extract(fit, pars = "p")$p  # array of dim [iterations, I, J]
 X_tot_samples <- rstan::extract(fit, pars = "X_total")$X  # array of dim [iterations, I, J]
